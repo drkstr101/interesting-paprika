@@ -375,7 +375,7 @@ sections:
           could be motivation, At the office, working together is often a
           distruction, on remote, it could be motivation, At the office, working
           together is often a distruction, on remote, it could be motivation
-      - question: On-call technical support
+      - question: On-call technical support & staff augmentation
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
