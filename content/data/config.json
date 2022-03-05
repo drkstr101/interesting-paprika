@@ -165,5 +165,11 @@
         }
     },
     "titleSuffix": "Watheia Labs",
-    "defaultSocialImage": "/images/wa-card@4x.png"
+    "defaultSocialImage": "/images/wa-card@4x.png",
+    "defaultMetaTags": [
+        {
+            "property": "og:title",
+            "content": ""
+        }
+    ]
 }
