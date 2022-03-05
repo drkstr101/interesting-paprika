@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Watheia Labs
-    subtitle: 'One platform, one community.'
+    subtitle: A capabilities test of the modern web
     actions:
       - type: Button
         label: Get Started
