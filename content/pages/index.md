@@ -64,7 +64,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        url: /
+        url: /a
         style: primary
       - type: Link
         label: Watch Video
