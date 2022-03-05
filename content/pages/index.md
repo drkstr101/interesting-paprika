@@ -421,7 +421,7 @@ sections:
     type: FaqSection
     actions:
       - altText: ''
-        url: /faq
+        url: /support
         showIcon: true
         icon: arrowRight
         iconPosition: right
