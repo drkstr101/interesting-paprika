@@ -459,7 +459,7 @@ sections:
         textAlign: left
     type: TestimonialsSection
   - type: ContactSection
-    colors: colors-d
+    colors: colors-c
     backgroundSize: inset
     title: Get early access
     text: >
