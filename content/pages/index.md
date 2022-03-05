@@ -428,7 +428,7 @@ sections:
         elementId: ''
         type: Link
         label: See all
-    subtitle: We're available
+    subtitle: We're available for
   - elementId: ''
     colors: colors-a
     variant: variant-a
