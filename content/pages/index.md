@@ -427,7 +427,7 @@ sections:
         iconPosition: right
         elementId: ''
         type: Link
-        label: 'Hire '
+        label: Hire Us
     subtitle: We would love to hear from you!
   - elementId: ''
     colors: colors-a
