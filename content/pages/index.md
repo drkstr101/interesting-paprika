@@ -170,7 +170,7 @@ sections:
     imageSizePx: 240
     type: MediaGallerySection
   - colors: colors-a
-    elementId: ''
+    elementId: featured
     title: Remote doesn’t mean alone. Here are so great features
     subtitle: >-
       These are all excellent features that will provide exactly the things
