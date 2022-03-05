@@ -428,7 +428,7 @@ sections:
         label: Hire Us
     subtitle: We would love to hear from you!
   - elementId: ''
-    colors: colors-a
+    colors: colors-h
     variant: variant-a
     testimonials:
       - quote: >
