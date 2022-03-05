@@ -428,6 +428,7 @@ sections:
         elementId: ''
         type: Link
         label: See all
+    subtitle: 'We''re '
   - elementId: ''
     colors: colors-a
     variant: variant-a
