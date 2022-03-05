@@ -110,7 +110,7 @@ sections:
     showDate: true
     title: Recent posts
     variant: variant-b
-    colors: colors-a
+    colors: colors-h
     posts:
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
