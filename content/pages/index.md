@@ -53,8 +53,8 @@ sections:
     backgroundSize: inset
     title: What is this?
     text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+      Watheia Labs is an open-source showcase of best practices on developing
+      modern, real-time serverless web applications.
     badge:
       type: Badge
       label: Case study
