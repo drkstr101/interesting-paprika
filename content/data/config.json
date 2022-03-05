@@ -69,7 +69,7 @@
     "footer": {
         "colors": "colors-c",
         "logo": {
-            "altText": "altText of the image",
+            "altText": "Watheia Labs",
             "caption": "Caption of the image",
             "elementId": "",
             "styles": {
