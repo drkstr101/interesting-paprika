@@ -104,14 +104,14 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "FAQ",
+                "url": "/faq",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
+                "label": "Blog",
+                "url": "/blog",
                 "altText": ""
             }
         ],
