@@ -21,15 +21,15 @@
             },
             {
                 "type": "Link",
-                "label": "Support",
-                "url": "/support",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "altText": "Blog",
                 "url": "/blog"
+            },
+            {
+                "type": "Link",
+                "label": "Support",
+                "url": "/support",
+                "altText": ""
             }
         ],
         "secondaryLinks": [
