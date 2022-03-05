@@ -141,7 +141,7 @@
         "legalLinks": [
             {
                 "type": "Link",
-                "label": "Source",
+                "label": "Source Code",
                 "url": "/"
             },
             {
