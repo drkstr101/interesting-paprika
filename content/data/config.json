@@ -67,7 +67,7 @@
         }
     },
     "footer": {
-        "colors": "colors-c",
+        "colors": "colors-a",
         "logo": {
             "altText": "Watheia Labs",
             "caption": "Caption of the image",
