@@ -14,7 +14,7 @@ sections:
         style: primary
       - type: Link
         label: Learn More
-        url: /
+        url: '#featured'
         showIcon: true
         icon: arrowRight
         iconPosition: right
