@@ -42,7 +42,6 @@ sections:
           isRequired: 'false'
           width: full
       submitLabel: Send Message
-    media: null
     styles:
       self:
         height: auto
