@@ -3,7 +3,7 @@
     "favicon": "/images/icon.png",
     "header": {
         "headerVariant": "variant-c",
-        "primaryColors": "colors-a",
+        "primaryColors": "colors-c",
         "secondaryColors": "colors-f",
         "isTitleVisible": false,
         "primaryLinks": [
