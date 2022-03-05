@@ -2,7 +2,7 @@
     "type": "Person",
     "firstName": "Pati",
     "lastName": "Scott",
-    "role": "Co-founder & CTO",
+    "role": "Co-owner & CTO",
     "bio": "This feature is the thing you were missing in your workflow, thank god we have it for you to use.",
     "image": {
         "type": "ImageBlock",
