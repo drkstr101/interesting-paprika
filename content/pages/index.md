@@ -66,15 +66,6 @@ sections:
         label: Get Started
         url: /auth
         style: primary
-      - label: Learn more
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
     styles:
       self:
         height: auto
