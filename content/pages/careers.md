@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Expo
 layout: PageLayout
 sections:
   - elementId: ''
@@ -37,7 +37,8 @@ sections:
   - elementId: ''
     colors: colors-h
     quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s gaps, and we go to lunch together
+      ## Being part of this team has been incredible. We’ve fill each other’s
+      gaps, and we go to lunch together
     name: Carla Rogers
     title: Someone from the team
     styles:
@@ -104,7 +105,10 @@ sections:
             title: Director of product managment
             location: San Francisco
             text: >
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown printer took a galley of
+              type and
             actions:
               - label: Apply
                 altText: Apply
@@ -121,7 +125,10 @@ sections:
             title: Head of engineering
             location: San Francisco
             text: >
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown printer took a galley of
+              type and
             actions:
               - label: Apply
                 altText: Apply
@@ -135,7 +142,10 @@ sections:
             title: Senior Backend Engineer
             location: Remote
             text: >
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown printer took a galley of
+              type and
             actions:
               - label: Apply
                 altText: Apply
@@ -152,7 +162,10 @@ sections:
             title: Sales Development Representative
             location: San Francisco
             text: >
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown printer took a galley of
+              type and
             actions:
               - label: Apply
                 altText: Apply
@@ -190,7 +203,9 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Not seeing the right role? Contact us
-    text: We might have more roles soon, and we’ll contact you if we think there might be a good match
+    text: >-
+      We might have more roles soon, and we’ll contact you if we think there
+      might be a good match
     form:
       type: FormBlock
       variant: variant-a
