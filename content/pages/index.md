@@ -109,7 +109,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-  - colors: colors-h
+  - colors: colors-d
     subtitle: Trusted by
     elementId: ''
     images:
