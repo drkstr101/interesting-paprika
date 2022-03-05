@@ -115,8 +115,9 @@ sections:
     elementId: featured
     title: Remote doesn’t mean alone. Here are so great features
     subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
+      This experiment focuses on a few primary research areas, all of which fit
+      the theme of "scalability." Scalability in regards to both development
+      costs and service provider fees.
     items:
       - type: FeaturedItem
         title: Scalable
