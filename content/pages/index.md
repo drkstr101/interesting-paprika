@@ -428,7 +428,7 @@ sections:
         elementId: ''
         type: Link
         label: See all
-    subtitle: We're here
+    subtitle: 'We''re here '
   - elementId: ''
     colors: colors-a
     variant: variant-a
