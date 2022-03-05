@@ -106,6 +106,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: FaqSection
+    subtitle: We can help!
   - elementId: ''
     showDate: true
     title: Recent posts
