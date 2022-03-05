@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Support
 layout: PageLayout
 sections:
   - colors: colors-h
