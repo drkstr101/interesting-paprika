@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-a
+    colors: colors-h
     title: Watheia Labs
     subtitle: A capabilities test of the modern web
     actions:
