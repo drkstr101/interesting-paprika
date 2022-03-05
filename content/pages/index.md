@@ -113,7 +113,7 @@ sections:
       type: ImageBlock
   - colors: colors-a
     elementId: featured
-    title: Remote doesn’t mean alone. Here are so great features
+    title: The modern web
     subtitle: This experiment focuses on a few primary research areas
     items:
       - type: FeaturedItem
