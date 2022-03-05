@@ -428,7 +428,7 @@ sections:
         elementId: ''
         type: Link
         label: See all
-    subtitle: We would love to
+    subtitle: We would love to hear from you!
   - elementId: ''
     colors: colors-a
     variant: variant-a
