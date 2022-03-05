@@ -164,5 +164,6 @@
             }
         }
     },
-    "titleSuffix": "Watheia Labs"
+    "titleSuffix": "Watheia Labs",
+    "defaultSocialImage": "/images/wa-card@4x.png"
 }
