@@ -9,7 +9,7 @@ import { ComponentType } from 'react';
  * is bundled only when used.
  */
 export function getComponent(key: string): ComponentType {
-    return components[key];
+  return components[key];
 }
 
 /**
@@ -30,32 +30,32 @@ export function getComponent(key: string): ComponentType {
  *     return <Section {...section} />;
  */
 const components = {
-    'CheckboxFormControl': dynamic(() => import('./molecules/FormBlock/CheckboxFormControl')),
-    'ContactSection': dynamic(() => import('./sections/ContactSection')),
-    'CtaSection': dynamic(() => import('./sections/CtaSection')),
-    'EmailFormControl': dynamic(() => import('./molecules/FormBlock/EmailFormControl')),
-    'FaqSection': dynamic(() => import('./sections/FaqSection')),
-    'FeatureHighlightSection': dynamic(() => import('./sections/FeatureHighlightSection')),
-    'FeaturedItem': dynamic(() => import('./sections/FeaturedItemsSection/FeaturedItem')),
-    'FeaturedItemsSection': dynamic(() => import('./sections/FeaturedItemsSection')),
-    'FeaturedPeopleSection': dynamic(() => import('./sections/FeaturedPeopleSection')),
-    'FormBlock': dynamic(() => import('./molecules/FormBlock')),
-    'HeroSection': dynamic(() => import('./sections/HeroSection')),
-    'ImageBlock': dynamic(() => import('./molecules/ImageBlock')),
-    'JobsSection': dynamic(() => import('./sections/JobsSection')),
-    'MediaGallerySection': dynamic(() => import('./sections/MediaGallerySection')),
-    'PostFeedSection': dynamic(() => import('./sections/PostFeedSection')),
-    'FeaturedPostsSection': dynamic(() => import('./sections/FeaturedPostsSection')),
-    'RecentPostsSection': dynamic(() => import('./sections/RecentPostsSection')),
-    'QuoteSection': dynamic(() => import('./sections/QuoteSection')),
-    'SelectFormControl': dynamic(() => import('./molecules/FormBlock/SelectFormControl')),
-    'TestimonialsSection': dynamic(() => import('./sections/TestimonialsSection')),
-    'TextareaFormControl': dynamic(() => import('./molecules/FormBlock/TextareaFormControl')),
-    'TextFormControl': dynamic(() => import('./molecules/FormBlock/TextFormControl')),
-    'TextSection': dynamic(() => import('./sections/TextSection')),
-    'VideoBlock': dynamic(() => import('./molecules/VideoBlock')),
-    'PageLayout': dynamic(() => import('./layouts/PageLayout')),
-    'PostLayout': dynamic(() => import('./layouts/PostLayout')),
-    'PostFeedLayout': dynamic(() => import('./layouts/PostFeedLayout')),
-    'PostFeedCategoryLayout': dynamic(() => import('./layouts/PostFeedCategoryLayout'))
+  CheckboxFormControl: dynamic(() => import('./molecules/FormBlock/CheckboxFormControl')),
+  ContactSection: dynamic(() => import('./sections/ContactSection')),
+  CtaSection: dynamic(() => import('./sections/CtaSection')),
+  EmailFormControl: dynamic(() => import('./molecules/FormBlock/EmailFormControl')),
+  FaqSection: dynamic(() => import('./sections/FaqSection')),
+  FeatureHighlightSection: dynamic(() => import('./sections/FeatureHighlightSection')),
+  FeaturedItem: dynamic(() => import('./sections/FeaturedItemsSection/FeaturedItem')),
+  FeaturedItemsSection: dynamic(() => import('./sections/FeaturedItemsSection')),
+  FeaturedPeopleSection: dynamic(() => import('./sections/FeaturedPeopleSection')),
+  FormBlock: dynamic(() => import('./molecules/FormBlock')),
+  HeroSection: dynamic(() => import('./sections/HeroSection')),
+  ImageBlock: dynamic(() => import('./molecules/ImageBlock')),
+  JobsSection: dynamic(() => import('./sections/JobsSection')),
+  MediaGallerySection: dynamic(() => import('./sections/MediaGallerySection')),
+  PostFeedSection: dynamic(() => import('./sections/PostFeedSection')),
+  FeaturedPostsSection: dynamic(() => import('./sections/FeaturedPostsSection')),
+  RecentPostsSection: dynamic(() => import('./sections/RecentPostsSection')),
+  QuoteSection: dynamic(() => import('./sections/QuoteSection')),
+  SelectFormControl: dynamic(() => import('./molecules/FormBlock/SelectFormControl')),
+  TestimonialsSection: dynamic(() => import('./sections/TestimonialsSection')),
+  TextareaFormControl: dynamic(() => import('./molecules/FormBlock/TextareaFormControl')),
+  TextFormControl: dynamic(() => import('./molecules/FormBlock/TextFormControl')),
+  TextSection: dynamic(() => import('./sections/TextSection')),
+  VideoBlock: dynamic(() => import('./molecules/VideoBlock')),
+  PageLayout: dynamic(() => import('./layouts/PageLayout')),
+  PostLayout: dynamic(() => import('./layouts/PostLayout')),
+  PostFeedLayout: dynamic(() => import('./layouts/PostFeedLayout')),
+  PostFeedCategoryLayout: dynamic(() => import('./layouts/PostFeedCategoryLayout'))
 };
