@@ -111,7 +111,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-  - colors: colors-a
+  - colors: colors-h
     elementId: featured
     title: The modern web
     subtitle: This experiment focuses on a few primary research areas
