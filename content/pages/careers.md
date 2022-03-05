@@ -94,7 +94,7 @@ sections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
-  - colors: colors-a
+  - colors: colors-h
     elementId: ''
     title: Open roles
     jobLists:
