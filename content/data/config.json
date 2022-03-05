@@ -90,7 +90,7 @@
             "address": "312 Lovely Street, NY",
             "addressAltText": "Our address"
         },
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "copyrightText": "Copyright © 2022 Watheia Labs, LLC. All rights reserved.\n",
         "primaryLinks": [
             {
                 "type": "Link",
