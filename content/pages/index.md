@@ -149,7 +149,7 @@ sections:
           Learn how top tech companies have learned working remote using our
           product.
         featuredImage:
-          url: /images/smarter.svg
+          url: /images/lock_black_48dp.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
