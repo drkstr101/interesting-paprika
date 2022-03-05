@@ -316,7 +316,7 @@ sections:
         justifyContent: flex-start
     type: FeatureHighlightSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-h
     variant: variant-b
     title: >-
       We sometimes write things. You should read it, it might shed some light on
