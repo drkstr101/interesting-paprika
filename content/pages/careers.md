@@ -62,7 +62,7 @@ sections:
         textAlign: center
     type: QuoteSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-h
     images:
       - type: ImageBlock
         url: /images/careers.jpg
