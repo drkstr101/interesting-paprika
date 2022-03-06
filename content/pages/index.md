@@ -357,6 +357,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedPostsSection
     showDate: true
+    showAuthor: true
   - colors: colors-f
     elementId: ''
     title: Need Support?
