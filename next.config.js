@@ -1,4 +1,3 @@
-const { BASE_PATH } = process.env;
 const sourcebit = require('sourcebit');
 const sourcebitConfig = require('./sourcebit.js');
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
@@ -8,8 +7,6 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 sourcebit.fetch(sourcebitConfig);
 
 module.exports = withBundleAnalyzer({
-  basePath: BASE_PATH,
-  assetPrefix: BASE_PATH,
   trailingSlash: true,
   experimental: {
     // Prefer loading of ES Modules over CommonJS
