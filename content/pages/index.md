@@ -427,7 +427,7 @@ sections:
         elementId: ''
         type: Link
         label: Hire Us
-    subtitle: We would love to hear from you!
+    subtitle: We're here to help!
   - elementId: ''
     colors: colors-h
     variant: variant-a
