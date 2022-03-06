@@ -1,21 +1,20 @@
-import * as React from 'react';
-import { useState } from 'react';
 import classNames from 'classnames';
 import Markdown from 'markdown-to-jsx';
-
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import * as React from 'react';
+import { useState } from 'react';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import Action from '../../atoms/Action';
 import ChevronIcon from '../../svgs/chevron-right';
 
-export default function FaqSection(props) {
+export default function SupportSection(props) {
   const cssId = props.elementId || null;
   const colors = props.colors || 'colors-a';
   const styles = props.styles || {};
   const sectionWidth = styles.self?.width || 'wide';
   const sectionHeight = styles.self?.height || 'auto';
   const sectionJustifyContent = styles.self?.justifyContent || 'center';
-  const faqItems = props.items || [];
+  const supportItems = props.items || [];
   const actions = props.actions || [];
   return (
     <div
@@ -24,7 +23,7 @@ export default function FaqSection(props) {
       className={classNames(
         'sb-component',
         'sb-component-section',
-        'sb-component-faq-section',
+        'sb-component-support-section',
         colors,
         'flex',
         'flex-col',
@@ -43,8 +42,8 @@ export default function FaqSection(props) {
       <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
         <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
           <div className="flex flex-wrap">
-            {(props.title || props.subtitle || actions.length > 0) && (
-              <div className={classNames('w-full', { 'lg:w-1/3 lg:pr-3': faqItems.length > 0 })}>
+            {(props.title || props.subtitle || props.content || actions.length > 0) && (
+              <div className={classNames('w-full', { 'lg:w-1/3 lg:pr-3': supportItems.length > 0 })}>
                 {props.title && (
                   <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
@@ -64,6 +63,19 @@ export default function FaqSection(props) {
                   >
                     {props.subtitle}
                   </p>
+                )}
+                {props.content && (
+                  <Markdown
+                    options={{ forceBlock: true, forceWrapper: true }}
+                    className={classNames(
+                      'sb-markdown',
+                      'mt-3',
+                      props?.styles?.content ? mapStyles(props?.styles?.content) : null
+                    )}
+                    data-sb-field-path=".content"
+                  >
+                    {props.content}
+                  </Markdown>
                 )}
                 {actions.length > 0 && (
                   <div
@@ -94,15 +106,15 @@ export default function FaqSection(props) {
                 )}
               </div>
             )}
-            {faqItems.length > 0 && (
+            {supportItems.length > 0 && (
               <div
                 className={classNames('w-full', {
                   'mt-12 lg:mt-0 lg:w-2/3 lg:pl-3': props.title || props.subtitle || actions.length > 0
                 })}
                 data-sb-field-path=".items"
               >
-                {faqItems.map((item, index) => (
-                  <FaqItem key={index} {...item} data-sb-field-path={`.${index}`} />
+                {supportItems.map((item, index) => (
+                  <SupportItem key={index} {...item} data-sb-field-path={`.${index}`} />
                 ))}
               </div>
             )}
@@ -113,11 +125,11 @@ export default function FaqSection(props) {
   );
 }
 
-function FaqItem(props) {
+function SupportItem(props) {
   const [isActive, setIsActive] = useState(false);
   return (
     <div
-      className="sb-faq-section-item border-b border-current pb-8 mb-8"
+      className="sb-support-section-item border-b border-current pb-8 mb-8"
       data-sb-field-path={props['data-sb-field-path']}
     >
       {props.question && (

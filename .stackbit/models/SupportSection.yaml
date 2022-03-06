@@ -1,6 +1,6 @@
 type: object
-name: FaqSection
-label: FAQ
+name: SupportSection
+label: Support
 labelField: title
 thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
 extends:
@@ -16,11 +16,21 @@ fields:
   - type: string
     name: title
     label: Title
-    default: Frequently Asked Questions
+    default: Get Support
   - type: string
     name: subtitle
     label: Subtitle
     default: The section subtitle
+  - type: markdown
+    name: content
+    label: Content
+    default: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu eros pulvinar lorem blandit mattis.
+      Fusce placerat, nisl sit amet fringilla tincidunt, nibh risus pellentesque dui, ac vulputate quam felis
+      lobortis dolor. Duis accumsan arcu nec elit tincidunt, convallis efficitur felis rhoncus. Nulla gravida
+      libero lacinia nulla mattis condimentum. In hac habitasse platea dictumst. Duis cursus scelerisque orci,
+      vitae congue justo cursus sed. Praesent elementum urna vel est sollicitudin congue. Aenean non convallis
+      tortor. Sed
   - type: list
     name: actions
     label: Actions
@@ -31,7 +41,7 @@ fields:
         - Link
     default:
       - type: Link
-        label: See all
+        label: Get Support
         url: '/'
         showIcon: true
         icon: arrowRight
@@ -41,7 +51,7 @@ fields:
     items:
       type: model
       models:
-        - FaqItem
+        - SupportItem
     default:
       - question: How is this different from what we have today?
         answer: At the office, working together is often a distruction, on remote, it could be motivation. At the office, working together is often a distruction, on remote, it could be motivation. At the office, working together is often a distruction, on remote, it could be motivation.

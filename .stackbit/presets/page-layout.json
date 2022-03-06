@@ -443,7 +443,7 @@
             }
           },
           {
-            "type": "FaqSection",
+            "type": "SupportSection",
             "colors": "colors-f",
             "title": "Need Answers?",
             "subtitle": "",
@@ -575,13 +575,13 @@
       }
     },
     {
-      "label": "FAQ",
-      "thumbnail": "images/page-faq.png",
+      "label": "Support",
+      "thumbnail": "images/page-support.png",
       "data": {
-        "title": "FAQ",
+        "title": "Support",
         "sections": [
           {
-            "type": "FaqSection",
+            "type": "SupportSection",
             "colors": "colors-a",
             "title": "Need Answers?",
             "subtitle": "",

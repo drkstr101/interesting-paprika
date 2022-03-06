@@ -105,7 +105,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: FaqSection
+    type: SupportSection
     subtitle: We can help!
   - elementId: ''
     showDate: true

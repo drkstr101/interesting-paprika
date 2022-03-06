@@ -1,5 +1,5 @@
 type: object
-name: FaqItem
+name: SupportItem
 label: Item
 labelField: question
 fields:
