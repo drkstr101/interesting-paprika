@@ -9,6 +9,7 @@ clean:
 	npm cache clean --force
 
 install:
+	npm install -g npm
 	npm install
 
 build:
