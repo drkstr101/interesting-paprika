@@ -375,11 +375,11 @@ sections:
           distruction, on remote, it could be motivation, At the office, working
           together is often a distruction, on remote, it could be motivation
       - question: On-demand training & technical support
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          Digital on-demand training defines the future of corporate learning.
+          Not only is instructor-led training costly, but it also leads to poor
+          retention. On-demand training is a learning strategy that enables
+          students to learn at a time, place, and level of their choosing.
       - question: 'Branding, UI/UX, & design systems'
         answer: >-
           At the office, working together is often a distruction, on remote, it
