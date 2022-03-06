@@ -363,11 +363,11 @@ sections:
     title: Need Support?
     items:
       - question: Full-cycle software development
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          Our specialty is full-cycle software development, where you bring an
+          idea for a new product or feature to us, and we work with you, your
+          users, and domain experts to make your vision a reality. We prioritize
+          making the right thing, over making the thing right.
       - question: Strategic and tactical IT consulting
         answer: >-
           At the office, working together is often a distruction, on remote, it
