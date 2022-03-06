@@ -1,13 +1,13 @@
 {
-  "model": "FaqSection",
+  "model": "SupportSection",
   "presets": [
     {
-      "label": "FAQ light - wide",
-      "thumbnail": "images/faq-light-wide.png",
+      "label": "Support light - wide",
+      "thumbnail": "images/support-light-wide.png",
       "data": {
         "colors": "colors-h",
         "elementId": "",
-        "title": "Need Answers?",
+        "title": "Get expert support",
         "items": [
           {
             "question": "How is this different from what we have today?",
@@ -43,16 +43,16 @@
             "textAlign": "left"
           }
         },
-        "type": "FaqSection"
+        "type": "SupportSection"
       }
     },
     {
-      "label": "FAQ dark - wide",
-      "thumbnail": "images/faq-dark-wide.png",
+      "label": "Support dark - wide",
+      "thumbnail": "images/support-dark-wide.png",
       "data": {
         "colors": "colors-f",
         "elementId": "",
-        "title": "Need Answers?",
+        "title": "Get expert support",
         "subtitle": "We are here to help",
         "items": [
           {
@@ -89,7 +89,7 @@
             "textAlign": "left"
           }
         },
-        "type": "FaqSection"
+        "type": "SupportSection"
       }
     }
   ]
