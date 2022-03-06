@@ -172,6 +172,10 @@
         {
             "property": "og:description",
             "content": "A capabilities test for the modern web"
+        },
+        {
+            "property": "og:title",
+            "content": ""
         }
     ]
 }
