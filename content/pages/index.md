@@ -357,6 +357,7 @@ sections:
     showDate: true
     showAuthor: true
     showExcerpt: true
+    subtitle: 'Musings on technology, design, business & more'
   - colors: colors-f
     elementId: ''
     title: Need Support?
