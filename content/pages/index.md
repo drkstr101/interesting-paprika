@@ -427,7 +427,6 @@ sections:
         elementId: ''
         type: Link
         label: Hire Us
-    subtitle: We're here to help!
   - elementId: ''
     colors: colors-h
     variant: variant-a
