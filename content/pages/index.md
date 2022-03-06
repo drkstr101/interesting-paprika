@@ -318,9 +318,7 @@ sections:
   - elementId: ''
     colors: colors-h
     variant: variant-b
-    title: >-
-      We sometimes write things. You should read it, it might shed some light on
-      why we’re doing what we’re doing
+    title: Recent posts
     actions:
       - type: Link
         label: See all posts
@@ -357,6 +355,9 @@ sections:
         justifyContent: flex-start
     type: FeaturedPostsSection
     showDate: true
+    showAuthor: true
+    showExcerpt: true
+    subtitle: 'Musings on technology, design, business & more'
   - colors: colors-f
     elementId: ''
     title: Need Support?
@@ -426,7 +427,6 @@ sections:
         elementId: ''
         type: Link
         label: Hire Us
-    subtitle: We would love to hear from you!
   - elementId: ''
     colors: colors-h
     variant: variant-a

@@ -1,163 +1,181 @@
 {
-  "type": "Config",
-  "favicon": "/images/icon.png",
-  "header": {
-    "headerVariant": "variant-c",
-    "primaryColors": "colors-c",
-    "secondaryColors": "colors-f",
-    "isTitleVisible": false,
-    "primaryLinks": [
-      {
-        "type": "Link",
-        "label": "Home",
-        "url": "/",
-        "altText": ""
-      },
-      {
-        "type": "Link",
-        "label": "Expo",
-        "url": "/expo",
-        "altText": ""
-      },
-      {
-        "type": "Link",
-        "label": "Blog",
-        "altText": "Blog",
-        "url": "/blog"
-      },
-      {
-        "type": "Link",
-        "label": "Support",
-        "url": "/support",
-        "altText": ""
-      }
-    ],
-    "secondaryLinks": [
-      {
-        "type": "Button",
-        "label": "Login",
-        "url": "/",
-        "altText": "Sign up",
-        "style": "primary"
-      }
-    ],
-    "styles": {
-      "self": {
-        "width": "narrow",
-        "padding": ["pt-5", "pb-5", "pr-4", "pl-4"]
-      }
-    },
-    "logo": {
-      "altText": "Watheia Labs",
-      "caption": "Caption of the image",
-      "elementId": "",
-      "styles": {
-        "self": {
-          "opacity": 100
+    "type": "Config",
+    "favicon": "/images/icon.png",
+    "header": {
+        "headerVariant": "variant-c",
+        "primaryColors": "colors-c",
+        "secondaryColors": "colors-f",
+        "isTitleVisible": false,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Expo",
+                "url": "/expo",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "altText": "Blog",
+                "url": "/blog"
+            },
+            {
+                "type": "Link",
+                "label": "Support",
+                "url": "/support",
+                "altText": ""
+            }
+        ],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "label": "Login",
+                "url": "/",
+                "altText": "Sign up",
+                "style": "primary"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-5",
+                    "pb-5",
+                    "pr-4",
+                    "pl-4"
+                ]
+            }
+        },
+        "logo": {
+            "altText": "Watheia Labs",
+            "caption": "Caption of the image",
+            "elementId": "",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock",
+            "url": "/images/logo-df8eda14.png"
         }
-      },
-      "type": "ImageBlock",
-      "url": "/images/logo-df8eda14.png"
-    }
-  },
-  "footer": {
-    "colors": "colors-a",
-    "logo": {
-      "altText": "Watheia Labs",
-      "caption": "Caption of the image",
-      "elementId": "",
-      "styles": {
-        "self": {
-          "opacity": 100
+    },
+    "footer": {
+        "colors": "colors-a",
+        "logo": {
+            "altText": "Watheia Labs",
+            "caption": "Caption of the image",
+            "elementId": "",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock",
+            "url": "/images/logo-alt.png"
+        },
+        "contacts": {
+            "title": "Contact details",
+            "phoneNumber": "509-491-3153",
+            "phoneAltText": "Our phone",
+            "email": "admin@watheia.io",
+            "emailAltText": "Our email",
+            "address": "Kennewick, WA",
+            "addressAltText": "Our address"
+        },
+        "copyrightText": "Copyright © 2022 Watheia Labs, LLC. All rights reserved.\n",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Expo",
+                "url": "/expo",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Support",
+                "url": "/support",
+                "altText": ""
+            }
+        ],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "/",
+                "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "/",
+                "icon": "instagram"
+            },
+            {
+                "type": "Social",
+                "altText": "Facebook",
+                "label": "Facebook",
+                "url": "/",
+                "icon": "facebook"
+            }
+        ],
+        "legalLinks": [
+            {
+                "type": "Link",
+                "label": "Source Code",
+                "url": "https://github.com/drkstr101/waweb"
+            },
+            {
+                "type": "Link",
+                "label": "Terms & Conditions",
+                "url": "/terms-and-conditions"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
+            }
         }
-      },
-      "type": "ImageBlock",
-      "url": "/images/logo-alt.png"
     },
-    "contacts": {
-      "title": "Contact details",
-      "phoneNumber": "509-491-3153",
-      "phoneAltText": "Our phone",
-      "email": "admin@watheia.io",
-      "emailAltText": "Our email",
-      "address": "Kennewick, WA",
-      "addressAltText": "Our address"
-    },
-    "copyrightText": "Copyright © 2022 Watheia Labs, LLC. All rights reserved.\n",
-    "primaryLinks": [
-      {
-        "type": "Link",
-        "label": "Home",
-        "url": "/",
-        "altText": ""
-      },
-      {
-        "type": "Link",
-        "label": "Expo",
-        "url": "/expo",
-        "altText": ""
-      },
-      {
-        "type": "Link",
-        "label": "Blog",
-        "url": "/blog",
-        "altText": ""
-      },
-      {
-        "type": "Link",
-        "label": "Support",
-        "url": "/support",
-        "altText": ""
-      }
-    ],
-    "socialLinks": [
-      {
-        "type": "Social",
-        "altText": "Twitter",
-        "label": "Twitter",
-        "url": "/",
-        "icon": "twitter"
-      },
-      {
-        "type": "Social",
-        "altText": "Instagram",
-        "label": "Instagram",
-        "url": "/",
-        "icon": "instagram"
-      },
-      {
-        "type": "Social",
-        "altText": "Facebook",
-        "label": "Facebook",
-        "url": "/",
-        "icon": "facebook"
-      }
-    ],
-    "legalLinks": [
-      {
-        "type": "Link",
-        "label": "Source Code",
-        "url": "https://github.com/drkstr101/waweb"
-      },
-      {
-        "type": "Link",
-        "label": "Terms & Conditions",
-        "url": "/terms-and-conditions"
-      }
-    ],
-    "styles": {
-      "self": {
-        "width": "narrow",
-        "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
-      }
-    }
-  },
-  "titleSuffix": "Watheia Labs",
-  "defaultSocialImage": "/images/wa-card@4x.png",
-  "defaultMetaTags": [
-    {
-      "property": "og:title",
-      "content": ""
-    }
-  ]
+    "titleSuffix": "Watheia Labs",
+    "defaultSocialImage": "/images/wa-card@4x.png",
+    "defaultMetaTags": [
+        {
+            "property": "og:title",
+            "content": ""
+        },
+        {
+            "property": "og:description",
+            "content": "A capabilities test for the modern web"
+        },
+        {
+            "property": "og:url",
+            "content": "https://watheia.io/"
+        }
+    ]
 }
