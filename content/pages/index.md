@@ -386,7 +386,7 @@ sections:
           could be motivation. At the office, working together is often a
           distruction, on remote, it could be motivation. At the office, working
           together is often a distruction, on remote, it could be motivation.
-      - question: Development operations & systems engineering
+      - question: DevOps & systems engineering
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation. At the office, working together is often a
