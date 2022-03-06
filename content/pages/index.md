@@ -427,6 +427,10 @@ sections:
         elementId: ''
         type: Link
         label: Hire Us
+    content: >+
+      As product builders, we know what it means to get great support at the
+      right time. We got you covered.
+
   - elementId: ''
     colors: colors-h
     variant: variant-a
