@@ -1,20 +1,20 @@
 {
-  "model": "JobsSection",
+  "model": "ProjectsSection",
   "presets": [
     {
-      "label": "Jobs light",
-      "thumbnail": "images/jobs-light.png",
+      "label": "Projects light",
+      "thumbnail": "images/projects-light.png",
       "data": {
         "colors": "colors-a",
         "title": "Open roles",
         "subtitle": "",
-        "jobLists": [
+        "projectLists": [
           {
-            "type": "JobList",
+            "type": "ProjectList",
             "title": "Product",
             "items": [
               {
-                "type": "JobListItem",
+                "type": "ProjectListItem",
                 "title": "Director of product management",
                 "location": "San Francisco",
                 "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
@@ -32,11 +32,11 @@
             ]
           },
           {
-            "type": "JobList",
+            "type": "ProjectList",
             "title": "Engineering",
             "items": [
               {
-                "type": "JobListItem",
+                "type": "ProjectListItem",
                 "title": "Head of engineering",
                 "location": "San Francisco",
                 "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
@@ -52,7 +52,7 @@
                 ]
               },
               {
-                "type": "JobListItem",
+                "type": "ProjectListItem",
                 "title": "Senior Backend Engineer",
                 "location": "Remote",
                 "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
@@ -70,11 +70,11 @@
             ]
           },
           {
-            "type": "JobList",
+            "type": "ProjectList",
             "title": "Sales",
             "items": [
               {
-                "type": "JobListItem",
+                "type": "ProjectListItem",
                 "title": "Sales Development Representative",
                 "location": "San Francisco",
                 "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",

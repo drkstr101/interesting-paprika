@@ -65,7 +65,7 @@ sections:
     colors: colors-h
     images:
       - type: ImageBlock
-        url: /images/careers.jpg
+        url: /images/expo.jpg
         altText: People in the meeting room
       - type: ImageBlock
         url: /images/post-2.jpg
@@ -97,11 +97,11 @@ sections:
   - colors: colors-h
     elementId: ''
     title: Open roles
-    jobLists:
-      - type: JobList
+    projectLists:
+      - type: ProjectList
         title: Product
         items:
-          - type: JobListItem
+          - type: ProjectListItem
             title: Director of product managment
             location: San Francisco
             text: >
@@ -118,10 +118,10 @@ sections:
                 iconPosition: right
                 elementId: ''
                 type: Link
-      - type: JobList
+      - type: ProjectList
         title: Engineering
         items:
-          - type: JobListItem
+          - type: ProjectListItem
             title: Head of engineering
             location: San Francisco
             text: >
@@ -138,7 +138,7 @@ sections:
                 iconPosition: right
                 elementId: ''
                 type: Link
-          - type: JobListItem
+          - type: ProjectListItem
             title: Senior Backend Engineer
             location: Remote
             text: >
@@ -155,10 +155,10 @@ sections:
                 iconPosition: right
                 elementId: ''
                 type: Link
-      - type: JobList
+      - type: ProjectList
         title: Sales
         items:
-          - type: JobListItem
+          - type: ProjectListItem
             title: Sales Development Representative
             location: San Francisco
             text: >
@@ -198,7 +198,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: center
-    type: JobsSection
+    type: ProjectsSection
   - elementId: contact-form
     colors: colors-f
     backgroundSize: inset

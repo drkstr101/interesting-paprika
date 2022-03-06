@@ -1,21 +1,21 @@
 type: object
-name: JobList
-label: Job list
+name: ProjectList
+label: Project list
 labelField: title
 fields:
   - type: string
     name: title
     label: Title
-    default: Job List Title
+    default: Project List Title
   - type: list
     name: items
     label: Items
     items:
       type: model
       models:
-        - JobListItem
+        - ProjectListItem
     default:
-      - type: JobListItem
+      - type: ProjectListItem
         title: Role Title
         location: Role location
         text: >

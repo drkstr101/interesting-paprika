@@ -1,6 +1,6 @@
 type: object
-name: JobsSection
-label: Jobs
+name: ProjectsSection
+label: Projects
 labelField: title
 thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
 extends:
@@ -22,17 +22,17 @@ fields:
     label: Subtitle
     default: The section subtitle
   - type: list
-    name: jobLists
-    label: Job lists
+    name: projectLists
+    label: Project lists
     items:
       type: model
       models:
-        - JobList
+        - ProjectList
     default:
-      - type: JobList
-        title: Job List Title
+      - type: ProjectList
+        title: Project List Title
         items:
-          - type: JobListItem
+          - type: ProjectListItem
             title: Role Title
             location: Role location
             text: >

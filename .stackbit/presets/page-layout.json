@@ -714,7 +714,7 @@
     },
     {
       "label": "Careers",
-      "thumbnail": "images/page-careers.png",
+      "thumbnail": "images/page-expo.png",
       "data": {
         "title": "Careers",
         "sections": [
@@ -788,7 +788,7 @@
             "images": [
               {
                 "type": "ImageBlock",
-                "url": "/images/careers.jpg",
+                "url": "/images/expo.jpg",
                 "caption": "Meeting room",
                 "altText": "People in the meeting room"
               },
@@ -822,17 +822,17 @@
             }
           },
           {
-            "type": "JobsSection",
+            "type": "ProjectsSection",
             "colors": "colors-a",
             "title": "Open roles",
             "subtitle": "",
-            "jobLists": [
+            "projectLists": [
               {
-                "type": "JobList",
+                "type": "ProjectList",
                 "title": "Product",
                 "items": [
                   {
-                    "type": "JobListItem",
+                    "type": "ProjectListItem",
                     "title": "Director of product management",
                     "location": "San Francisco",
                     "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
@@ -850,11 +850,11 @@
                 ]
               },
               {
-                "type": "JobList",
+                "type": "ProjectList",
                 "title": "Engineering",
                 "items": [
                   {
-                    "type": "JobListItem",
+                    "type": "ProjectListItem",
                     "title": "Head of engineering",
                     "location": "San Francisco",
                     "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
@@ -870,7 +870,7 @@
                     ]
                   },
                   {
-                    "type": "JobListItem",
+                    "type": "ProjectListItem",
                     "title": "Senior Backend Engineer",
                     "location": "Remote",
                     "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
@@ -888,11 +888,11 @@
                 ]
               },
               {
-                "type": "JobList",
+                "type": "ProjectList",
                 "title": "Sales",
                 "items": [
                   {
-                    "type": "JobListItem",
+                    "type": "ProjectListItem",
                     "title": "Sales Development Representative",
                     "location": "San Francisco",
                     "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",

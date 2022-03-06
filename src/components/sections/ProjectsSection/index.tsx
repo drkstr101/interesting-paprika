@@ -1,19 +1,19 @@
-import * as React from 'react';
 import classNames from 'classnames';
 import Markdown from 'markdown-to-jsx';
-
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import * as React from 'react';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import Action from '../../atoms/Action';
 
-export default function JobsSection(props) {
+
+export default function ProjectsSection(props) {
   const cssId = props.elementId || null;
   const colors = props.colors || 'colors-a';
   const styles = props.styles || {};
   const sectionWidth = styles.self?.width || 'wide';
   const sectionHeight = styles.self?.height || 'auto';
   const sectionJustifyContent = styles.self?.justifyContent || 'center';
-  const jobLists = props.jobLists || [];
+  const projectLists = props.projectLists || [];
   return (
     <div
       id={cssId}
@@ -21,7 +21,7 @@ export default function JobsSection(props) {
       className={classNames(
         'sb-component',
         'sb-component-section',
-        'sb-component-jobs-section',
+        'sb-component-projects-section',
         colors,
         'flex',
         'flex-col',
@@ -54,13 +54,13 @@ export default function JobsSection(props) {
               {props.subtitle}
             </p>
           )}
-          {jobLists.length > 0 && (
+          {projectLists.length > 0 && (
             <div
               className={classNames('space-y-16 lg:space-y-24', { 'mt-12 lg:mt-16': props.title || props.subtitle })}
-              data-sb-field-path=".jobLists"
+              data-sb-field-path=".projectLists"
             >
-              {jobLists.map((jobList, index) => (
-                <JobList key={index} {...jobList} data-sb-field-path={`.${index}`} />
+              {projectLists.map((projectList, index) => (
+                <ProjectList key={index} {...projectList} data-sb-field-path={`.${index}`} />
               ))}
             </div>
           )}
@@ -70,8 +70,8 @@ export default function JobsSection(props) {
   );
 }
 
-function JobList(props) {
-  const jobItems = props.items || [];
+function ProjectList(props) {
+  const projectItems = props.items || [];
   return (
     <div className="border-b border-current pb-12 lg:pb-20" data-sb-field-path={props['data-sb-field-path']}>
       {props.title && (
@@ -79,10 +79,10 @@ function JobList(props) {
           {props.title}
         </h3>
       )}
-      {jobItems.length > 0 && (
+      {projectItems.length > 0 && (
         <div className="space-y-16 lg:space-y-24" data-sb-field-path=".items">
-          {jobItems.map((jobItem, index) => (
-            <JobListItem key={index} {...jobItem} data-sb-field-path={`.${index}`} />
+          {projectItems.map((projectItem, index) => (
+            <ProjectListItem key={index} {...projectItem} data-sb-field-path={`.${index}`} />
           ))}
         </div>
       )}
@@ -90,7 +90,7 @@ function JobList(props) {
   );
 }
 
-function JobListItem(props) {
+function ProjectListItem(props) {
   const actions = props.actions || [];
   return (
     <div className="max-w-screen-sm" data-sb-field-path={props['data-sb-field-path']}>

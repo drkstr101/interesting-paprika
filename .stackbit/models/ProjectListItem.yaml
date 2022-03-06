@@ -1,5 +1,5 @@
 type: object
-name: JobListItem
+name: ProjectListItem
 label: Item
 labelField: title
 fields:
