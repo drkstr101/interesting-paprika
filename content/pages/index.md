@@ -358,6 +358,7 @@ sections:
     type: FeaturedPostsSection
     showDate: true
     showAuthor: true
+    showExcerpt: true
   - colors: colors-f
     elementId: ''
     title: Need Support?
