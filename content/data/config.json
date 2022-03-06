@@ -174,7 +174,7 @@
             "content": "A capabilities test for the modern web"
         },
         {
-            "property": "og:title",
+            "property": "og:url",
             "content": ""
         }
     ]
