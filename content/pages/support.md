@@ -111,7 +111,8 @@ sections:
     colors: colors-h
     backgroundSize: full
     title: Contact us
-    text: We look forward to hearing from you.
+    text: |
+      We look forward to working with you.
     form:
       type: FormBlock
       variant: variant-a
