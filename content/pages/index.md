@@ -57,7 +57,7 @@ sections:
       modern, real-time serverless web applications.
     badge:
       type: Badge
-      label: A Case study
+      label: A case study
       styles:
         self:
           textAlign: left
