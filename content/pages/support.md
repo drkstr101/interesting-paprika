@@ -146,7 +146,7 @@ sections:
       submitLabel: Send Message
     media:
       type: ImageBlock
-      url: /images/expo.jpg
+      url: /images/scott-graham-5fNmWej4tAA-unsplash.jpg
       altText: Contact form image
     styles:
       self:
