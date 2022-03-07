@@ -135,7 +135,7 @@ sections:
         - type: TextFormControl
           name: subject
           label: Subject
-          placeholder: 'Briefly describe '
+          placeholder: Briefly describe how
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
