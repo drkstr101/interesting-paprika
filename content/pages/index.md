@@ -446,7 +446,7 @@ sections:
   - type: ContactSection
     colors: colors-c
     backgroundSize: inset
-    title: Get early access
+    title: Watheia Realtime
     text: >
       Enabling real-time features requires an account to prevent abuse. Luckily,
       we've made this process as smooth as possible. Simply submit your email
