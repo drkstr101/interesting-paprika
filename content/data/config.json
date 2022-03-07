@@ -30,7 +30,7 @@
             {
                 "type": "Button",
                 "label": "Get Support",
-                "url": "/",
+                "url": "/contact",
                 "altText": "Sign up",
                 "style": "primary"
             }
