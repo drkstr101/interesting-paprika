@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        url: 'https://www.stackbit.com/'
+        url: '#cta'
         style: primary
       - type: Link
         label: Learn More
