@@ -136,7 +136,7 @@ sections:
           name: subject
           label: Brief subject line
           placeholder: 'EG. Contact sales, general inquiry, legal contact,  etc...'
-          isRequired: 'false'
+          isRequired: true
           width: full
         - type: CheckboxFormControl
           name: updates
