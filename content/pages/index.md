@@ -221,7 +221,7 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     colors: colors-h
-    title: 'A great feature, we’re proud of'
+    title: Domain driv
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
