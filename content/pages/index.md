@@ -64,7 +64,7 @@ sections:
     actions:
       - type: Button
         label: Get Support
-        url: '#contact'
+        url: /contact
         style: primary
     styles:
       self:
