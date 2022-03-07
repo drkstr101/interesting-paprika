@@ -31,7 +31,6 @@
                 "type": "Button",
                 "label": "Get Support",
                 "url": "/contact",
-                "altText": "Sign up",
                 "style": "primary"
             }
         ],
