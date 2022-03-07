@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        url: '#cta'
+        url: '#contact'
         style: primary
       - type: Link
         label: Learn More
