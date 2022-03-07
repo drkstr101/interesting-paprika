@@ -221,7 +221,7 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     colors: colors-h
-    title: Domain Driven Design (DDD)
+    title: Domain-Driven Design (DDD)
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
