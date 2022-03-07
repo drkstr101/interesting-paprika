@@ -221,7 +221,7 @@ sections:
       understanding of the processes and rules of the domain.
     actions:
       - type: Button
-        label: Get Started
+        label: Get Support
         url: /contact
         style: primary
         elementId: hero-main-button
