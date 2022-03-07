@@ -227,7 +227,6 @@ sections:
         elementId: hero-main-button
       - type: Link
         label: Learn More
-        url: /
         showIcon: true
         icon: arrowRight
         iconPosition: right
