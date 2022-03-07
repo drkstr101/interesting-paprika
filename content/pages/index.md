@@ -63,7 +63,7 @@ sections:
           textAlign: left
     actions:
       - type: Button
-        label: Get Started
+        label: Get Support
         url: '#contact'
         style: primary
     styles:
