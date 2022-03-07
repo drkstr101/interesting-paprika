@@ -499,5 +499,4 @@ sections:
         textAlign: center
       text:
         textAlign: center
-    elementId: se
 ---
