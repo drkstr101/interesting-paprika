@@ -29,7 +29,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Login",
+                "label": "Get Support",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
