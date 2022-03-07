@@ -3,7 +3,7 @@ title: Contact
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-h
+    colors: colors-a
     backgroundSize: full
     title: Get Support
     text: |
