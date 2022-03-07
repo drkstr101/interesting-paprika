@@ -64,7 +64,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        url: /auth
+        url: '#contact'
         style: primary
     styles:
       self:
