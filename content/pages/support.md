@@ -107,45 +107,6 @@ sections:
         justifyContent: flex-start
     type: SupportSection
     subtitle: We can help!
-  - elementId: ''
-    showDate: true
-    title: Recent posts
-    variant: variant-b
-    colors: colors-h
-    posts:
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    actions:
-      - altText: ''
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-        type: Link
-        label: See all posts
   - type: ContactSection
     colors: colors-f
     backgroundSize: inset
