@@ -1,5 +1,5 @@
 ---
-title: Support
+title: Contact
 layout: PageLayout
 sections:
   - colors: colors-h
