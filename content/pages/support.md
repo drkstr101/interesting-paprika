@@ -112,7 +112,7 @@ sections:
     backgroundSize: full
     title: Get in touch
     text: |
-      We look forward to working with you.
+      We would love to hear from you!
     form:
       type: FormBlock
       variant: variant-a
