@@ -110,7 +110,7 @@ sections:
   - elementId: ''
     colors: colors-h
     backgroundSize: full
-    title: Get in touch
+    title: Get Support
     text: |
       We would love to hear from you!
     form:
