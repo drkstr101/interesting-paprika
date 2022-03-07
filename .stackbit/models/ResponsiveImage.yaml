@@ -1,0 +1,45 @@
+type: object
+name: ResponsiveImage
+label: Asset
+readOnly: true
+fields:
+  - type: string
+    name: srcSet
+    label: Source set
+    required: True
+  - type: string
+    name: webpSrcSet
+    label: Webp set
+    required: True
+  - type: string
+    name: sizes
+    label: Image Src
+  - type: string
+    name: src
+    label: Image sizes
+    required: true
+  - type: number
+    name: width
+    label: Image width
+    description: The original width in pixels prior to any transformations
+    required: true
+  - type: number
+    name: height
+    label: Image height
+    description: The original height in pixels prior to any transformations
+    required: true
+  - type: string
+    name: aspectRatio
+    label: Aspect ratio
+    description: A number from 0 to 1 representing the aspect ratio.
+  - type: string
+    name: alt
+    label: Alt text
+  - type: string
+    name: title
+    label: Image caption
+    required: true
+  - type: string
+    name: base64
+    label: Base64 image data
+    required: true

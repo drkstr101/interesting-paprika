@@ -1,0 +1,180 @@
+{
+  "assets": [
+    {
+      "filename": "character-6.svg",
+      "width": 116,
+      "height": 125,
+      "url": "https://www.datocms-assets.com/64528/1646636866-character-6.svg",
+      "alt": null
+    },
+    {
+      "filename": "character-5.svg",
+      "width": 116,
+      "height": 125,
+      "url": "https://www.datocms-assets.com/64528/1646636864-character-5.svg",
+      "alt": null
+    },
+    {
+      "filename": "character-4.svg",
+      "width": 116,
+      "height": 125,
+      "url": "https://www.datocms-assets.com/64528/1646636862-character-4.svg",
+      "alt": null
+    },
+    {
+      "filename": "character-3.svg",
+      "width": 116,
+      "height": 125,
+      "url": "https://www.datocms-assets.com/64528/1646636860-character-3.svg",
+      "alt": null
+    },
+    {
+      "filename": "character-2.svg",
+      "width": 116,
+      "height": 125,
+      "url": "https://www.datocms-assets.com/64528/1646636857-character-2.svg",
+      "alt": null
+    },
+    {
+      "filename": "character-1.svg",
+      "width": 116,
+      "height": 125,
+      "url": "https://www.datocms-assets.com/64528/1646636856-character-1.svg",
+      "alt": null
+    },
+    {
+      "filename": "support-hero-strips.svg",
+      "width": 1920,
+      "height": 668,
+      "url": "https://www.datocms-assets.com/64528/1646636854-support-hero-strips.svg",
+      "alt": null
+    },
+    {
+      "filename": "support-hero-bg.svg",
+      "width": 1920,
+      "height": 671,
+      "url": "https://www.datocms-assets.com/64528/1646636851-support-hero-bg.svg",
+      "alt": null
+    },
+    {
+      "filename": "sphere-enterprise.png",
+      "width": 565,
+      "height": 690,
+      "url": "https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png",
+      "alt": null,
+      "responsiveImage": {
+        "srcSet": "https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?dpr=0.25 141w,https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?dpr=0.5 282w,https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?dpr=0.75 423w,https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png 565w",
+        "webpSrcSet": "https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?dpr=0.25&fm=webp 141w,https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?dpr=0.5&fm=webp 282w,https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?dpr=0.75&fm=webp 423w,https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?fm=webp 565w",
+        "sizes": "(max-width: 565px) 100vw, 565px",
+        "src": "https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png",
+        "width": 565,
+        "height": 690,
+        "aspectRatio": "0.8188405797101449",
+        "alt": null,
+        "title": null,
+        "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLChMXDhgVDg0ODiAVDRUPFxgbGCIWFiEdHysjHR0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDglIig7OzsvNS81Ly8vNS81NC8vNS8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABkAFAMBIgACEQEDEQH/xAAaAAABBQEAAAAAAAAAAAAAAAAFAAEDBAcG/8QAIBAAAgICAQUBAAAAAAAAAAAAAAEDBAIRBRMhMTNREv/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAP/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIDEQQSIf/aAAwDAQACEQMRAD8A2GebGLBtsghux5dmwVyNiRRsD1rkrm1t+S+vi9o6LTteth9EBo583ghyN1ehpPydNOLsDKfHL970Hr/oKlPyaxtkosaQ6raWhFpiJHNhh//Z"
+      }
+    },
+    {
+      "filename": "particles-form.svg",
+      "width": 692,
+      "height": 657,
+      "url": "https://www.datocms-assets.com/64528/1646636846-particles-form.svg",
+      "alt": null
+    },
+    {
+      "filename": "particles.svg",
+      "width": 1044,
+      "height": 1250,
+      "url": "https://www.datocms-assets.com/64528/1646636844-particles.svg",
+      "alt": null
+    },
+    {
+      "filename": "hero-enterprise.svg",
+      "width": 444,
+      "height": 533,
+      "url": "https://www.datocms-assets.com/64528/1646636842-hero-enterprise.svg",
+      "alt": null
+    },
+    {
+      "filename": "graphs-enterprise.svg",
+      "width": 755,
+      "height": 768,
+      "url": "https://www.datocms-assets.com/64528/1646636841-graphs-enterprise.svg",
+      "alt": null
+    },
+    {
+      "filename": "support-circuits-bg.svg",
+      "width": 1420,
+      "height": 1420,
+      "url": "https://www.datocms-assets.com/64528/1646636839-support-circuits-bg.svg",
+      "alt": null
+    },
+    {
+      "filename": "spray-bg.svg",
+      "width": 1595,
+      "height": 1131,
+      "url": "https://www.datocms-assets.com/64528/1646636837-spray-bg.svg",
+      "alt": null
+    },
+    {
+      "filename": "vendor.svg",
+      "width": 50,
+      "height": 50,
+      "url": "https://www.datocms-assets.com/64528/1646636835-vendor.svg",
+      "alt": null
+    },
+    {
+      "filename": "slack-integration.png",
+      "width": 1240,
+      "height": 700,
+      "url": "https://www.datocms-assets.com/64528/1646636830-slack-integration.png",
+      "alt": null,
+      "responsiveImage": {
+        "srcSet": "https://www.datocms-assets.com/64528/1646636830-slack-integration.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636830-slack-integration.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636830-slack-integration.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636830-slack-integration.png 1240w",
+        "webpSrcSet": "https://www.datocms-assets.com/64528/1646636830-slack-integration.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636830-slack-integration.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636830-slack-integration.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636830-slack-integration.png?fm=webp 1240w",
+        "sizes": "(max-width: 1240px) 100vw, 1240px",
+        "src": "https://www.datocms-assets.com/64528/1646636830-slack-integration.png",
+        "width": 1240,
+        "height": 700,
+        "aspectRatio": "1.7714285714285714",
+        "alt": null,
+        "title": null,
+        "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLChYPDhgZFg0ZERIQDREPFx0gGBYTFiEaNysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFhAQHC8oIhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAZAAABBQAAAAAAAAAAAAAAAAAGAAECAwX/xAAbEAACAwEBAQAAAAAAAAAAAAABAwACBAURIf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAQIh/9oADAMBAAIRAxEAPwAt5XaD2D5C7NpF1iD2bjIz2Bp5N/IgCnkUledXXeIpB6xWNAL/2Q=="
+      }
+    },
+    {
+      "filename": "process-2.svg",
+      "width": 3689,
+      "height": 1522,
+      "url": "https://www.datocms-assets.com/64528/1646636819-process-2.svg",
+      "alt": null
+    },
+    {
+      "filename": "private.svg",
+      "width": 50,
+      "height": 50,
+      "url": "https://www.datocms-assets.com/64528/1646636817-private.svg",
+      "alt": null
+    },
+    {
+      "filename": "playground.png",
+      "width": 1240,
+      "height": 700,
+      "url": "https://www.datocms-assets.com/64528/1646636814-playground.png",
+      "alt": null,
+      "responsiveImage": {
+        "srcSet": "https://www.datocms-assets.com/64528/1646636814-playground.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636814-playground.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636814-playground.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636814-playground.png 1240w",
+        "webpSrcSet": "https://www.datocms-assets.com/64528/1646636814-playground.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636814-playground.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636814-playground.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636814-playground.png?fm=webp 1240w",
+        "sizes": "(max-width: 1240px) 100vw, 1240px",
+        "src": "https://www.datocms-assets.com/64528/1646636814-playground.png",
+        "width": 1240,
+        "height": 700,
+        "aspectRatio": "1.7714285714285714",
+        "alt": null,
+        "title": null,
+        "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLFgoLDhkSGhUNGhUNEhEVIx8ZHRYVFhUaHysjHR0oHRUaJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OEA0QEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAFBgADB//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAAgMEBTERE0H/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANYy8vVQeUo4i+TdI49TlkIRNVLXaQKpioY5y4b5Uh9lgOiBUVYjDWAKJL//2Q=="
+      }
+    }
+  ]
+}

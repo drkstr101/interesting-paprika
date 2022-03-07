@@ -1,0 +1,36 @@
+type: object
+name: MediaAsset
+label: Asset
+readOnly: true
+fields:
+  - type: string
+    name: filename
+    label: Filename
+    description: The full filename of the image, including extension
+    required: True
+  - type: string
+    name: alt
+    label: Alt text
+    description: The alt text of the image
+    default: altText of the image
+  - type: string
+    name: url
+    label: Image URL
+    description: A fully qualified URI to the original file
+    default: Caption of the image
+  - type: number
+    name: width
+    label: Image width
+    description: The original width in pixels prior to any transformations
+    required: true
+  - type: number
+    name: height
+    label: Image height
+    description: The original height in pixels prior to any transformations
+    required: true
+  - type: model
+    name: responsiveImage
+    label: Responsive image data
+    description: Detailed breakdown of alternate image sources
+    models: [ResponsiveImage]
+    required: false
