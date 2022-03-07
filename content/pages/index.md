@@ -230,6 +230,7 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
+        url: '#'
     media:
       type: ImageBlock
       url: /images/hero-1.png
