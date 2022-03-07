@@ -110,7 +110,7 @@ sections:
   - elementId: ''
     colors: colors-h
     backgroundSize: full
-    title: Contact us
+    title: Get in touch
     text: |
       We look forward to working with you.
     form:
