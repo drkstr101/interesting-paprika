@@ -30,20 +30,17 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    text: >+
-      # Terms and Conditions
-
-
+    text: >
       Last updated: March 7, 2022
 
 
       Please read these terms and conditions carefully before using Our Service.
 
 
-      # Interpretation and Definitions
+      ## Interpretation and Definitions
 
 
-      ## Interpretation
+      #### Interpretation
 
 
       The words of which the initial letter is capitalized have meanings defined
@@ -54,7 +51,7 @@ sections:
       meaning regardless of whether they appear in singular or in plural.
 
 
-      ## Definitions
+      #### Definitions
 
 
       For the purposes of these Terms and Conditions:
@@ -114,7 +111,7 @@ sections:
           or other legal entity on behalf of which such individual is accessing or
           using the Service, as applicable.
 
-      # Acknowledgment
+      ## Acknowledgment
 
 
       These are the Terms and Conditions governing the use of this Service and
@@ -167,7 +164,7 @@ sections:
       Our Privacy Policy carefully before using Our Service.
 
 
-      # Promotions
+      ## Promotions
 
 
       Any Promotions made available through the Service may be governed by rules
@@ -184,7 +181,7 @@ sections:
       Terms, the Promotion rules will apply.
 
 
-      # User Accounts
+      ## User Accounts
 
 
       When You create an account with Us, You must provide Us information that
@@ -227,10 +224,10 @@ sections:
       authorization, or a name that is otherwise offensive, vulgar or obscene.
 
 
-      # Content
+      ## Content
 
 
-      ## Your Right to Post Content
+      #### Your Right to Post Content
 
 
       Our Service allows You to post Content. You are responsible for the
@@ -276,7 +273,7 @@ sections:
       rights or any other rights of any person.
 
 
-      ## Content Restrictions
+      #### Content Restrictions
 
 
       The Company is not responsible for the content of the Service's users. You
@@ -357,7 +354,7 @@ sections:
       or damage of any kind incurred as a result of your use of any content.
 
 
-      ## Content Backups
+      #### Content Backups
 
 
       Although regular backups of Content are performed, the Company do not
@@ -390,10 +387,10 @@ sections:
       location independent of the Service.
 
 
-      # Copyright Policy
+      ## Copyright Policy
 
 
-      ## Intellectual Property Infringement
+      #### Intellectual Property Infringement
 
 
       We respect the intellectual property rights of others. It is Our policy to
@@ -426,7 +423,7 @@ sections:
       for misrepresenting that any Content is infringing Your copyright.
 
 
-      ## DMCA Notice and DMCA Procedure for Copyright Infringement Claims
+      #### DMCA Notice and DMCA Procedure for Copyright Infringement Claims
 
 
       You may submit a notification pursuant to the Digital Millennium Copyright
@@ -466,7 +463,7 @@ sections:
       from the Service.
 
 
-      # Intellectual Property
+      ## Intellectual Property
 
 
       The Service and its original content (excluding Content provided by You or
@@ -488,7 +485,7 @@ sections:
       or service without the prior written consent of the Company.
 
 
-      # Your Feedback to Us
+      ## Your Feedback to Us
 
 
       You assign all rights, title and interest in any Feedback You provide the
@@ -505,7 +502,7 @@ sections:
       and exploit such Feedback without restriction.
 
 
-      # Links to Other Websites
+      ## Links to Other Websites
 
 
       Our Service may contain links to third-party web sites or services that
@@ -538,7 +535,7 @@ sections:
       of any third-party web sites or services that You visit.
 
 
-      # Termination
+      ## Termination
 
 
       We may terminate or suspend Your Account immediately, without prior notice
@@ -556,7 +553,7 @@ sections:
       Service.
 
 
-      # Limitation of Liability
+      ## Limitation of Liability
 
 
       Notwithstanding any damages that You might incur, the entire liability of
@@ -612,7 +609,7 @@ sections:
       will be limited to the greatest extent permitted by law.
 
 
-      # "AS IS" and "AS AVAILABLE" Disclaimer
+      ## "AS IS" and "AS AVAILABLE" Disclaimer
 
 
       The Service is provided to You "AS IS" and "AS AVAILABLE" and with all
@@ -693,7 +690,7 @@ sections:
       the greatest extent enforceable under applicable law.
 
 
-      # Governing Law
+      ## Governing Law
 
 
       The laws of the Country, excluding its conflicts of law rules, shall
@@ -705,7 +702,7 @@ sections:
       be subject to other local, state, national, or international laws.
 
 
-      # Disputes Resolution
+      ## Disputes Resolution
 
 
       If You have any concern or dispute about the Service, You agree to first
@@ -714,7 +711,7 @@ sections:
       to resolve the dispute informally by contacting the Company.
 
 
-      # For European Union (EU) Users
+      ## For European Union (EU) Users
 
 
       If You are a European Union consumer, you will benefit from any mandatory
@@ -722,7 +719,7 @@ sections:
       provisions of the law of the country in which you are resident in.
 
 
-      # United States Legal Compliance
+      ## United States Legal Compliance
 
 
       You represent and warrant that (i) You are not located in a country that
@@ -739,10 +736,10 @@ sections:
       restricted parties.
 
 
-      # Severability and Waiver
+      ## Severability and Waiver
 
 
-      ## Severability
+      #### Severability
 
 
       If any provision of these Terms is held to be unenforceable or invalid,
@@ -756,7 +753,7 @@ sections:
       remaining provisions will continue in full force and effect.
 
 
-      ## Waiver
+      #### Waiver
 
 
       Except as provided herein, the failure to exercise a right or to require
@@ -770,7 +767,7 @@ sections:
       subsequent breach.
 
 
-      # Translation Interpretation
+      ## Translation Interpretation
 
 
       These Terms and Conditions may have been translated if We have made them
@@ -780,7 +777,7 @@ sections:
       shall prevail in the case of a dispute.
 
 
-      # Changes to These Terms and Conditions
+      ## Changes to These Terms and Conditions
 
 
       We reserve the right, at Our sole discretion, to modify or replace these
@@ -804,7 +801,7 @@ sections:
       Service.
 
 
-      # Contact Us
+      ## Contact Us
 
 
       If you have any questions about these Terms and Conditions, You can
@@ -820,10 +817,9 @@ sections:
       <https://watheialabs.com/contact>
 
 
-      *   By phone number: +1 (866) 790 2399
+      *   By phone number: +1 (509) 491 3153
 
 
       *   By mail: 522 W RIVERSIDE AVE, SPOKANE, WA 99201
-
 layout: PageLayout
 ---
