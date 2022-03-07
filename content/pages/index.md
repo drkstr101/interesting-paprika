@@ -273,8 +273,26 @@ sections:
     colors: colors-h
     title: Behavior-Driven Development (BDD)
     text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+      BDD is a way for software teams to work that closes the gap between
+      business people and technical people by:
+
+
+      *   Encouraging collaboration across roles to build a shared understanding
+      of the problem to be solved
+
+
+      *   Working in rapid, small iterations to increase feedback and the flow
+      of value
+
+
+      *   Producing system documentation that is automatically checked against
+      the system’s behavior
+
+
+      We do this by focusing collaborative work around concrete, real-world
+      examples that illustrate how we want the system to behave. We use those
+      examples to guide us from concept through to implementation, in a process
+      of continuous collaboration.
     actions:
       - type: Button
         label: Get Started
