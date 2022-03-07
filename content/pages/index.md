@@ -465,7 +465,7 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-      submitLabel: Send Login
+      submitLabel: Send Invite
       styles:
         submitLabel:
           textAlign: center
