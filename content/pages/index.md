@@ -288,7 +288,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        url: '#contact'
+        url: /contact
         style: primary
         elementId: hero-main-button
       - type: Link
