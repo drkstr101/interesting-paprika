@@ -287,7 +287,7 @@ sections:
       of continuous collaboration.
     actions:
       - type: Button
-        label: Get Started
+        label: Get Support
         url: /contact
         style: primary
         elementId: hero-main-button
