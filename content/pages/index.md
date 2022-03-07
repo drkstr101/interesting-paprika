@@ -449,8 +449,8 @@ sections:
     title: Watheia Realtime
     text: >
       Enabling real-time features requires an account to prevent abuse. Luckily,
-      we've made this process as smooth as possible. Simply submit your email
-      here and we will send you the link for one-click passwordless login.
+      we've made this process super smooth. Simply submit your email here and we
+      will send you the link for one-click passwordless login.
     form:
       type: FormBlock
       variant: variant-b
