@@ -64,7 +64,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        url: '#login'
+        url: '#l'
         style: primary
     styles:
       self:
