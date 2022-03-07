@@ -112,7 +112,7 @@ sections:
     backgroundSize: full
     title: Get Support
     text: |
-      We would love to hear from you!
+      We live to serve!
     form:
       type: FormBlock
       variant: variant-a
