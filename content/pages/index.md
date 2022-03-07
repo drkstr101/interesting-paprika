@@ -9,7 +9,7 @@ sections:
     subtitle: A capabilities test of the modern web
     actions:
       - type: Button
-        label: Get Started
+        label: Get Support
         url: '#contact'
         style: primary
       - type: Link
