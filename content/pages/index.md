@@ -223,8 +223,10 @@ sections:
     colors: colors-h
     title: Domain-Driven Design (DDD)
     text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+      Modern software projects tend to be limited by organizational intricacy
+      rather than technical complexity. Domain-Driven Design is an approach to
+      software engineering that focuses on a domain model that has a rich
+      understanding of the processes and rules of the domain.
     actions:
       - type: Button
         label: Get Started
