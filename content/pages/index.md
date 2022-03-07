@@ -271,7 +271,7 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-h
-    title: And a strong value proposition
+    title: Behavior-Driven Development (BDD)
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
