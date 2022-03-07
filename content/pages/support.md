@@ -135,7 +135,7 @@ sections:
         - type: TextFormControl
           name: subject
           label: Subject
-          placeholder: Briefly describe how
+          placeholder: Briefly describe ho
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
