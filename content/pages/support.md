@@ -134,7 +134,7 @@ sections:
           width: 1/2
         - type: TextFormControl
           name: subject
-          label: 'Brief subject '
+          label: Brief subject line
           placeholder: How may we help?
           isRequired: 'false'
           width: full
