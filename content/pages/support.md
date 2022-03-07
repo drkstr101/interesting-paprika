@@ -135,7 +135,7 @@ sections:
         - type: TextFormControl
           name: subject
           label: Brief subject line
-          placeholder: How may we help?
+          placeholder: 'Sales, General Inquery, Legal, etc...'
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
