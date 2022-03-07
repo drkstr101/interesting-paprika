@@ -135,7 +135,7 @@ sections:
         - type: TextFormControl
           name: subject
           label: Brief subject line
-          placeholder: 'Contact sales, general inquiry, legal contact,  etc...'
+          placeholder: 'EG. Contact sales, general inquiry, legal contact,  etc...'
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
