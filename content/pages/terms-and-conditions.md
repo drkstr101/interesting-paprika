@@ -9,9 +9,6 @@ sections:
   - type: TextSection
     colors: colors-a
     title: Terms & Conditions
-    subtitle: >-
-      Start adding sections by clicking the + button on the page or though the
-      sidebar.
     styles:
       self:
         height: auto
