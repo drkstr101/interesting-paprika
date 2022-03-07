@@ -30,5 +30,10 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: |+
+      foo
+
+
+
 layout: PageLayout
 ---
