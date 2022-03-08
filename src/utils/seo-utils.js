@@ -41,7 +41,8 @@ export function seoGenerateTitle(page, site) {
   return title;
 }
 
-export function seoGenerateMetaDescription(page) {
+// eslint-disable-next-line no-unused-vars
+export function seoGenerateMetaDescription(page, site) {
   let metaDescription = null;
   // Blog posts use the exceprt as the default meta description
   if (page.__metadata.modelName === 'PostLayout') {

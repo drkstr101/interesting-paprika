@@ -1,8 +1,7 @@
-import * as React from 'react';
-import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
-
-import { Social, Action, Link } from '../../atoms';
+import Markdown from 'markdown-to-jsx';
+import * as React from 'react';
+import { Action, Link, Social } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
 
 export default function Footer(props) {
@@ -25,7 +24,9 @@ export default function Footer(props) {
               className="sb-footer-logo flex items-center"
               data-sb-field-path=".title#span[1] .logo#img[1]"
             >
-              {props.logo && <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.title })} />}
+              {props.logo && (
+                <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.title })} priority />
+              )}
               {props.title && <span className="text-2xl tracking-wide">{props.title}</span>}
             </Link>
             {props.text && (

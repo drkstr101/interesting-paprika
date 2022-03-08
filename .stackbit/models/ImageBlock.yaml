@@ -21,6 +21,12 @@ fields:
     label: Caption
     description: The caption of the image
     default: Caption of the image
+  - type: number
+    name: maxWidth
+    group: settings
+    label: Max Width
+    description: The caption of the image
+    default: Scale down image to match width if present
   - type: string
     name: elementId
     group: settings

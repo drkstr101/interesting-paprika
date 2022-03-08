@@ -1,6 +1,6 @@
 import classNames from 'classnames';
+import NextImage from 'next/image';
 import * as React from 'react';
-import { Image } from 'react-datocms';
 import getImageInfo from '../../../utils/get-media-info';
 
 export default function ImageBlock(props) {
@@ -23,13 +23,20 @@ export default function ImageBlock(props) {
   ];
 
   if (meta) {
+    const maxWidth = props.maxWidth ?? meta.responsiveImage.width;
     return (
       <div id={cssId} style={{ opacity: imageOpacity * 0.01 }}>
         {/* eslint-disable-next-line jsx-a11y/alt-text */}
-        <Image
-          className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
-          data={meta.responsiveImage}
-        ></Image>
+        <div style={{ maxWidth }}>
+          <NextImage
+            className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
+            src={url}
+            width={meta.responsiveImage.width}
+            height={meta.responsiveImage.height}
+            alt={altText}
+            priority={props.priority}
+          ></NextImage>
+        </div>
       </div>
     );
   }

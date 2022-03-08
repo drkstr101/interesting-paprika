@@ -44,13 +44,14 @@
       "altText": "Watheia Labs",
       "caption": "Caption of the image",
       "elementId": "",
+      "maxWidth": 162,
       "styles": {
         "self": {
           "opacity": 100
         }
       },
       "type": "ImageBlock",
-      "url": "/images/logo-df8eda14.png"
+      "url": "/images/logo.png"
     }
   },
   "footer": {
@@ -59,6 +60,7 @@
       "altText": "Watheia Labs",
       "caption": "Caption of the image",
       "elementId": "",
+      "maxWidth": 162,
       "styles": {
         "self": {
           "opacity": 100

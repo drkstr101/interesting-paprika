@@ -1,9 +1,8 @@
-import * as React from 'react';
-import { useState, useEffect } from 'react';
-import { useRouter } from 'next/router';
 import classNames from 'classnames';
-
-import { Link, Action } from '../../atoms';
+import { useRouter } from 'next/router';
+import * as React from 'react';
+import { useEffect, useState } from 'react';
+import { Action, Link } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
 import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';
@@ -258,9 +257,7 @@ function siteLogoLink(props) {
       className="sb-header-logo flex items-center"
       data-sb-field-path=".title#span[1] .logo#img[1]"
     >
-      {props.logo && (
-        <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.isTitleVisible })} />
-      )}
+      {props.logo && <ImageBlock {...props.logo} className={classNames({ 'mr-2': props.isTitleVisible })} priority />}
       {props.title && props.isTitleVisible && <span className="text-2xl tracking-wide">{props.title}</span>}
     </Link>
   );
