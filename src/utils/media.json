@@ -1,6 +1,7 @@
 {
   "scott-graham-5fnmwej4taa-unsplash.jpg": {
     "filename": "scott-graham-5fnmwej4taa-unsplash.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhETFBQNCg0XGhgNDQ0NDRENFg0NFxgZGBYfFiEmHysjGh0oHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHC8oIigvLy8vNS8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABEAGAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAABgIEBQH/xAAcEAABBAMBAAAAAAAAAAAAAAAAAQMEBQISMjH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgEA/8QAGREBAQEAAwAAAAAAAAAAAAAAAQACAxEy/9oADAMBAAIRAxEAPwC7Xpo4NUVxFaEvCUmGZvQJu2BSrHrINO2UCtZPbIcNFkM56ltejbreQA4h5PVOf4cACisv/9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646710709-scott-graham-5fnmwej4taa-unsplash.jpg?dpr=0.25 180w,https://www.datocms-assets.com/64528/1646710709-scott-graham-5fnmwej4taa-unsplash.jpg?dpr=0.5 360w,https://www.datocms-assets.com/64528/1646710709-scott-graham-5fnmwej4taa-unsplash.jpg?dpr=0.75 540w,https://www.datocms-assets.com/64528/1646710709-scott-graham-5fnmwej4taa-unsplash.jpg 720w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646710709-scott-graham-5fnmwej4taa-unsplash.jpg?dpr=0.25&fm=webp 180w,https://www.datocms-assets.com/64528/1646710709-scott-graham-5fnmwej4taa-unsplash.jpg?dpr=0.5&fm=webp 360w,https://www.datocms-assets.com/64528/1646710709-scott-graham-5fnmwej4taa-unsplash.jpg?dpr=0.75&fm=webp 540w,https://www.datocms-assets.com/64528/1646710709-scott-graham-5fnmwej4taa-unsplash.jpg?fm=webp 720w",
@@ -16,6 +17,7 @@
   },
   "ferenc-almasi-ayjnmg4oux4-unsplash.jpg": {
     "filename": "ferenc-almasi-ayjnmg4oux4-unsplash.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwwHDhQIDQcIDgcGChgHBwkGCBEJDQgNFxMZGCIfFiEaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHRAQEC8cHigvNS8vLy8vLy8vLy8vLzUvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABEAGAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAAAgMEB//EABcQAQEBAQAAAAAAAAAAAAAAAAABAhH/xAAWAQADAAAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAAMAAAAAAAAAAAAAAAAAAREhMf/aAAwDAQACEQMRAD8A5du9ZrWjUUbi0zKGqI0OQ9tulGwBzimgCB//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691293-ferenc-almasi-ayjnmg4oux4-unsplash.jpg?dpr=0.25 1270w,https://www.datocms-assets.com/64528/1646691293-ferenc-almasi-ayjnmg4oux4-unsplash.jpg?dpr=0.5 2540w,https://www.datocms-assets.com/64528/1646691293-ferenc-almasi-ayjnmg4oux4-unsplash.jpg?dpr=0.75 3810w,https://www.datocms-assets.com/64528/1646691293-ferenc-almasi-ayjnmg4oux4-unsplash.jpg 5081w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691293-ferenc-almasi-ayjnmg4oux4-unsplash.jpg?dpr=0.25&fm=webp 1270w,https://www.datocms-assets.com/64528/1646691293-ferenc-almasi-ayjnmg4oux4-unsplash.jpg?dpr=0.5&fm=webp 2540w,https://www.datocms-assets.com/64528/1646691293-ferenc-almasi-ayjnmg4oux4-unsplash.jpg?dpr=0.75&fm=webp 3810w,https://www.datocms-assets.com/64528/1646691293-ferenc-almasi-ayjnmg4oux4-unsplash.jpg?fm=webp 5081w",
@@ -31,6 +33,7 @@
   },
   "aaron-r-miller.jpg": {
     "filename": "aaron-r-miller.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoIEAgLEgoLDhgNDg0ODiYWFg0aFx8ZKBYVIhUdHysjGh0oKSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIig7Ozs7Ly87Oy8vOzs7Ozs2NTs7Lzs7Oy8vOzwvOzs1OzUvLzI7NS8vMi8vOy8vLy8vL//AABEIABgAEQMBIgACEQEDEQH/xAAbAAACAQUAAAAAAAAAAAAAAAAABQQBAgMGB//EACUQAAIABAMJAAAAAAAAAAAAAAABAgMEBREUUhITISNBQlFhYv/EABYBAQEBAAAAAAAAAAAAAAAAAAQDBf/EABwRAAICAwEBAAAAAAAAAAAAAAECABEDElEhE//aAAwDAQACEQMRAD8Atq1z4USq2U1bm/RAqqiHNwLHqNLlMhVob+SXty6KNZpe0iotz8GpAJ1fkNadmefeHFXyvGI/utyaskXHtABjYkGQCETM/wAibnNd7HqYABqaiXoT/9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691527-aaron-r-miller.jpg?dpr=0.25 80w,https://www.datocms-assets.com/64528/1646691527-aaron-r-miller.jpg?dpr=0.5 160w,https://www.datocms-assets.com/64528/1646691527-aaron-r-miller.jpg?dpr=0.75 240w,https://www.datocms-assets.com/64528/1646691527-aaron-r-miller.jpg 320w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691527-aaron-r-miller.jpg?dpr=0.25&fm=webp 80w,https://www.datocms-assets.com/64528/1646691527-aaron-r-miller.jpg?dpr=0.5&fm=webp 160w,https://www.datocms-assets.com/64528/1646691527-aaron-r-miller.jpg?dpr=0.75&fm=webp 240w,https://www.datocms-assets.com/64528/1646691527-aaron-r-miller.jpg?fm=webp 320w",
@@ -46,6 +49,7 @@
   },
   "work-book-cover-3.jpg": {
     "filename": "work-book-cover-3.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgWDhYVDhEQFQ0VDRUNFg4OFxUZGBYTFhUaHysvGikoHRoWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHAoQHDsoIhw7Oy87Ozs7Ozs7LzsvLy8vOy8vNS8vLy8vLy8vLzsvLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAFAwD/xAAdEAABBAIDAAAAAAAAAAAAAAAAAQIFEQMEEhNR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBAMAAAAAAAAAAAAAAAAAARITQgIDIv/aAAwDAQACEQMRAD8ACy61KI6EfzZYRmkG+iUfMMYyrCVzijGOMlL6fSxVMSmpRuXGtKYToFF1WP/Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691518-work-book-cover-3.jpg?dpr=0.25 350w,https://www.datocms-assets.com/64528/1646691518-work-book-cover-3.jpg?dpr=0.5 700w,https://www.datocms-assets.com/64528/1646691518-work-book-cover-3.jpg?dpr=0.75 1050w,https://www.datocms-assets.com/64528/1646691518-work-book-cover-3.jpg 1400w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691518-work-book-cover-3.jpg?dpr=0.25&fm=webp 350w,https://www.datocms-assets.com/64528/1646691518-work-book-cover-3.jpg?dpr=0.5&fm=webp 700w,https://www.datocms-assets.com/64528/1646691518-work-book-cover-3.jpg?dpr=0.75&fm=webp 1050w,https://www.datocms-assets.com/64528/1646691518-work-book-cover-3.jpg?fm=webp 1400w",
@@ -61,6 +65,7 @@
   },
   "work-book-cover-2.jpg": {
     "filename": "work-book-cover-2.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLEg0XDhcWDhYYDhEVFhskFx8aHSoiIhUaHysjGiIoHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsdIigvLzsvOzs7NTsvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAFBgABA//EAB0QAAEEAgMAAAAAAAAAAAAAAAUAAQIDERIEFCH/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABkRAQACAwAAAAAAAAAAAAAAAAEAEQISQf/aAAwDAQACEQMRAD8ABBuJs6OXid6kuDCcaZeumBjtcqsZRL5LjrF7nj+vN3VLM8Yg0XllRMFgyC5//9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691510-work-book-cover-2.jpg?dpr=0.25 350w,https://www.datocms-assets.com/64528/1646691510-work-book-cover-2.jpg?dpr=0.5 700w,https://www.datocms-assets.com/64528/1646691510-work-book-cover-2.jpg?dpr=0.75 1050w,https://www.datocms-assets.com/64528/1646691510-work-book-cover-2.jpg 1400w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691510-work-book-cover-2.jpg?dpr=0.25&fm=webp 350w,https://www.datocms-assets.com/64528/1646691510-work-book-cover-2.jpg?dpr=0.5&fm=webp 700w,https://www.datocms-assets.com/64528/1646691510-work-book-cover-2.jpg?dpr=0.75&fm=webp 1050w,https://www.datocms-assets.com/64528/1646691510-work-book-cover-2.jpg?fm=webp 1400w",
@@ -76,6 +81,7 @@
   },
   "wa-card-4x.png": {
     "filename": "wa-card-4x.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhYIDwgLCg4NDhgaDQ0YDh0NFg0WFxUZGBYfIhUmKzcjGh0oHSEiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDUoIhw7Oy87Oy87Oy8vLy8vLy8vLy8vOzs7LzsvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAFAgD/xAAeEAABAwQDAAAAAAAAAAAAAAABAAIDBQZCUQQyQf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGREAAwADAAAAAAAAAAAAAAAAAAECERIh/9oADAMBAAIRAxEAPwA13AbtSKe0+oF9zPGBVxXFI4dCo4rYrbUis1ObtZFyV2Q4lZJy88BNVg//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691502-wa-card-4x.png?dpr=0.25 1280w,https://www.datocms-assets.com/64528/1646691502-wa-card-4x.png?dpr=0.5 2561w,https://www.datocms-assets.com/64528/1646691502-wa-card-4x.png?dpr=0.75 3841w,https://www.datocms-assets.com/64528/1646691502-wa-card-4x.png 5122w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691502-wa-card-4x.png?dpr=0.25&fm=webp 1280w,https://www.datocms-assets.com/64528/1646691502-wa-card-4x.png?dpr=0.5&fm=webp 2561w,https://www.datocms-assets.com/64528/1646691502-wa-card-4x.png?dpr=0.75&fm=webp 3841w,https://www.datocms-assets.com/64528/1646691502-wa-card-4x.png?fm=webp 5122w",
@@ -91,6 +97,7 @@
   },
   "post-12.jpg": {
     "filename": "post-12.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoQCAgLDQ0NDg0QDQwUDhINDQ0NFxUZGBYTFiEaHysjGikoHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFQ0QGi8cIhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAABQIEB//EAB0QAAICAgMBAAAAAAAAAAAAAAABAgQDMRQhQRL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/ANas5F8lDkxi9kLthqGxNK03J9kw4bZ7MX6AjzWZJbA0D//Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691488-post-12.jpg?dpr=0.25 247w,https://www.datocms-assets.com/64528/1646691488-post-12.jpg?dpr=0.5 495w,https://www.datocms-assets.com/64528/1646691488-post-12.jpg?dpr=0.75 742w,https://www.datocms-assets.com/64528/1646691488-post-12.jpg 990w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691488-post-12.jpg?dpr=0.25&fm=webp 247w,https://www.datocms-assets.com/64528/1646691488-post-12.jpg?dpr=0.5&fm=webp 495w,https://www.datocms-assets.com/64528/1646691488-post-12.jpg?dpr=0.75&fm=webp 742w,https://www.datocms-assets.com/64528/1646691488-post-12.jpg?fm=webp 990w",
@@ -106,6 +113,7 @@
   },
   "post-11.jpg": {
     "filename": "post-11.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoQGhAQDg0ZFRENDg0OFx8ZGBYVIhUdHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0PGhAQEDsoIhwvLy8vOzsvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAABAEFBv/EAB4QAAEDBAMAAAAAAAAAAAAAAAABAgQDBQYRFCEx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgEA/8QAGREAAgMBAAAAAAAAAAAAAAAAABEBAlEx/9oADAMBAAIRAxEAPwDTRcf4y7GXRtdC0zJaVNvpEC6JMdtFDFa14J6WkW3K8BqlLbRagFUGcn//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691483-post-11.jpg?dpr=0.25 240w,https://www.datocms-assets.com/64528/1646691483-post-11.jpg?dpr=0.5 480w,https://www.datocms-assets.com/64528/1646691483-post-11.jpg?dpr=0.75 720w,https://www.datocms-assets.com/64528/1646691483-post-11.jpg 960w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691483-post-11.jpg?dpr=0.25&fm=webp 240w,https://www.datocms-assets.com/64528/1646691483-post-11.jpg?dpr=0.5&fm=webp 480w,https://www.datocms-assets.com/64528/1646691483-post-11.jpg?dpr=0.75&fm=webp 720w,https://www.datocms-assets.com/64528/1646691483-post-11.jpg?fm=webp 960w",
@@ -121,6 +129,7 @@
   },
   "post-10.jpg": {
     "filename": "post-10.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhEICA0KCgoNDg4NDQ0NDhENDQ0WFxUZGBYfFiEaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHC8oFigvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAAAwIEBv/EABsQAAICAwEAAAAAAAAAAAAAAAABAxECBCES/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgEA/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACITER/9oADAMBAAIRAxEAPwDQ4biCWZSLhWes8RscbrpFXsxUHImqYE515AY5DavrP//Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691478-post-10.jpg?dpr=0.25 240w,https://www.datocms-assets.com/64528/1646691478-post-10.jpg?dpr=0.5 480w,https://www.datocms-assets.com/64528/1646691478-post-10.jpg?dpr=0.75 720w,https://www.datocms-assets.com/64528/1646691478-post-10.jpg 960w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691478-post-10.jpg?dpr=0.25&fm=webp 240w,https://www.datocms-assets.com/64528/1646691478-post-10.jpg?dpr=0.5&fm=webp 480w,https://www.datocms-assets.com/64528/1646691478-post-10.jpg?dpr=0.75&fm=webp 720w,https://www.datocms-assets.com/64528/1646691478-post-10.jpg?fm=webp 960w",
@@ -136,6 +145,7 @@
   },
   "post-9.jpg": {
     "filename": "post-9.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDiQQFRUNDhUaHR0OFx8dHSITFhUmJSsjGh0oKSEWJDUlKC0vMjIyHSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIig7Ozs7LzsvLzsvOzs7Ozs7Ly8vLy8vLy8vLy8vOy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAADBAACBf/EABwQAAEFAQEBAAAAAAAAAAAAAAEAAgMEBRFRMf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAf/EABkRAAIDAQAAAAAAAAAAAAAAAAIDAAEREv/aAAwDAQACEQMRAD8Ae1tSO1EWtP1YFSoWSl/qJYrOrjpKvVsB44rTYIVkNKyZewOlIBHxRJ7shjhLgotAxuoL+gPLn//Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691472-post-9.jpg?dpr=0.25 240w,https://www.datocms-assets.com/64528/1646691472-post-9.jpg?dpr=0.5 480w,https://www.datocms-assets.com/64528/1646691472-post-9.jpg?dpr=0.75 720w,https://www.datocms-assets.com/64528/1646691472-post-9.jpg 960w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691472-post-9.jpg?dpr=0.25&fm=webp 240w,https://www.datocms-assets.com/64528/1646691472-post-9.jpg?dpr=0.5&fm=webp 480w,https://www.datocms-assets.com/64528/1646691472-post-9.jpg?dpr=0.75&fm=webp 720w,https://www.datocms-assets.com/64528/1646691472-post-9.jpg?fm=webp 960w",
@@ -151,6 +161,7 @@
   },
   "post-8.jpg": {
     "filename": "post-8.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLFgoVDhQVDhcWFRUVFhEYHRMeGB0VFhUeHysvIh0oHSEWJDUlKC0vMjIyHSI4PTcwPCsxMi8BCgsLAg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ly87Oy87Lzs7Ozs7Oy8vLzU7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIABAAGAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAABAwYF/8QAHhAAAQMEAwAAAAAAAAAAAAAAAQACBAMFEiEGERT/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAP/xAAeEQABAgcBAAAAAAAAAAAAAAABAAIDBAUGBxEUEv/aAAwDAQACEQMRAD8AuI8HNMrWslhQizQzTk2vdGNZtAUyLjlkt6B0kZttwuiAKUu3HPSSCitKTeaeR7QVzKhj4jZcFnzXEv/Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691467-post-8.jpg?dpr=0.25 240w,https://www.datocms-assets.com/64528/1646691467-post-8.jpg?dpr=0.5 480w,https://www.datocms-assets.com/64528/1646691467-post-8.jpg?dpr=0.75 720w,https://www.datocms-assets.com/64528/1646691467-post-8.jpg 960w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691467-post-8.jpg?dpr=0.25&fm=webp 240w,https://www.datocms-assets.com/64528/1646691467-post-8.jpg?dpr=0.5&fm=webp 480w,https://www.datocms-assets.com/64528/1646691467-post-8.jpg?dpr=0.75&fm=webp 720w,https://www.datocms-assets.com/64528/1646691467-post-8.jpg?fm=webp 960w",
@@ -166,6 +177,7 @@
   },
   "post-7.jpg": {
     "filename": "post-7.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhUIEAgLDw0UDg0QDg0NDhUODQ0NFxMZGBYTIhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHRAQHC8oIhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAFBgECAwD/xAAcEAABBAMBAAAAAAAAAAAAAAACAAEDBBEhMQX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAXEQADAQAAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwB1lvCK2q+iBayhNiFyZVrxFHvKxJieYH5bAk3VyXLvovA3VCWoTlP/2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691463-post-7.jpg?dpr=0.25 240w,https://www.datocms-assets.com/64528/1646691463-post-7.jpg?dpr=0.5 480w,https://www.datocms-assets.com/64528/1646691463-post-7.jpg?dpr=0.75 720w,https://www.datocms-assets.com/64528/1646691463-post-7.jpg 960w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691463-post-7.jpg?dpr=0.25&fm=webp 240w,https://www.datocms-assets.com/64528/1646691463-post-7.jpg?dpr=0.5&fm=webp 480w,https://www.datocms-assets.com/64528/1646691463-post-7.jpg?dpr=0.75&fm=webp 720w,https://www.datocms-assets.com/64528/1646691463-post-7.jpg?fm=webp 960w",
@@ -181,6 +193,7 @@
   },
   "post-6.jpg": {
     "filename": "post-6.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLEQoLDiAQDRYWDRkSDQwNFx8ZGBYVIiEdHysjHR0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHRAQHDsoHRwvLy8vLy8vLy87Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAABgEEBf/EACAQAAEDAwUBAAAAAAAAAAAAAAEAAgMFERIEBiEiMRT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABoRAAEFAQAAAAAAAAAAAAAAAAACERIhQQH/2gAMAwEAAhEDEQA/AGAVuOHklSzcsMj8QQsFtPdqetyrEW3TEc7lMKyh0p9SY9oN0JS+p+hGN/EJQj0//9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691457-post-6.jpg?dpr=0.25 240w,https://www.datocms-assets.com/64528/1646691457-post-6.jpg?dpr=0.5 480w,https://www.datocms-assets.com/64528/1646691457-post-6.jpg?dpr=0.75 720w,https://www.datocms-assets.com/64528/1646691457-post-6.jpg 960w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691457-post-6.jpg?dpr=0.25&fm=webp 240w,https://www.datocms-assets.com/64528/1646691457-post-6.jpg?dpr=0.5&fm=webp 480w,https://www.datocms-assets.com/64528/1646691457-post-6.jpg?dpr=0.75&fm=webp 720w,https://www.datocms-assets.com/64528/1646691457-post-6.jpg?fm=webp 960w",
@@ -196,6 +209,7 @@
   },
   "post-5.jpg": {
     "filename": "post-5.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoTCAgLEg0XDhgNDQ0NDhENDg0OFxgZGBYfFhUdHysjHR0oHRUiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHC8oIiUvLy8vOy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAEBgEDBQD/xAAcEAABBAMBAAAAAAAAAAAAAAABAAIDBAUSIRH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAXEQEBAQEAAAAAAAAAAAAAAAABAgAR/9oADAMBAAIRAxEAPwA2gNJB6mqrIDEkltrRwW7QulzB1U9cdEjrsqR1chMlNsFK0XITPN//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691447-post-5.jpg?dpr=0.25 240w,https://www.datocms-assets.com/64528/1646691447-post-5.jpg?dpr=0.5 480w,https://www.datocms-assets.com/64528/1646691447-post-5.jpg?dpr=0.75 720w,https://www.datocms-assets.com/64528/1646691447-post-5.jpg 960w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691447-post-5.jpg?dpr=0.25&fm=webp 240w,https://www.datocms-assets.com/64528/1646691447-post-5.jpg?dpr=0.5&fm=webp 480w,https://www.datocms-assets.com/64528/1646691447-post-5.jpg?dpr=0.75&fm=webp 720w,https://www.datocms-assets.com/64528/1646691447-post-5.jpg?fm=webp 960w",
@@ -211,6 +225,7 @@
   },
   "post-4.jpg": {
     "filename": "post-4.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgQFREUDhYVFhcYIxkdGC4qHiYdJjcjGh0oHSYaJTUxKDYvMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDscIig7Oy87Oy8vLy87NTs7Ly87Oy8vNS8vLy8vLzs7Oy81Ly8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAGAQf/xAAdEAABBAMBAQAAAAAAAAAAAAABAAIDBAURIRMS/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADESL/2gAMAwEAAhEDEQA/AD2MnbA7RKT1p2zNGis1xeRfbl+SNEJZVvGswbKDdWp5MdSSF0RfFO2EdKiLPzHpxpVVUTFySawEz//Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691442-post-4.jpg?dpr=0.25 240w,https://www.datocms-assets.com/64528/1646691442-post-4.jpg?dpr=0.5 480w,https://www.datocms-assets.com/64528/1646691442-post-4.jpg?dpr=0.75 720w,https://www.datocms-assets.com/64528/1646691442-post-4.jpg 960w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691442-post-4.jpg?dpr=0.25&fm=webp 240w,https://www.datocms-assets.com/64528/1646691442-post-4.jpg?dpr=0.5&fm=webp 480w,https://www.datocms-assets.com/64528/1646691442-post-4.jpg?dpr=0.75&fm=webp 720w,https://www.datocms-assets.com/64528/1646691442-post-4.jpg?fm=webp 960w",
@@ -226,6 +241,7 @@
   },
   "post-3.jpg": {
     "filename": "post-3.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0dFhEkJh0ZJSIrIiEmJSsvHR0oIhoWMDUlNC07MjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIigvLzs7Ozs7Ozs7Ozs1Ly8vOzs7Lzs7OzsvLzsvLy8vLy8vNS8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAFBwABBv/EAB8QAAICAgEFAAAAAAAAAAAAAAECAAMFEQQGFCExQf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBAP/EABkRAAIDAQAAAAAAAAAAAAAAAAABESJBAv/aAAwDAQACEQMRAD8AYHfJr3BeRyldanZEF28xkUncyPUeXsrpcgnwIZNUNcrK1WuQGEkU6Z/mrYXLb38lyQxNc4z/2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691418-post-3.jpg?dpr=0.25 300w,https://www.datocms-assets.com/64528/1646691418-post-3.jpg?dpr=0.5 600w,https://www.datocms-assets.com/64528/1646691418-post-3.jpg?dpr=0.75 900w,https://www.datocms-assets.com/64528/1646691418-post-3.jpg 1200w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691418-post-3.jpg?dpr=0.25&fm=webp 300w,https://www.datocms-assets.com/64528/1646691418-post-3.jpg?dpr=0.5&fm=webp 600w,https://www.datocms-assets.com/64528/1646691418-post-3.jpg?dpr=0.75&fm=webp 900w,https://www.datocms-assets.com/64528/1646691418-post-3.jpg?fm=webp 1200w",
@@ -241,6 +257,7 @@
   },
   "post-2.jpg": {
     "filename": "post-2.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoUDhUVDQ0NDh0VFhUVGhMdGBYVFiEmHysvHR0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIig7Ly87Ozs7Ozs7Oy8vLy8vLy8vOzs7OzsvLy8vLy8vLy8vOy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAFBgEDBwD/xAAfEAABBAICAwAAAAAAAAAAAAACAAEDBAYRISIFEhP/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwD/xAAbEQACAQUAAAAAAAAAAAAAAAABAgADERITQf/aAAwDAQACEQMRAD8AVIsYjsPpxVx4TCA+zAiNPygAbbR+C2E8axChpbWuMzq3j3wfqzrk83agSc6UIsaV4BSPJ//Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691410-post-2.jpg?dpr=0.25 240w,https://www.datocms-assets.com/64528/1646691410-post-2.jpg?dpr=0.5 480w,https://www.datocms-assets.com/64528/1646691410-post-2.jpg?dpr=0.75 720w,https://www.datocms-assets.com/64528/1646691410-post-2.jpg 960w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691410-post-2.jpg?dpr=0.25&fm=webp 240w,https://www.datocms-assets.com/64528/1646691410-post-2.jpg?dpr=0.5&fm=webp 480w,https://www.datocms-assets.com/64528/1646691410-post-2.jpg?dpr=0.75&fm=webp 720w,https://www.datocms-assets.com/64528/1646691410-post-2.jpg?fm=webp 960w",
@@ -256,6 +273,7 @@
   },
   "post-1.jpg": {
     "filename": "post-1.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoPCAgPEQ4NFw8QDQ0NDhENFg4OFxcZGBYVFhUaHysjGh0oHSEiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHA0QFS8cIh0vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABQAGAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAABQEDBgT/xAAfEAACAQQCAwAAAAAAAAAAAAAAAQIDBAUhERITIjH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAXEQEBAQEAAAAAAAAAAAAAAAAAATEC/9oADAMBAAIRAxEAPwDRXbUYnNbXcYv6UZK8SpvYipXspVXwyKNNdV4zWmQI6l90j7MA0VOVqS8b2LsfuT5ACmFyMtOUKb6sgANVf//Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691402-post-1.jpg?dpr=0.25 240w,https://www.datocms-assets.com/64528/1646691402-post-1.jpg?dpr=0.5 480w,https://www.datocms-assets.com/64528/1646691402-post-1.jpg?dpr=0.75 720w,https://www.datocms-assets.com/64528/1646691402-post-1.jpg 960w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691402-post-1.jpg?dpr=0.25&fm=webp 240w,https://www.datocms-assets.com/64528/1646691402-post-1.jpg?dpr=0.5&fm=webp 480w,https://www.datocms-assets.com/64528/1646691402-post-1.jpg?dpr=0.75&fm=webp 720w,https://www.datocms-assets.com/64528/1646691402-post-1.jpg?fm=webp 960w",
@@ -271,6 +289,7 @@
   },
   "hugh-saturation.jpg": {
     "filename": "hugh-saturation.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhERCxMRDQ0NDg0NDQ0KDhENFg0YFxcZGCIVFhUaHysjGh0oHSEiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAOHC8dIiUvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAGAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAABQYHA//EABoQAAIDAQEAAAAAAAAAAAAAAAADAQIEESL/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAP/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDESES/9oADAMBAAIRAxEAPwDqOi3KEdroi5S124szGx81aYZK0Xyi2lkWgE3Hp7AHL4JlrXPaGZ3V9gByIl9PZ5JZNAAOVwTpn//Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691370-hugh-saturation.jpg?dpr=0.25 100w,https://www.datocms-assets.com/64528/1646691370-hugh-saturation.jpg?dpr=0.5 200w,https://www.datocms-assets.com/64528/1646691370-hugh-saturation.jpg?dpr=0.75 300w,https://www.datocms-assets.com/64528/1646691370-hugh-saturation.jpg 400w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691370-hugh-saturation.jpg?dpr=0.25&fm=webp 100w,https://www.datocms-assets.com/64528/1646691370-hugh-saturation.jpg?dpr=0.5&fm=webp 200w,https://www.datocms-assets.com/64528/1646691370-hugh-saturation.jpg?dpr=0.75&fm=webp 300w,https://www.datocms-assets.com/64528/1646691370-hugh-saturation.jpg?fm=webp 400w",
@@ -286,6 +305,7 @@
   },
   "hilary-ouse.jpg": {
     "filename": "hilary-ouse.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLEg4XDhgNDQ0ODhYPDQ4YFxwZGCIVFiEdHysjHR0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBEQHS8lIigvLy8vOC87LzwvLy8vLy8vLzwvLzsvLy8vNS8vLy8vLy8vLy8vLy8vLy81Ly8vLzUvL//AABEIABgAGAMBEQACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAGBAUHA//EAB0QAAEEAwEBAAAAAAAAAAAAAAEAAgMEBRETIhL/xAAZAQEAAgMAAAAAAAAAAAAAAAAEAgMAAQX/xAAdEQADAQADAAMAAAAAAAAAAAAAAQIRAxIhBCIx/9oADAMBAAIRAxEAPwCnsWmyN0ChTSYmVjONI6nBWVaQrNQ1xkg5hbmtB8iMypTSSO9bRpXWvBXXS3rNPQaVfN23wTM4hfi2u5hI49wFy/oMbTbENgKUwkXfH+zJmPZ9ShScDuVdZG2LgHMKanDj2/T/2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691366-hilary-ouse.jpg?dpr=0.25 100w,https://www.datocms-assets.com/64528/1646691366-hilary-ouse.jpg?dpr=0.5 200w,https://www.datocms-assets.com/64528/1646691366-hilary-ouse.jpg?dpr=0.75 300w,https://www.datocms-assets.com/64528/1646691366-hilary-ouse.jpg 400w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691366-hilary-ouse.jpg?dpr=0.25&fm=webp 100w,https://www.datocms-assets.com/64528/1646691366-hilary-ouse.jpg?dpr=0.5&fm=webp 200w,https://www.datocms-assets.com/64528/1646691366-hilary-ouse.jpg?dpr=0.75&fm=webp 300w,https://www.datocms-assets.com/64528/1646691366-hilary-ouse.jpg?fm=webp 400w",
@@ -301,6 +321,7 @@
   },
   "hero-4.jpg": {
     "filename": "hero-4.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgVFQ0NDh0VFREdFx8lHRYVGB0wHy0jHR0oHSEWMDUlKC0vMjUyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIh47LzsvOzs7Ozs7Ly87LzsvLzUvOzs7Oy8vLy8vOy8vLy8vOy8vLy8vLy8vLy8vLy8vL//AABEIAAoAGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAABgEDBf/EACEQAAECBgIDAAAAAAAAAAAAAAEAAgMEBhESkTFhBSEi/8QAFgEBAQEAAAAAAAAAAAAAAAAABAIA/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEhExUQP/2gAMAwEAAhEDEQA/AGU1CZX3ioNauc2whHSypkC3CJdjcT8jSzJhZYItqU+UrJkIF0UYjtCVq4AEk+wAQjUPYxfNWGZ//9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691359-hero-4.jpg?dpr=0.25 360w,https://www.datocms-assets.com/64528/1646691359-hero-4.jpg?dpr=0.5 720w,https://www.datocms-assets.com/64528/1646691359-hero-4.jpg?dpr=0.75 1080w,https://www.datocms-assets.com/64528/1646691359-hero-4.jpg 1440w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691359-hero-4.jpg?dpr=0.25&fm=webp 360w,https://www.datocms-assets.com/64528/1646691359-hero-4.jpg?dpr=0.5&fm=webp 720w,https://www.datocms-assets.com/64528/1646691359-hero-4.jpg?dpr=0.75&fm=webp 1080w,https://www.datocms-assets.com/64528/1646691359-hero-4.jpg?fm=webp 1440w",
@@ -316,6 +337,7 @@
   },
   "hero-3.jpg": {
     "filename": "hero-3.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICBMSFRIPDiMLDg4NDRENDQ0eFx8ZJiIVFhUaHysvHR4oHSEiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDslIig7Oy8vLzs7OzsvLy8vOzsvLy8vLzYvLy8vNS81NS8vLy8vLy81LzUvNS8vLy8vLy8vL//AABEIABEAGAMBIgACEQEDEQH/xAAZAAEAAwEBAAAAAAAAAAAAAAAABAUHBgP/xAAfEAACAQQCAwAAAAAAAAAAAAAAAQMCBAVxMzQSEyP/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAL/xAAdEQACAQQDAAAAAAAAAAAAAAAAAQMCERJBIjEy/9oADAMBAAIRAxEAPwCXdyLwZQ3MqbZc5SlxxNnHzXn2dIOTEVCyseWRqTTBAy13642wPS3YzJDyNIzXA9GezdyrYBOKvRW5njABRo1L2f/Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691336-hero-3.jpg?dpr=0.25 160w,https://www.datocms-assets.com/64528/1646691336-hero-3.jpg?dpr=0.5 320w,https://www.datocms-assets.com/64528/1646691336-hero-3.jpg?dpr=0.75 480w,https://www.datocms-assets.com/64528/1646691336-hero-3.jpg 640w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691336-hero-3.jpg?dpr=0.25&fm=webp 160w,https://www.datocms-assets.com/64528/1646691336-hero-3.jpg?dpr=0.5&fm=webp 320w,https://www.datocms-assets.com/64528/1646691336-hero-3.jpg?dpr=0.75&fm=webp 480w,https://www.datocms-assets.com/64528/1646691336-hero-3.jpg?fm=webp 640w",
@@ -331,6 +353,7 @@
   },
   "hero-2.png": {
     "filename": "hero-2.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoIERILFRAVDhcVDQ0OEBUNDQ0YFxsZGBYfFhUaHyslGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQGy8oIik7OzsvLy8vLy8vLy82MjUyLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABkAEgMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAAABQIDBAcB/8QAIBAAAgIBAwUAAAAAAAAAAAAAAAECAxEEEnEhJDEzQf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQA/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECESIxQRP/2gAMAwEAAhEDEQA/AOwWWJ4QWSxTkXLUNzRo1N3avgo1UlEHDK745Z6JZal7nyBo8xLGFr2SRK25yoaI6n4Vv1HSWVhWhc4dWBa/IFLFP//Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691330-hero-2.png?dpr=0.25 137w,https://www.datocms-assets.com/64528/1646691330-hero-2.png?dpr=0.5 274w,https://www.datocms-assets.com/64528/1646691330-hero-2.png?dpr=0.75 411w,https://www.datocms-assets.com/64528/1646691330-hero-2.png 549w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691330-hero-2.png?dpr=0.25&fm=webp 137w,https://www.datocms-assets.com/64528/1646691330-hero-2.png?dpr=0.5&fm=webp 274w,https://www.datocms-assets.com/64528/1646691330-hero-2.png?dpr=0.75&fm=webp 411w,https://www.datocms-assets.com/64528/1646691330-hero-2.png?fm=webp 549w",
@@ -346,6 +369,7 @@
   },
   "hero-1.png": {
     "filename": "hero-1.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHEAoPBxAPDQgLDg0HDgcHBxENCgcNFx8lGBYVFiEaHysjGh0oHSEiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBARFS8cHR0vLy8vNS8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABkAFgMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAAABAIDAQUH/8QAGhAAAwEAAwAAAAAAAAAAAAAAAAECAxESE//EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAiH/2gAMAwEAAhEDEQA/AOx3aQRSYlWrI+zQ3mcImN66pGDX6bNgSFpdclDGdBdj0REevIE0AKI//9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691318-hero-1.png?dpr=0.25 158w,https://www.datocms-assets.com/64528/1646691318-hero-1.png?dpr=0.5 317w,https://www.datocms-assets.com/64528/1646691318-hero-1.png?dpr=0.75 475w,https://www.datocms-assets.com/64528/1646691318-hero-1.png 634w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691318-hero-1.png?dpr=0.25&fm=webp 158w,https://www.datocms-assets.com/64528/1646691318-hero-1.png?dpr=0.5&fm=webp 317w,https://www.datocms-assets.com/64528/1646691318-hero-1.png?dpr=0.75&fm=webp 475w,https://www.datocms-assets.com/64528/1646691318-hero-1.png?fm=webp 634w",
@@ -361,6 +385,7 @@
   },
   "hero.png": {
     "filename": "hero.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBg0PDw0JDQcNEA0QCggHBxEJFggYFx8ZGBYfFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFRAPFS8oGBwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABUAGAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAAAwQHAf/EABkQAAMBAQEAAAAAAAAAAAAAAAABAhEDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AOyt4eKkyfopqCHG3pFaetqUDL6beAEaey2SEpJgFEu4AA//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691313-hero.png?dpr=0.25 176w,https://www.datocms-assets.com/64528/1646691313-hero.png?dpr=0.5 352w,https://www.datocms-assets.com/64528/1646691313-hero.png?dpr=0.75 528w,https://www.datocms-assets.com/64528/1646691313-hero.png 704w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691313-hero.png?dpr=0.25&fm=webp 176w,https://www.datocms-assets.com/64528/1646691313-hero.png?dpr=0.5&fm=webp 352w,https://www.datocms-assets.com/64528/1646691313-hero.png?dpr=0.75&fm=webp 528w,https://www.datocms-assets.com/64528/1646691313-hero.png?fm=webp 704w",
@@ -376,6 +401,7 @@
   },
   "expo.jpg": {
     "filename": "expo.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLERISDxUNDQ0NDhENDQ0NFx8ZGBYfIhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoHSg1Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA8AGAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAEBgD/xAAeEAABAwQDAAAAAAAAAAAAAAABAAIDBAURExIxQf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGhEAAgIDAAAAAAAAAAAAAAAAACEBAgMRE//aAAwDAQACEQMRAD8Aoues5SIq5ob2gZ2BEqXGJpIKKHNXoXcLpGz1ZSlbK+ZxGVlOlQzjP//Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691280-expo.jpg?dpr=0.25 215w,https://www.datocms-assets.com/64528/1646691280-expo.jpg?dpr=0.5 430w,https://www.datocms-assets.com/64528/1646691280-expo.jpg?dpr=0.75 645w,https://www.datocms-assets.com/64528/1646691280-expo.jpg 860w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691280-expo.jpg?dpr=0.25&fm=webp 215w,https://www.datocms-assets.com/64528/1646691280-expo.jpg?dpr=0.5&fm=webp 430w,https://www.datocms-assets.com/64528/1646691280-expo.jpg?dpr=0.75&fm=webp 645w,https://www.datocms-assets.com/64528/1646691280-expo.jpg?fm=webp 860w",
@@ -391,6 +417,7 @@
   },
   "dianne-ameter.jpg": {
     "filename": "dianne-ameter.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoIFAgXChISDhMVDQ0PDhgNFg0NFx4eGCIfIhUdHyslJh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIig7NTs7NTU7OzsvOzs7LzUvNTU2LzsyNS88Oy8vLy8vLzs2Ly87Ly8vLy8vLy8vLy8vL//AABEIABgAGAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAABwMFBgH/xAAfEAABBQEAAgMAAAAAAAAAAAACAAEDBAURQXEhMWH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAGxEAAwACAwAAAAAAAAAAAAAAAAECERIDITH/2gAMAwEAAhEDEQA/AGnqWRaF/lZdr4DO7dU+xdIYHfvhLqzvkGg8ffKlu9WkyiOLaW0MwbYmP2hZTP1HONn6hFsEx0Xe8HKxekrrFRj03P8AV1Cc4T9Fq6mXguYSeGNkIQjqjcU8H//Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691276-dianne-ameter.jpg?dpr=0.25 100w,https://www.datocms-assets.com/64528/1646691276-dianne-ameter.jpg?dpr=0.5 200w,https://www.datocms-assets.com/64528/1646691276-dianne-ameter.jpg?dpr=0.75 300w,https://www.datocms-assets.com/64528/1646691276-dianne-ameter.jpg 400w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691276-dianne-ameter.jpg?dpr=0.25&fm=webp 100w,https://www.datocms-assets.com/64528/1646691276-dianne-ameter.jpg?dpr=0.5&fm=webp 200w,https://www.datocms-assets.com/64528/1646691276-dianne-ameter.jpg?dpr=0.75&fm=webp 300w,https://www.datocms-assets.com/64528/1646691276-dianne-ameter.jpg?fm=webp 400w",
@@ -406,6 +433,7 @@
   },
   "desmond-eagle.jpg": {
     "filename": "desmond-eagle.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhYSCAgLEhUPDQ8LDg0NDhMVDw0NFxUaGCIVIhYaHysjGh0oHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIig7MjszOzs7Ozs7Ozs0NS81Oy88OzsvLy87Ly8vNS8vLzs7Oy87Ly81Ly81OzsvLzI7Nv/AABEIABgAGAMBIgACEQEDEQH/xAAaAAEAAgMBAAAAAAAAAAAAAAAABAUCAwYB/8QAHxAAAQQCAgMAAAAAAAAAAAAAAAECAwQhMQUREzJB/8QAFgEBAQEAAAAAAAAAAAAAAAAABgQD/8QAHBEAAwEBAAMBAAAAAAAAAAAAAQIDABESITEE/9oADAMBAAIRAxEAPwC0nttYzKkNnKRq7aHt+jIsWOyji42x5s9h2KXbp5mF6SQgE6+luNemFBEbSla36CCs6lz0a2bTK/d281Brk0aI+Ij79UAFswAMK/U7FhsbFBrE0ADB0HdfKjeA97//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691272-desmond-eagle.jpg?dpr=0.25 188w,https://www.datocms-assets.com/64528/1646691272-desmond-eagle.jpg?dpr=0.5 376w,https://www.datocms-assets.com/64528/1646691272-desmond-eagle.jpg?dpr=0.75 564w,https://www.datocms-assets.com/64528/1646691272-desmond-eagle.jpg 752w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691272-desmond-eagle.jpg?dpr=0.25&fm=webp 188w,https://www.datocms-assets.com/64528/1646691272-desmond-eagle.jpg?dpr=0.5&fm=webp 376w,https://www.datocms-assets.com/64528/1646691272-desmond-eagle.jpg?dpr=0.75&fm=webp 564w,https://www.datocms-assets.com/64528/1646691272-desmond-eagle.jpg?fm=webp 752w",
@@ -421,6 +449,7 @@
   },
   "carla.jpg": {
     "filename": "carla.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgXCgoLDhgQDhcVEhQdHhEYIx0lJCkfIiEmHy0jHSE0JiEuLT4xPi5GMjIyJSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsmIig7NTs7Ly8vOy87LzI7Ozs7OzU7Oy8vLzs7OzsvOzsvOzsvLy8yOy87Oy87NS81OzsvL//AABEIABgAGAMBIgACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABQcGAf/EACAQAAEEAgIDAQAAAAAAAAAAAAEAAgMEBhEFITFBgRL/xAAYAQACAwAAAAAAAAAAAAAAAAACAwEEBf/EABwRAAICAgMAAAAAAAAAAAAAAAABERICAyIjQf/aAAwDAQACEQMRAD8ApXO342VyNpHxF5j5+j7WXy3IzBSe/wDXgJPhuQutOJcdEFR7AafXYs5usbGO0LGWeWcIunIRQIsTzKI3WKTh9SjEtwWn68dIQlZPkjQ04p6MihxgzRja4hCZJTqj/9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691268-carla.jpg?dpr=0.25 148w,https://www.datocms-assets.com/64528/1646691268-carla.jpg?dpr=0.5 296w,https://www.datocms-assets.com/64528/1646691268-carla.jpg?dpr=0.75 444w,https://www.datocms-assets.com/64528/1646691268-carla.jpg 592w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691268-carla.jpg?dpr=0.25&fm=webp 148w,https://www.datocms-assets.com/64528/1646691268-carla.jpg?dpr=0.5&fm=webp 296w,https://www.datocms-assets.com/64528/1646691268-carla.jpg?dpr=0.75&fm=webp 444w,https://www.datocms-assets.com/64528/1646691268-carla.jpg?fm=webp 592w",
@@ -436,6 +465,7 @@
   },
   "bg.jpg": {
     "filename": "bg.jpg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoTCAgLChYLDhUVGg0NGB0VFh0YHBcdGBYVKhgeHysvJikoHSEWMDUlKDkyMjUyGSI4PTcwPCsxMi8BCgsLDg0OFxAQHDsoIig7Oy87Ozs7Ozs7Ly8vLy8vNS8vOzsvLzsvLy8vLy8vLy81Ly8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAAABAYH/8QAHhAAAQQCAwEAAAAAAAAAAAAAAQACAwQGIQUTcTH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRIRL/2gAMAwEAAhEDEQA/AJqpikJOgmLOGQvj21N8ZyLnv+KgE3ZHsJNv10tWOTL72KurvPWT4UK9uQMedhCFVOmxLw//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646691261-bg.jpg?dpr=0.25 400w,https://www.datocms-assets.com/64528/1646691261-bg.jpg?dpr=0.5 800w,https://www.datocms-assets.com/64528/1646691261-bg.jpg?dpr=0.75 1200w,https://www.datocms-assets.com/64528/1646691261-bg.jpg 1600w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646691261-bg.jpg?dpr=0.25&fm=webp 400w,https://www.datocms-assets.com/64528/1646691261-bg.jpg?dpr=0.5&fm=webp 800w,https://www.datocms-assets.com/64528/1646691261-bg.jpg?dpr=0.75&fm=webp 1200w,https://www.datocms-assets.com/64528/1646691261-bg.jpg?fm=webp 1600w",
@@ -451,6 +481,7 @@
   },
   "sphere-enterprise.png": {
     "filename": "sphere-enterprise.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLChMXDhgVDg0ODiAVDRUPFxgbGCIWFiEdHysjHR0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDglIig7OzsvNS81Ly8vNS81NC8vNS8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABkAFAMBIgACEQEDEQH/xAAaAAABBQEAAAAAAAAAAAAAAAAFAAEDBAcG/8QAIBAAAgICAQUBAAAAAAAAAAAAAAEDBAIRBRMhMTNREv/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAP/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIDEQQSIf/aAAwDAQACEQMRAD8A2GebGLBtsghux5dmwVyNiRRsD1rkrm1t+S+vi9o6LTteth9EBo583ghyN1ehpPydNOLsDKfHL970Hr/oKlPyaxtkosaQ6raWhFpiJHNhh//Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?dpr=0.25 141w,https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?dpr=0.5 282w,https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?dpr=0.75 423w,https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png 565w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?dpr=0.25&fm=webp 141w,https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?dpr=0.5&fm=webp 282w,https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?dpr=0.75&fm=webp 423w,https://www.datocms-assets.com/64528/1646636848-sphere-enterprise.png?fm=webp 565w",
@@ -466,6 +497,7 @@
   },
   "slack-integration.png": {
     "filename": "slack-integration.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLChYPDhgZFg0ZERIQDREPFx0gGBYTFiEaNysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFhAQHC8oIhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAZAAABBQAAAAAAAAAAAAAAAAAGAAECAwX/xAAbEAACAwEBAQAAAAAAAAAAAAABAwACBAURIf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAQIh/9oADAMBAAIRAxEAPwAt5XaD2D5C7NpF1iD2bjIz2Bp5N/IgCnkUledXXeIpB6xWNAL/2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636830-slack-integration.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636830-slack-integration.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636830-slack-integration.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636830-slack-integration.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636830-slack-integration.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636830-slack-integration.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636830-slack-integration.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636830-slack-integration.png?fm=webp 1240w",
@@ -481,6 +513,7 @@
   },
   "playground.png": {
     "filename": "playground.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLFgoLDhkSGhUNGhUNEhEVIx8ZHRYVFhUaHysjHR0oHRUaJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OEA0QEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAFBgADB//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAAgMEBTERE0H/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANYy8vVQeUo4i+TdI49TlkIRNVLXaQKpioY5y4b5Uh9lgOiBUVYjDWAKJL//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636814-playground.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636814-playground.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636814-playground.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636814-playground.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636814-playground.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636814-playground.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636814-playground.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636814-playground.png?fm=webp 1240w",
@@ -496,6 +529,7 @@
   },
   "packagers.png": {
     "filename": "packagers.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgUChYXDhUQDg0NDh0VFQ4WFxUZGBYfIiEdHy4jGh0oHRUiJDUlKDkvMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIigvLy87OzsvLy87Ly8vLy8vLy8vLzsvLzUvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAEAQMHAP/EAB0QAAICAgMBAAAAAAAAAAAAAAIDAAEREgQFIRT/xAAVAQEBAAAAAAAAAAAAAAAAAAACAP/EABsRAAICAwEAAAAAAAAAAAAAAAEhAAISMWER/9oADAMBAAIRAxEAPwDYXvFAbFAj3SrPXEZyUC4MXAB1St8yG3ETXHsaHNWdZqTKflFdeXOlYtQ1I8c//9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636810-packagers.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636810-packagers.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636810-packagers.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636810-packagers.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636810-packagers.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636810-packagers.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636810-packagers.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636810-packagers.png?fm=webp 1240w",
@@ -511,6 +545,7 @@
   },
   "multi-scope.png": {
     "filename": "multi-scope.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgQDhURFR0NGh0QJhYdJCITFhUaHysjGh0oHRUiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIh01Ly87Ozs7Oy87LzsvLy8vLy87Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAFBgAEB//EAB0QAAIDAAIDAAAAAAAAAAAAAAEDAAIEESEFBhP/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/8QAGxEAAQQDAAAAAAAAAAAAAAAAAAECISIDERL/2gAMAwEAAhEDEQA/ANd26q5Um5gZPtKbu+fUJeXUG5iDFXN4hQ1G/PfMo1cerG5co3L2VfQESStnUFLAEkSAyf/Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636806-multi-scope.png?dpr=0.25 309w,https://www.datocms-assets.com/64528/1646636806-multi-scope.png?dpr=0.5 619w,https://www.datocms-assets.com/64528/1646636806-multi-scope.png?dpr=0.75 928w,https://www.datocms-assets.com/64528/1646636806-multi-scope.png 1238w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636806-multi-scope.png?dpr=0.25&fm=webp 309w,https://www.datocms-assets.com/64528/1646636806-multi-scope.png?dpr=0.5&fm=webp 619w,https://www.datocms-assets.com/64528/1646636806-multi-scope.png?dpr=0.75&fm=webp 928w,https://www.datocms-assets.com/64528/1646636806-multi-scope.png?fm=webp 1238w",
@@ -526,6 +561,7 @@
   },
   "map.png": {
     "filename": "map.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgsICA8NCQgLDRgODQ0HEhENEg4SFxMZGCITFiEaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFRAQHS8dFigvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAAAwIEB//EABsQAAIDAAMAAAAAAAAAAAAAAAABAgMRBBIy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDZJSUVopchbhK/wV4Q1lDZ3JoBF66oAP/Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636802-map.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636802-map.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636802-map.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636802-map.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636802-map.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636802-map.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636802-map.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636802-map.png?fm=webp 1240w",
@@ -541,6 +577,7 @@
   },
   "goodbye-configuration-files.png": {
     "filename": "goodbye-configuration-files.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIrIiEmKzcvJjI0KSEiMEElNDk7NT4+MTRESTc1PDc9RS8BCgsLDg0NFRANEi8oFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAXAAEAAwAAAAAAAAAAAAAAAAAHAAQG/8QAIBAAAQUAAgIDAAAAAAAAAAAABAABAgMFETFBUQYHIv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBW2zWBzrLX9I+wPsEQzYsEg/7hLh24SDtCwLAlXPpYHM+G5wmnMiquMZzly7s3aBFGNgRW0m8qKuGPGqpmZ1EH/9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636799-goodbye-configuration-files.png?dpr=0.25 311w,https://www.datocms-assets.com/64528/1646636799-goodbye-configuration-files.png?dpr=0.5 622w,https://www.datocms-assets.com/64528/1646636799-goodbye-configuration-files.png?dpr=0.75 933w,https://www.datocms-assets.com/64528/1646636799-goodbye-configuration-files.png 1244w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636799-goodbye-configuration-files.png?dpr=0.25&fm=webp 311w,https://www.datocms-assets.com/64528/1646636799-goodbye-configuration-files.png?dpr=0.5&fm=webp 622w,https://www.datocms-assets.com/64528/1646636799-goodbye-configuration-files.png?dpr=0.75&fm=webp 933w,https://www.datocms-assets.com/64528/1646636799-goodbye-configuration-files.png?fm=webp 1244w",
@@ -556,6 +593,7 @@
   },
   "example-008.png": {
     "filename": "example-008.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDh8QDhUYDhUVDhEVFyYZGBYaGhUmHy0jHR0oHSEiMDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIigvLzU7OzsvLy87NTUvLy8vLy87Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAZAAABBQAAAAAAAAAAAAAAAAAFAAECBAf/xAAfEAAABgEFAAAAAAAAAAAAAAAAAQIDBAUSERQhIkH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIhMRH/2gAMAwEAAhEDEQA/ANXs56YbBmAkG9KQ/iRegzZw0SG9FCjXUjDS8iDzUKd6Y9CO76EegYTejJSjgIA2il4f/9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636795-example-008.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636795-example-008.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636795-example-008.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636795-example-008.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636795-example-008.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636795-example-008.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636795-example-008.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636795-example-008.png?fm=webp 1240w",
@@ -571,6 +609,7 @@
   },
   "editor-logo-comp.png": {
     "filename": "editor-logo-comp.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8eJCIfIiEmKzcvJik0KSEiMEExNDkvPj4+JS5ESU01PCtFRS8BCgsLCAoIEBAQEC8oIhwvLy8vLzsvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAGBwABA//EACQQAAECBQIHAAAAAAAAAAAAAAECAwAEBQYREiEHFDNSYbHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ADG4r1Yp0kt5zZKRk7QuBxfQJjVyTujPjPuGXXbVkp2VU08kKSoYIIgBHCukcz1HNHZrOPsAX0G+ZeqSqXmd0mJGtHtORkGEtMJCUgbARUB//9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636791-editor-logo-comp.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636791-editor-logo-comp.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636791-editor-logo-comp.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636791-editor-logo-comp.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636791-editor-logo-comp.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636791-editor-logo-comp.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636791-editor-logo-comp.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636791-editor-logo-comp.png?fm=webp 1240w",
@@ -586,6 +625,7 @@
   },
   "devtools.png": {
     "filename": "devtools.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLFgoVDhUQEhAVFhUPFg0aFxUZGBYVFiEmHysjGh0oHRUaJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIh0vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAXAAEAAwAAAAAAAAAAAAAAAAAFAAMH/8QAHRAAAAYDAQAAAAAAAAAAAAAAAAECAwQRBRITQf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwDW8i/xjmYEiZou+tehie2TyNTB0fEMk5sGFNJVuYlaboQVHHS0miEASul//9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636786-devtools.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636786-devtools.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636786-devtools.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636786-devtools.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636786-devtools.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636786-devtools.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636786-devtools.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636786-devtools.png?fm=webp 1240w",
@@ -601,6 +641,7 @@
   },
   "component-versions.png": {
     "filename": "component-versions.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgRDxUVDg0VDQ0NDhENDQ0YFx8ZGCIfFiEaHysjGh0oHRUWJDUlKC0vMjIyHSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIh07Ly8vOy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAZAAABBQAAAAAAAAAAAAAAAAAAAQIEBQf/xAAcEAACAgMBAQAAAAAAAAAAAAAAAQIEAwUhMRP/xAAWAQADAAAAAAAAAAAAAAAAAAAAAgP/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQESIf/aAAwDAQACEQMRAD8A0/Ps1FeDq937ILFDHIWvUjjXARSaoq9tNpNgS9hXjNdAMEhH/9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636782-component-versions.png?dpr=0.25 265w,https://www.datocms-assets.com/64528/1646636782-component-versions.png?dpr=0.5 531w,https://www.datocms-assets.com/64528/1646636782-component-versions.png?dpr=0.75 797w,https://www.datocms-assets.com/64528/1646636782-component-versions.png 1063w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636782-component-versions.png?dpr=0.25&fm=webp 265w,https://www.datocms-assets.com/64528/1646636782-component-versions.png?dpr=0.5&fm=webp 531w,https://www.datocms-assets.com/64528/1646636782-component-versions.png?dpr=0.75&fm=webp 797w,https://www.datocms-assets.com/64528/1646636782-component-versions.png?fm=webp 1063w",
@@ -616,6 +657,7 @@
   },
   "component-community.png": {
     "filename": "component-community.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLFgoLDhgQFRUNDhUOFQ4YIx8gHSITFhUdHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHTsoIigvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAFBgECBwD/xAAeEAACAgICAwAAAAAAAAAAAAABAwAEAhEFEhNBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAMA/8QAGBEAAgMAAAAAAAAAAAAAAAAAACEBAhH/2gAMAwEAAhEDEQA/ANa5N4RVyP2J6uVJuEa9xyvIxegjKAk8Mjz9tDe4lZnEQWo2+6hJllVcVYACdCZH/9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636777-component-community.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636777-component-community.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636777-component-community.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636777-component-community.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636777-component-community.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636777-component-community.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636777-component-community.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636777-component-community.png?fm=webp 1240w",
@@ -631,6 +673,7 @@
   },
   "comp-build-flow.png": {
     "filename": "comp-build-flow.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoPCA8SCg0LDg8ZFg0NDhUOFg4YFxUZGCIfFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAPFS8cFigvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAXAAEAAwAAAAAAAAAAAAAAAAAEAAEH/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECAwQREiMz/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/ANjt82Ex49gnIeqwlM3yKiabOSSIHtm9FEX/2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636773-comp-build-flow.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636773-comp-build-flow.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636773-comp-build-flow.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636773-comp-build-flow.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636773-comp-build-flow.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636773-comp-build-flow.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636773-comp-build-flow.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636773-comp-build-flow.png?fm=webp 1240w",
@@ -646,6 +689,7 @@
   },
   "cloud-scope.png": {
     "filename": "cloud-scope.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhUNCwgLChENDhgOCAkUExEQDQgNFx8ZGBYTFiEaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFRAPEC8oFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAABBAUHAP/EABoQAAICAwAAAAAAAAAAAAAAAAACA0EBEVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2UGXXFijzNoWeZgKLTothIzyt04D/9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636768-cloud-scope.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636768-cloud-scope.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636768-cloud-scope.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636768-cloud-scope.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636768-cloud-scope.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636768-cloud-scope.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636768-cloud-scope.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636768-cloud-scope.png?fm=webp 1240w",
@@ -661,6 +705,7 @@
   },
   "cloud-components.png": {
     "filename": "cloud-components.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhQICAgIFQoLFQ0XDQ0NDhENFg0NFxMZGBYfIhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLCQ0OFQ8QFS8dIh0vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAZAAABBQAAAAAAAAAAAAAAAAAEAAEDBQf/xAAbEAADAAIDAAAAAAAAAAAAAAAAAQIRIgQTUf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2VtSsshXJh1gfkPTAFE7ZAsOyfRAdU5Qgj//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636762-cloud-components.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636762-cloud-components.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636762-cloud-components.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636762-cloud-components.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636762-cloud-components.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636762-cloud-components.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636762-cloud-components.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636762-cloud-components.png?fm=webp 1240w",
@@ -676,6 +721,7 @@
   },
   "cloud-code.png": {
     "filename": "cloud-code.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoNCAgXChELDhgODhkVDhEVFA0MFxUZGBYTFhUaIisjHR0oHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQGjscIh0vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAZAAABBQAAAAAAAAAAAAAAAAAGAAMEBQf/xAAeEAABAwQDAAAAAAAAAAAAAAABAAMEAgUhMhFBsf/EABYBAAMAAAAAAAAAAAAAAAAAAAABAv/EABcRAQEBAQAAAAAAAAAAAAAAAAARIQH/2gAMAwEAAhEDEQA/ANlJA7UKVdo8Tcp6vU5Q5eIoeJ5KcwLdq/RntPUkNQYQaOKklF6H/9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636759-cloud-code.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636759-cloud-code.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636759-cloud-code.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636759-cloud-code.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636759-cloud-code.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636759-cloud-code.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636759-cloud-code.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636759-cloud-code.png?fm=webp 1240w",
@@ -691,6 +737,7 @@
   },
   "button-docs.png": {
     "filename": "button-docs.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx0jLyIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESTcwSDc9PjYBCgsLDg0OEBANHC8cHRwvNS81Oy8vLy81Ly8vLzsvOy8vOy8vLy8vLzsvLzsvLy8vOy8vLy8vOy8vLzsvOy8vO//AABEIAA4AGAMBIgACEQEDEQH/xAAZAAABBQAAAAAAAAAAAAAAAAAEAAEDBgf/xAAeEAABBAIDAQAAAAAAAAAAAAABAAIEBgMRBRIhMf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A0Gw3OFwUV2fMerR9JQdXv0GxAmO7sAdHzRBT2arQ+UiuwyAHMcPQgqlT4HCbbFb1BOz6SSkIuuWZjxM7fUlBJitdj1tJCP/Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636751-button-docs.png?dpr=0.25 310w,https://www.datocms-assets.com/64528/1646636751-button-docs.png?dpr=0.5 620w,https://www.datocms-assets.com/64528/1646636751-button-docs.png?dpr=0.75 930w,https://www.datocms-assets.com/64528/1646636751-button-docs.png 1240w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636751-button-docs.png?dpr=0.25&fm=webp 310w,https://www.datocms-assets.com/64528/1646636751-button-docs.png?dpr=0.5&fm=webp 620w,https://www.datocms-assets.com/64528/1646636751-button-docs.png?dpr=0.75&fm=webp 930w,https://www.datocms-assets.com/64528/1646636751-button-docs.png?fm=webp 1240w",
@@ -706,6 +753,7 @@
   },
   "automated-github.png": {
     "filename": "automated-github.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoIEQ0VDg0ODhIQDg4NDREJDQ0WGhQZGBYTFhUaHysjGh0oHRUiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFRAQFS8dIigvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAFAQQHAP/EABsQAAICAwEAAAAAAAAAAAAAAAABAgMRIzME/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDY7niqQVCW0R9T1BcOglCldqUTiom0iQP/2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636744-automated-github.png?dpr=0.25 265w,https://www.datocms-assets.com/64528/1646636744-automated-github.png?dpr=0.5 531w,https://www.datocms-assets.com/64528/1646636744-automated-github.png?dpr=0.75 797w,https://www.datocms-assets.com/64528/1646636744-automated-github.png 1063w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636744-automated-github.png?dpr=0.25&fm=webp 265w,https://www.datocms-assets.com/64528/1646636744-automated-github.png?dpr=0.5&fm=webp 531w,https://www.datocms-assets.com/64528/1646636744-automated-github.png?dpr=0.75&fm=webp 797w,https://www.datocms-assets.com/64528/1646636744-automated-github.png?fm=webp 1063w",
@@ -721,6 +769,7 @@
   },
   "5-orginze.png": {
     "filename": "5-orginze.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgXDxIWDRgODhkIDRUNDg8NFx8ZGBYfFhUdHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFRAQEC8dFh0vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAADBAACB//EABsQAAIDAAMAAAAAAAAAAAAAAAACAQMRBDFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A2RmhY0qlqt6B5DTgCpp0Ued4WOyClrThAqf/2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636738-5-orginze.png?dpr=0.25 153w,https://www.datocms-assets.com/64528/1646636738-5-orginze.png?dpr=0.5 306w,https://www.datocms-assets.com/64528/1646636738-5-orginze.png?dpr=0.75 459w,https://www.datocms-assets.com/64528/1646636738-5-orginze.png 613w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636738-5-orginze.png?dpr=0.25&fm=webp 153w,https://www.datocms-assets.com/64528/1646636738-5-orginze.png?dpr=0.5&fm=webp 306w,https://www.datocms-assets.com/64528/1646636738-5-orginze.png?dpr=0.75&fm=webp 459w,https://www.datocms-assets.com/64528/1646636738-5-orginze.png?fm=webp 613w",
@@ -736,6 +785,7 @@
   },
   "logo-alt.png": {
     "filename": "logo-alt.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhQICAgLFgoLDhELDQ0VFBINDRENFxUdGBYTFhUdHysjGh0oHRUiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDQ0OEBANHDsdIh4vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAAkAGAMBIgACEQEDEQH/xAAZAAABBQAAAAAAAAAAAAAAAAAFAAEEBgf/xAAbEAACAgMBAAAAAAAAAAAAAAAAAgEDBBExIf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A0+7DllBd+CytuCyWcB2R0ASkWJ5oclT0QI//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636351-logo-alt.png?dpr=0.25 155w,https://www.datocms-assets.com/64528/1646636351-logo-alt.png?dpr=0.5 310w,https://www.datocms-assets.com/64528/1646636351-logo-alt.png?dpr=0.75 465w,https://www.datocms-assets.com/64528/1646636351-logo-alt.png 621w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636351-logo-alt.png?dpr=0.25&fm=webp 155w,https://www.datocms-assets.com/64528/1646636351-logo-alt.png?dpr=0.5&fm=webp 310w,https://www.datocms-assets.com/64528/1646636351-logo-alt.png?dpr=0.75&fm=webp 465w,https://www.datocms-assets.com/64528/1646636351-logo-alt.png?fm=webp 621w",
@@ -751,6 +801,7 @@
   },
   "logo.png": {
     "filename": "logo.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhMICAgLChMWDhgMDg0NFhEOIg4YFxMiGBYVFhUmHyslHR0oHRUWJDUlKDkvMjIyGSI4PTcwPCsxMi8BCgsLDg0OHQkNHC8eHhwvLy8vOy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAAkAGAMBIgACEQEDEQH/xAAaAAABBQEAAAAAAAAAAAAAAAADAQIEBQcA/8QAHBAAAgICAwAAAAAAAAAAAAAAAAIDMQEEESFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDY3lVMd5GJsI/vADYoBHYROk2ETF8ilfNRwH//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636345-logo.png?dpr=0.25 160w,https://www.datocms-assets.com/64528/1646636345-logo.png?dpr=0.5 320w,https://www.datocms-assets.com/64528/1646636345-logo.png?dpr=0.75 480w,https://www.datocms-assets.com/64528/1646636345-logo.png 640w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636345-logo.png?dpr=0.25&fm=webp 160w,https://www.datocms-assets.com/64528/1646636345-logo.png?dpr=0.5&fm=webp 320w,https://www.datocms-assets.com/64528/1646636345-logo.png?dpr=0.75&fm=webp 480w,https://www.datocms-assets.com/64528/1646636345-logo.png?fm=webp 640w",
@@ -766,6 +817,7 @@
   },
   "icon.png": {
     "filename": "icon.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoIDQ8QDQ0KDhANDQ4NDhENFg0NFxMZGBYTIiEaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAGAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAABgQFBwH/xAAgEAACAgEDBQAAAAAAAAAAAAAAAQMEAgUREhMhI2GB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANdu5rGFi7lKusWmpTNRMV8rPn+gNNWZcUBWVZnxR0CXrHaFias27W3sAAY6OO8aAAA//9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636342-icon.png?dpr=0.25 128w,https://www.datocms-assets.com/64528/1646636342-icon.png?dpr=0.5 256w,https://www.datocms-assets.com/64528/1646636342-icon.png?dpr=0.75 384w,https://www.datocms-assets.com/64528/1646636342-icon.png 512w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636342-icon.png?dpr=0.25&fm=webp 128w,https://www.datocms-assets.com/64528/1646636342-icon.png?dpr=0.5&fm=webp 256w,https://www.datocms-assets.com/64528/1646636342-icon.png?dpr=0.75&fm=webp 384w,https://www.datocms-assets.com/64528/1646636342-icon.png?fm=webp 512w",
@@ -781,6 +833,7 @@
   },
   "hero.jpeg": {
     "filename": "hero.jpeg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgQFRkNDh0dEgUYFyIlHRYVFiEtJislGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIigvLy8vOzs7Oy81Ly8vLy8vLy8vLzsvNS8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAAkAGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAFBgADB//EAB0QAAEEAgMAAAAAAAAAAAAAAAABAgMEBTIxQkP/xAAVAQEBAAAAAAAAAAAAAAAAAAAEAv/EABgRAQEBAQEAAAAAAAAAAAAAAAEAExED/9oADAMBAAIRAxEAPwDYXWYW8yIUPylRnqgFt6KBJt1D6q8kHkJN7stWXuhBNIWtOd//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636339-hero.jpeg?dpr=0.25 480w,https://www.datocms-assets.com/64528/1646636339-hero.jpeg?dpr=0.5 960w,https://www.datocms-assets.com/64528/1646636339-hero.jpeg?dpr=0.75 1440w,https://www.datocms-assets.com/64528/1646636339-hero.jpeg 1920w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636339-hero.jpeg?dpr=0.25&fm=webp 480w,https://www.datocms-assets.com/64528/1646636339-hero.jpeg?dpr=0.5&fm=webp 960w,https://www.datocms-assets.com/64528/1646636339-hero.jpeg?dpr=0.75&fm=webp 1440w,https://www.datocms-assets.com/64528/1646636339-hero.jpeg?fm=webp 1920w",
@@ -796,6 +849,7 @@
   },
   "background_4.jpeg": {
     "filename": "background_4.jpeg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoIDggLDQ0NDQwNDQ0NDhENDg0YFxUZGBYVFhUaHysjGh0oHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OEBAOHC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAAsAGAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAAABAUH/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECETEDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFB/9oADAMBAAIRAxEAPwDPJ91Ia8ndRI9u9G+DdaPAqzL1xoCXJutAlV//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636333-background_4.jpeg?dpr=0.25 543w,https://www.datocms-assets.com/64528/1646636333-background_4.jpeg?dpr=0.5 1086w,https://www.datocms-assets.com/64528/1646636333-background_4.jpeg?dpr=0.75 1629w,https://www.datocms-assets.com/64528/1646636333-background_4.jpeg 2172w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636333-background_4.jpeg?dpr=0.25&fm=webp 543w,https://www.datocms-assets.com/64528/1646636333-background_4.jpeg?dpr=0.5&fm=webp 1086w,https://www.datocms-assets.com/64528/1646636333-background_4.jpeg?dpr=0.75&fm=webp 1629w,https://www.datocms-assets.com/64528/1646636333-background_4.jpeg?fm=webp 2172w",
@@ -811,6 +865,7 @@
   },
   "adobestock_434934439.jpeg": {
     "filename": "adobestock_434934439.jpeg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDh0YFhkZDh0VFhUYHRYZGBYVFhUaHysjHSkoHRUiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHC8oIig7OzsvOy87LzsvLzU7OzsvLzsvNS81Ly8vLy8vOy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAAoAGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAACBQAEBv/EAB4QAAICAAcAAAAAAAAAAAAAAAEDAAIEERIhIjFB/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIBEQMxUf/aAAwDAQACEQMRAD8AwOHStp5GWGJUmmdTFyiR6YTbHT2ZVTQOOgtbS9siZIqxZItsTJBZWpjdVuLP/9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636313-adobestock_434934439.jpeg?dpr=0.25 480w,https://www.datocms-assets.com/64528/1646636313-adobestock_434934439.jpeg?dpr=0.5 960w,https://www.datocms-assets.com/64528/1646636313-adobestock_434934439.jpeg?dpr=0.75 1440w,https://www.datocms-assets.com/64528/1646636313-adobestock_434934439.jpeg 1920w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636313-adobestock_434934439.jpeg?dpr=0.25&fm=webp 480w,https://www.datocms-assets.com/64528/1646636313-adobestock_434934439.jpeg?dpr=0.5&fm=webp 960w,https://www.datocms-assets.com/64528/1646636313-adobestock_434934439.jpeg?dpr=0.75&fm=webp 1440w,https://www.datocms-assets.com/64528/1646636313-adobestock_434934439.jpeg?fm=webp 1920w",
@@ -826,6 +881,7 @@
   },
   "adobestock_429117297.jpeg": {
     "filename": "adobestock_429117297.jpeg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoTEggQFgoWDhgNDg0NFxMNDRENFxYZGBYfFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHA4QHDsdHSg7Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAAwAGAMBIgACEQEDEQH/xAAZAAABBQAAAAAAAAAAAAAAAAAEAAECAwb/xAAeEAABBAIDAQAAAAAAAAAAAAAAAQIDBBIhFEFRE//EABUBAQEAAAAAAAAAAAAAAAAAAAQB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAwDAQACEQMRAD8AxcVRreyq3XbguyLJn+g9yeTFdileA3OsD4rc12OBpZl+i7ER2IUM/9k=",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636307-adobestock_429117297.jpeg?dpr=0.25 480w,https://www.datocms-assets.com/64528/1646636307-adobestock_429117297.jpeg?dpr=0.5 960w,https://www.datocms-assets.com/64528/1646636307-adobestock_429117297.jpeg?dpr=0.75 1440w,https://www.datocms-assets.com/64528/1646636307-adobestock_429117297.jpeg 1920w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636307-adobestock_429117297.jpeg?dpr=0.25&fm=webp 480w,https://www.datocms-assets.com/64528/1646636307-adobestock_429117297.jpeg?dpr=0.5&fm=webp 960w,https://www.datocms-assets.com/64528/1646636307-adobestock_429117297.jpeg?dpr=0.75&fm=webp 1440w,https://www.datocms-assets.com/64528/1646636307-adobestock_429117297.jpeg?fm=webp 1920w",
@@ -841,6 +897,7 @@
   },
   "adobecolorgradient-gradient_a-1024x576.png": {
     "filename": "adobecolorgradient-gradient_a-1024x576.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgPBgoOCBELDQYNDg8QDgUHDRENDQgYFxUZGBYfFhUaHysjGh0oHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHC8cFh07Oy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAAsAGAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAFBAD/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQQSAyECBSL/xAAXAQADAQAAAAAAAAAAAAAAAAAEBQYD/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxESIf/aAAwDAQACEQMRAD8AAi5VYV45FQBiN2FuL8DpDIm9BmRz8i2Ym7BvZjJz2GUoNJ//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636303-adobecolorgradient-gradient_a-1024x576.png?dpr=0.25 480w,https://www.datocms-assets.com/64528/1646636303-adobecolorgradient-gradient_a-1024x576.png?dpr=0.5 960w,https://www.datocms-assets.com/64528/1646636303-adobecolorgradient-gradient_a-1024x576.png?dpr=0.75 1440w,https://www.datocms-assets.com/64528/1646636303-adobecolorgradient-gradient_a-1024x576.png 1920w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636303-adobecolorgradient-gradient_a-1024x576.png?dpr=0.25&fm=webp 480w,https://www.datocms-assets.com/64528/1646636303-adobecolorgradient-gradient_a-1024x576.png?dpr=0.5&fm=webp 960w,https://www.datocms-assets.com/64528/1646636303-adobecolorgradient-gradient_a-1024x576.png?dpr=0.75&fm=webp 1440w,https://www.datocms-assets.com/64528/1646636303-adobecolorgradient-gradient_a-1024x576.png?fm=webp 1920w",
@@ -856,6 +913,7 @@
   },
   "wa-card.png": {
     "filename": "wa-card.png",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHDwoOEAgLDgoLDg0QDg4NDh0NDQ0YFx8ZGBYVFhUaKysjGh0oHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHC8oIh07Ly87Oy87Oy8vLy8vLy8vLy8vOy87LzsvLy8vLy8vLy8vNS8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAABQEDBv/EAB0QAAEEAwEBAAAAAAAAAAAAAAABAgNCBQZRQQT/xAAWAQADAAAAAAAAAAAAAAAAAAABAgP/xAAZEQEAAwEBAAAAAAAAAAAAAAABABESQQL/2gAMAwEAAhEDEQA/AFrvgb0huPavpn5NmkSjiyHY5H0UCOobcxrPjm9AVzZ2RaqAzfJI9s//2Q==",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636299-wa-card.png?dpr=0.25 480w,https://www.datocms-assets.com/64528/1646636299-wa-card.png?dpr=0.5 960w,https://www.datocms-assets.com/64528/1646636299-wa-card.png?dpr=0.75 1440w,https://www.datocms-assets.com/64528/1646636299-wa-card.png 1920w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636299-wa-card.png?dpr=0.25&fm=webp 480w,https://www.datocms-assets.com/64528/1646636299-wa-card.png?dpr=0.5&fm=webp 960w,https://www.datocms-assets.com/64528/1646636299-wa-card.png?dpr=0.75&fm=webp 1440w,https://www.datocms-assets.com/64528/1646636299-wa-card.png?fm=webp 1920w",
@@ -871,6 +929,7 @@
   },
   "photo-1640872571837-f9405b1bb933.jpeg": {
     "filename": "photo-1640872571837-f9405b1bb933.jpeg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDiUVFhEYIysqJSIfIiEmNSsvJiY0KSEiLEElLi0vMjI+JS4+PTdFPCs1RS8BCgsLDg0OHBAQHC8cIig7LzsvLy8vLy8vLzs1Ozs7LzsvLy8vLy8vLy8vOzs7Ly8vLy8vLy8vLy8vLy81Ly8vL//AABEIABgAEAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAAABAcG/8QAIRAAAQMDBAMAAAAAAAAAAAAAAgABAwQFEQYSIWETQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAACAP/EABcRAQEBAQAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/AKVcqkY5By6ahqRKmbDrD6ovg07iW/HKdtV7GajF93pSSTXN4knaKETdtz5fHxk1pG/yHSeGQsnHw/aEI0+Ztf/Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636295-photo-1640872571837-f9405b1bb933.jpeg?dpr=0.25 270w,https://www.datocms-assets.com/64528/1646636295-photo-1640872571837-f9405b1bb933.jpeg?dpr=0.5 540w,https://www.datocms-assets.com/64528/1646636295-photo-1640872571837-f9405b1bb933.jpeg?dpr=0.75 810w,https://www.datocms-assets.com/64528/1646636295-photo-1640872571837-f9405b1bb933.jpeg 1080w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636295-photo-1640872571837-f9405b1bb933.jpeg?dpr=0.25&fm=webp 270w,https://www.datocms-assets.com/64528/1646636295-photo-1640872571837-f9405b1bb933.jpeg?dpr=0.5&fm=webp 540w,https://www.datocms-assets.com/64528/1646636295-photo-1640872571837-f9405b1bb933.jpeg?dpr=0.75&fm=webp 810w,https://www.datocms-assets.com/64528/1646636295-photo-1640872571837-f9405b1bb933.jpeg?fm=webp 1080w",
@@ -886,6 +945,7 @@
   },
   "photo-1525130413817-d45c1d127c42.jpeg": {
     "filename": "photo-1525130413817-d45c1d127c42.jpeg",
+    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLEA8LDhgLDg0PDhUODRENFxUZGBYTFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAFBgEEBwD/xAAdEAACAgIDAQAAAAAAAAAAAAABAwACBAURITET/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANLysytaEwE/drVfgmXNhQ/MxZfrbPYTzANr3S2DoiRF++JfFHs6B//Z",
     "responsiveImage": {
       "srcSet": "https://www.datocms-assets.com/64528/1646636289-photo-1525130413817-d45c1d127c42.jpeg?dpr=0.25 480w,https://www.datocms-assets.com/64528/1646636289-photo-1525130413817-d45c1d127c42.jpeg?dpr=0.5 960w,https://www.datocms-assets.com/64528/1646636289-photo-1525130413817-d45c1d127c42.jpeg?dpr=0.75 1440w,https://www.datocms-assets.com/64528/1646636289-photo-1525130413817-d45c1d127c42.jpeg 1920w",
       "webpSrcSet": "https://www.datocms-assets.com/64528/1646636289-photo-1525130413817-d45c1d127c42.jpeg?dpr=0.25&fm=webp 480w,https://www.datocms-assets.com/64528/1646636289-photo-1525130413817-d45c1d127c42.jpeg?dpr=0.5&fm=webp 960w,https://www.datocms-assets.com/64528/1646636289-photo-1525130413817-d45c1d127c42.jpeg?dpr=0.75&fm=webp 1440w,https://www.datocms-assets.com/64528/1646636289-photo-1525130413817-d45c1d127c42.jpeg?fm=webp 1920w",

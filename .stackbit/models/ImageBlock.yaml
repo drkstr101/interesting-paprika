@@ -25,8 +25,13 @@ fields:
     name: maxWidth
     group: settings
     label: Max Width
-    description: The caption of the image
-    default: Scale down image to match width if present
+    description: Scale down image to match width if present
+  - type: boolean
+    name: responsive
+    group: settings
+    label: Responsive
+    description: Enable/disable lazy loaded images
+    default: false
   - type: string
     name: elementId
     group: settings

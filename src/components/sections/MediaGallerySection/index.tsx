@@ -1,8 +1,7 @@
-import * as React from 'react';
 import classNames from 'classnames';
-
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import * as React from 'react';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import ImageBlock from '../../molecules/ImageBlock';
 
 type BaseSectionStyle = {

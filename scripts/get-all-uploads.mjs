@@ -8,6 +8,7 @@ const query = `
   {
     allUploads(first: 100, filter: { format: { neq: "svg" } }) {
       filename
+      blurUpThumb
       responsiveImage {
         ...responsiveImageFragment
       }
@@ -31,7 +32,7 @@ const query = `
 const headers = {
   'Content-Type': 'application/json',
   Accept: 'application/json',
-  Authorization: `Bearer ${DATOCMS_API_TOKEN}`
+  Authorization: `Bearer fb5b9c5ed640be7bee0408c1d2e4f1`
 };
 
 fetch('https://graphql.datocms.com/', {

@@ -1,7 +1,7 @@
 import classNames from 'classnames';
+import NextImage from 'next/image';
 import * as React from 'react';
-// import getImageInfo from '../../../utils/get-media-info';
-
+import getImageInfo from '../../../utils/get-media-info';
 // const RESPONSIVE_IMAGES = process.env['NODE_ENV'] === 'production';
 
 export default function ImageBlock(props) {
@@ -9,8 +9,9 @@ export default function ImageBlock(props) {
   if (!url) {
     return null;
   }
-  // const filename = url.split('/').pop();
-  // const meta = getImageInfo(filename);
+  const responsive = props.responsive === true;
+  const filename = url.split('/').pop();
+  const meta = getImageInfo(filename);
   const cssClasses = props.className || null;
   const cssId = props.elementId || null;
   const styles = props.styles?.self || {};
@@ -23,28 +24,31 @@ export default function ImageBlock(props) {
     `${annotationPrefix}.elementId#@id`
   ];
 
-  // if (meta) {
-  //   const maxWidth = props.maxWidth ?? meta.responsiveImage.width;
-  //   const opacity = imageOpacity * 0.01;
-  //   return (
-  //     <div style={{ maxWidth, opacity }}>
-  //       <NextImage
-  //         id={cssId}
-  //         className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
-  //         src={meta.responsiveImage.src}
-  //         data-sb-field-path={annotations.join(' ').trim()}
-  //         width={meta.responsiveImage.width}
-  //         height={meta.responsiveImage.height}
-  //         alt={altText}
-  //         priority={props.priority}
-  //       ></NextImage>
-  //     </div>
-  //   );
-  // }
+  if (responsive && meta) {
+    const maxWidth = props.maxWidth ?? undefined;
+    const opacity = imageOpacity * 0.01;
+    console.log('Responsive image enabled for ', filename);
+    return (
+      <div style={{ maxWidth, opacity }}>
+        <NextImage
+          id={cssId}
+          className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
+          src={url}
+          data-sb-field-path={annotations.join(' ').trim()}
+          width={meta.responsiveImage.width}
+          height={meta.responsiveImage.height}
+          alt={altText}
+          placeholder="blur"
+          blurDataURL={meta.blurUpThumb}
+          priority={props.priority}
+        ></NextImage>
+      </div>
+    );
+  }
 
-  // if (!filename.endsWith('.svg')) {
-  //   console.warn(`${filename} not located in media.json, falling back to native image`);
-  // }
+  if (responsive && !filename.endsWith('.svg')) {
+    console.warn(`${filename} not located in media.json, falling back to native image`);
+  }
 
   return (
     // eslint-disable-next-line @next/next/no-img-element

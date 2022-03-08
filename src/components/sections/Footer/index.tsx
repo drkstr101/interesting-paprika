@@ -25,7 +25,12 @@ export default function Footer(props) {
               data-sb-field-path=".title#span[1] .logo#img[1]"
             >
               {props.logo && (
-                <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.title })} priority />
+                <ImageBlock
+                  {...props.logo}
+                  className={classNames('max-h-12', { 'mr-2': props.title })}
+                  priority
+                  responsive
+                />
               )}
               {props.title && <span className="text-2xl tracking-wide">{props.title}</span>}
             </Link>

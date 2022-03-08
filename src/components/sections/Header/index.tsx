@@ -257,7 +257,12 @@ function siteLogoLink(props) {
       className="sb-header-logo flex items-center"
       data-sb-field-path=".title#span[1] .logo#img[1]"
     >
-      <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.isTitleVisible })} priority />
+      <ImageBlock
+        {...props.logo}
+        className={classNames('max-h-12', { 'mr-2': props.isTitleVisible })}
+        priority
+        responsive
+      />
       {props.title && props.isTitleVisible && <span className="text-2xl tracking-wide">{props.title}</span>}
     </Link>
   );

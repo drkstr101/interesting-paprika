@@ -1,13 +1,12 @@
-import * as React from 'react';
 import classNames from 'classnames';
 import dayjs from 'dayjs';
-
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import * as React from 'react';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
-import { Link, Action } from '../../atoms';
+import getPageUrlPath from '../../../utils/get-page-url-path';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import { Action, Link } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
 import ArrowRightIcon from '../../svgs/arrow-right';
-import getPageUrlPath from '../../../utils/get-page-url-path';
 
 export default function PostFeedSection(props) {
   const cssId = props.elementId || null;

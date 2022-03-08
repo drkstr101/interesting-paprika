@@ -23,6 +23,7 @@ sections:
       url: /images/hero-enterprise.svg
       altText: Image alt text
       caption: Image caption
+      responsive: true
     styles:
       self:
         height: auto
@@ -99,6 +100,7 @@ sections:
       altText: Where did everyone go?
       caption: Team meeting
       elementId: ''
+      responsive: true
       styles:
         self:
           opacity: 100
@@ -235,6 +237,7 @@ sections:
       type: ImageBlock
       url: /images/hero-1.png
       altText: Hero section image
+      responsive: true
     styles:
       self:
         height: auto
@@ -301,6 +304,7 @@ sections:
       type: ImageBlock
       url: /images/hero-2.png
       altText: Hero section image
+      responsive: true
     styles:
       self:
         height: auto

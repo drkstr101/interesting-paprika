@@ -15,11 +15,7 @@ export interface ResponsiveImage {
 
 export interface ImageMeta {
   filename: string;
-  width: number;
-  height: number;
-  url: string;
-  alt: string | null;
-  tags: string[];
+  blurUpThumb: string;
   responsiveImage: ResponsiveImage;
 }
 
