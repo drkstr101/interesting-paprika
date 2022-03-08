@@ -43,7 +43,7 @@ export default function ImageBlock(props) {
     );
   }
 
-  if (!filename.endsWith('.svg')) {
+  if (RESPONSIVE_IMAGES && !filename.endsWith('.svg')) {
     console.warn(`${filename} not located in media.json, falling back to native image`);
   }
 
