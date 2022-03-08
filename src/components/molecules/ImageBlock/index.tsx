@@ -3,6 +3,8 @@ import NextImage from 'next/image';
 import * as React from 'react';
 import getImageInfo from '../../../utils/get-media-info';
 
+const RESPONSIVE_IMAGES = process.env['NODE_ENV'] === 'production';
+
 export default function ImageBlock(props) {
   const { url, altText } = props;
   if (!url) {
@@ -22,7 +24,7 @@ export default function ImageBlock(props) {
     `${annotationPrefix}.elementId#@id`
   ];
 
-  if (meta) {
+  if (RESPONSIVE_IMAGES && meta) {
     const maxWidth = props.maxWidth ?? meta.responsiveImage.width;
     const opacity = imageOpacity * 0.01;
     return (
