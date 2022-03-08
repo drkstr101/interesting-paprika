@@ -8,7 +8,7 @@ sections:
     subtitle: You should join us.
     media:
       type: ImageBlock
-      url: /images/AdobeStock_434934439.jpeg
+      url: /images/adobestock_434934439.jpeg
       altText: Hero section image
     styles:
       self:

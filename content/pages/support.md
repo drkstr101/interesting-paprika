@@ -41,7 +41,7 @@ sections:
       submitLabel: Send Message
     media:
       type: ImageBlock
-      url: /images/scott-graham-5fNmWej4tAA-unsplash.jpg
+      url: /images/scott-graham-5fnmwej4taa-unsplash.jpg
       altText: Contact form image
     styles:
       self:
