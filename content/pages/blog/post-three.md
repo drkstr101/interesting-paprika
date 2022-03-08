@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/post-3.jpg
   altText: Post Image
-  responsive: true
+  responsive: false
 bottomSections:
   - elementId: ''
     variant: variant-c
