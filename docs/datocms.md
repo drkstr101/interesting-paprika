@@ -33,8 +33,8 @@ fragment responsiveImageFragment on ResponsiveImage {
 }
 ```
 
-Group by filename:
+Preprocess media:
 
 ```sh
-cat result.json | jq '.data.allUploads' | jq 'map({ (.filename): . }) | add'
+./scripts/get-all-uploads.mjs | jq '.allUploads | map({ (.filename): . }) | add' > src/utils/media.json
 ```

@@ -41,7 +41,7 @@ export function seoGenerateTitle(page, site) {
   return title;
 }
 
-export function seoGenerateMetaDescription(page, site) {
+export function seoGenerateMetaDescription(page) {
   let metaDescription = null;
   // Blog posts use the exceprt as the default meta description
   if (page.__metadata.modelName === 'PostLayout') {

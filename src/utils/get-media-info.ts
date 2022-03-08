@@ -1,4 +1,4 @@
-import imagesByName from '../../content/data/media.json';
+import imagesByName from './media.json';
 
 export interface ResponsiveImage {
   srcSet: string;

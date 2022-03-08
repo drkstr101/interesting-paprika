@@ -13,19 +13,18 @@ install:
 	npm install
 
 build:
-	@echo "~~~> Building [interesting-paprika]..."
 	next build
 	next export
 
 start:
-	@echo "~~~> Launching [interesting-paprika]..."
 	next dev
 
-lint:
-	@echo "~~~> Checking [interesting-paprika]..."
-	prettier --write .
+lint: format
 	stackbit validate
-	next lint
+	eslint .
+
+format:
+	prettier --write .
 
 docs:
 	yarn depcruise --output-type dot --output-to docs/depgraph.dot --prefix "https://github.com/drkstr101/waweb/blob/main/"

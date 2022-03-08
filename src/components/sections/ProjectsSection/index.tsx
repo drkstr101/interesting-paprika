@@ -5,7 +5,6 @@ import { getDataAttrs } from '../../../utils/get-data-attrs';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import Action from '../../atoms/Action';
 
-
 export default function ProjectsSection(props) {
   const cssId = props.elementId || null;
   const colors = props.colors || 'colors-a';
