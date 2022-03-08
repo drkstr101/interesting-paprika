@@ -1,6 +1,6 @@
 {
-  "name": "starter-nextjs-theme",
-  "version": "0.1.0",
+  "name": "interesting-paprika",
+  "version": "0.2.0",
   "engines": {
     "node": ">=14 <=16",
     "npm": "~8"
@@ -23,6 +23,7 @@
     "markdown-to-jsx": "^7.1.6",
     "next": "^11.1.2",
     "react": "17.0.2",
+    "react-datocms": "^3.0.11",
     "react-dom": "17.0.2",
     "sourcebit": "^0.11.1",
     "sourcebit-source-filesystem": "^0.2.0",
@@ -47,7 +48,11 @@
     "typescript": "^4.6.2",
     "webpack-bundle-analyzer": "^4.5.0"
   },
-  "description": "A Nextjs page builder, component library and data source mapper all in one.",
+  "description": "Watheia Labs | A capabilities test of the modern web",
   "main": "next.config.js",
-  "license": "MIT"
+  "license": "MIT",
+  "browserslist": [
+    "> 0.5%",
+    "not IE 11"
+  ]
 }

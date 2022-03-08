@@ -50,9 +50,8 @@ module.exports = {
         flattenAssetUrls: true,
         commonProps: (objects) => {
           const site = objects.find((page) => page.__metadata.id === 'content/data/config.json');
-          const media = objects.find((page) => page.__metadata.id === 'content/data/media.json');
           site.env = setEnvironmentVariables();
-          return { site, media };
+          return { site };
         },
         pages: (objects) => {
           const personObjects = objects.filter(

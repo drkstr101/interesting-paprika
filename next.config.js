@@ -34,5 +34,13 @@ module.exports = withBundleAnalyzer({
     }
 
     return config;
+  },
+  images: {
+    domains: [
+      'interesting-paprika-28729.stackbit.app',
+      'interesting-paprika.vercel.app',
+      'www.datocms-assets.com',
+      'localhost'
+    ]
   }
 });

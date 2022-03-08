@@ -27,6 +27,46 @@ fields:
     label: Element ID
     description: The unique ID for an HTML element, must not contain whitespace
     default: ''
+  - type: integer
+    name: width
+    group: settings
+    label: Image width
+    description: The width of the image, in pixels. Must be an integer without a unit
+  - type: integer
+    name: height
+    group: settings
+    label: Image height
+    description: The height of the image, in pixels. Must be an integer without a unit
+  - type: enum
+    name: layout
+    group: settings
+    label: Image layout
+    description: The layout behavior of the image as the viewport changes size.
+    options:
+      - label: Intrinsic
+        value: intrinsic
+      - label: Fixed
+        value: fixed
+      - label: Responsive
+        value: responsive
+      - label: Fill
+        value: fill
+  - type: enum
+    name: fit
+    group: settings
+    label: Object fit
+    description: Defines how the image will fit into its parent container when using layout="fill".
+    options:
+      - label: Fit
+        value: fit
+      - label: Contain
+        value: contain
+      - label: Cover
+        value: cover
+      - label: None
+        value: none
+      - label: Scale Down
+        value: scale-down
   - type: style
     name: styles
     styles:
