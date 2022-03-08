@@ -24,19 +24,19 @@ export default function ImageBlock(props) {
 
   if (meta) {
     const maxWidth = props.maxWidth ?? meta.responsiveImage.width;
+    const opacity = imageOpacity * 0.01;
     return (
-      <div id={cssId} style={{ opacity: imageOpacity * 0.01 }}>
-        {/* eslint-disable-next-line jsx-a11y/alt-text */}
-        <div style={{ maxWidth }}>
-          <NextImage
-            className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
-            src={url}
-            width={meta.responsiveImage.width}
-            height={meta.responsiveImage.height}
-            alt={altText}
-            priority={props.priority}
-          ></NextImage>
-        </div>
+      <div id={cssId} style={{ maxWidth, opacity }}>
+        <NextImage
+          id={cssId}
+          className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
+          src={url}
+          data-sb-field-path={annotations.join(' ').trim()}
+          width={meta.responsiveImage.width}
+          height={meta.responsiveImage.height}
+          alt={altText}
+          priority={props.priority}
+        ></NextImage>
       </div>
     );
   }

@@ -95,7 +95,7 @@ sections:
         justifyContent: flex-start
     type: FeatureHighlightSection
     media:
-      url: /images/ferenc-almasi-ayjnmG4oUX4-unsplash.jpg
+      url: /images/ferenc-almasi-ayjnmg4oux4-unsplash.jpg
       altText: Where did everyone go?
       caption: Team meeting
       elementId: ''
