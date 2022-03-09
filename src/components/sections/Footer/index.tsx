@@ -13,7 +13,7 @@ export default function Footer(props) {
   const legalLinks = props.legalLinks || [];
   return (
     <footer
-      className={classNames('sb-component', 'sb-component-footer', colors, footerStyles.padding || 'py-16 px-4')}
+      className={classNames('wa-component', 'wa-component-footer', colors, footerStyles.padding || 'py-16 px-4')}
       data-sb-field-path={`${props.annotationPrefix}:footer`}
     >
       <div className={classNames('mx-auto', mapMaxWidthStyles(footerWidth))}>
@@ -21,7 +21,7 @@ export default function Footer(props) {
           <div className="mb-12">
             <Link
               href="/"
-              className="sb-footer-logo flex items-center"
+              className="wa-footer-logo flex items-center"
               data-sb-field-path=".title#span[1] .logo#img[1]"
             >
               {props.logo && (
@@ -37,7 +37,7 @@ export default function Footer(props) {
             {props.text && (
               <Markdown
                 options={{ forceBlock: true, forceWrapper: true }}
-                className={classNames('sb-markdown', 'max-w-xl', { 'mt-8': props.title || props.logo })}
+                className={classNames('wa-markdown', 'max-w-xl', { 'mt-8': props.title || props.logo })}
                 data-sb-field-path=".text"
               >
                 {props.text}
@@ -74,12 +74,12 @@ export default function Footer(props) {
             )}
           </div>
         )}
-        <div className="sb-divider" />
+        <div className="wa-divider" />
         <div className="flex flex-col-reverse justify-between pt-6 lg:flex-row">
           {props.copyrightText && (
             <Markdown
               options={{ forceInline: true, forceWrapper: true, wrapper: 'p' }}
-              className={classNames('sb-markdown')}
+              className={classNames('wa-markdown')}
               data-sb-field-path=".copyrightText"
             >
               {props.copyrightText}

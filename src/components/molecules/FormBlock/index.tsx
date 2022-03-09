@@ -1,9 +1,9 @@
-import * as React from 'react';
 import axios from 'axios';
 import classNames from 'classnames';
-
-import { getComponent } from '../../components-registry';
+import * as React from 'react';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import { getComponent } from '../../components-registry';
+
 
 export default class FormBlock extends React.Component<any> {
   state = {
@@ -74,7 +74,7 @@ export default class FormBlock extends React.Component<any> {
     const formHoneypotName = `${elementId}-bot-field`;
     return (
       <form
-        className={classNames('sb-component', 'sb-component-block', 'sb-component-form-block', className)}
+        className={classNames('wa-component', 'wa-component-block', 'wa-component-form-block', className)}
         name={elementId}
         id={elementId}
         onSubmit={(e) => this.handleSubmit(e, action)}
@@ -119,7 +119,7 @@ export default class FormBlock extends React.Component<any> {
           >
             <button
               type="submit"
-              className="sb-component sb-component-block sb-component-button sb-component-button-primary"
+              className="wa-component wa-component-block wa-component-button wa-component-button-primary"
               data-sb-field-path=".submitLabel"
             >
               {submitLabel}

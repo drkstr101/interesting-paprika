@@ -1,5 +1,5 @@
-import * as React from 'react';
 import classNames from 'classnames';
+import * as React from 'react';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 
 export default function Badge(props) {
@@ -16,9 +16,9 @@ export default function Badge(props) {
     <div
       id={cssId}
       className={classNames(
-        'sb-component',
-        'sb-component-block',
-        'sb-component-badge',
+        'wa-component',
+        'wa-component-block',
+        'wa-component-badge',
         cssClasses,
         styles ? mapStyles(styles) : null
       )}

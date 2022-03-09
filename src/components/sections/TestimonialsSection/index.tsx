@@ -1,10 +1,10 @@
-import * as React from 'react';
-import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
-
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import Markdown from 'markdown-to-jsx';
+import * as React from 'react';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import ImageBlock from '../../molecules/ImageBlock';
+
 
 export default function TestimonialsSection(props) {
   const cssId = props.elementId || null;
@@ -20,9 +20,9 @@ export default function TestimonialsSection(props) {
       id={cssId}
       {...getDataAttrs(props)}
       className={classNames(
-        'sb-component',
-        'sb-component-section',
-        'sb-component-testimonials-section',
+        'wa-component',
+        'wa-component-section',
+        'wa-component-testimonials-section',
         colors,
         'flex',
         'flex-col',
@@ -92,7 +92,7 @@ function testimonialVariantA(testimonial, index) {
         {testimonial.quote && (
           <Markdown
             options={{ forceBlock: true, forceWrapper: true }}
-            className="sb-markdown text-3xl sm:text-4xl sm:leading-tight lg:text-5xl lg:leading-tight"
+            className="wa-markdown text-3xl sm:text-4xl sm:leading-tight lg:text-5xl lg:leading-tight"
             data-sb-field-path=".quote"
           >
             {testimonial.quote}
@@ -130,7 +130,7 @@ function testimonialVariantB(testimonial, index) {
       {testimonial.quote && (
         <Markdown
           options={{ forceBlock: true, forceWrapper: true }}
-          className="sb-markdown text-3xl sm:text-4xl sm:leading-tight lg:text-5xl lg:leading-tight"
+          className="wa-markdown text-3xl sm:text-4xl sm:leading-tight lg:text-5xl lg:leading-tight"
           data-sb-field-path=".quote"
         >
           {testimonial.quote}
@@ -176,7 +176,7 @@ function testimonialVariantC(testimonial, index) {
       {testimonial.quote && (
         <Markdown
           options={{ forceBlock: true, forceWrapper: true }}
-          className="sb-markdown text-3xl sm:text-4xl sm:leading-tight lg:text-5xl lg:leading-tight"
+          className="wa-markdown text-3xl sm:text-4xl sm:leading-tight lg:text-5xl lg:leading-tight"
           data-sb-field-path=".quote"
         >
           {testimonial.quote}

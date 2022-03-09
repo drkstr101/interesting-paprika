@@ -1,5 +1,5 @@
-import * as React from 'react';
 import classNames from 'classnames';
+import * as React from 'react';
 
 export default function CheckboxFormControl(props) {
   const width = props.width || 'full';
@@ -13,21 +13,21 @@ export default function CheckboxFormControl(props) {
   }
   return (
     <div
-      className={classNames('sb-form-control', 'flex', 'items-center', {
+      className={classNames('wa-form-control', 'flex', 'items-center', {
         'sm:col-span-2': width === 'full'
       })}
       data-sb-field-path={props['data-sb-field-path']}
     >
       <input
         id={props.name}
-        className="sb-checkbox"
+        className="wa-checkbox"
         type="checkbox"
         name={props.name}
         {...attr}
         data-sb-field-path=".name#@id .name#@name"
       />
       {props.label && (
-        <label id={labelId} className="sb-label" htmlFor={props.name} data-sb-field-path=".label .name#@for">
+        <label id={labelId} className="wa-label" htmlFor={props.name} data-sb-field-path=".label .name#@for">
           {props.label}
         </label>
       )}

@@ -1,10 +1,10 @@
-import * as React from 'react';
-import Head from 'next/head';
 import classNames from 'classnames';
-
-import Header from '../../sections/Header';
+import Head from 'next/head';
+import * as React from 'react';
+import { seoGenerateMetaDescription, seoGenerateMetaTags, seoGenerateTitle } from '../../../utils/seo-utils';
 import Footer from '../../sections/Footer';
-import { seoGenerateTitle, seoGenerateMetaTags, seoGenerateMetaDescription } from '../../../utils/seo-utils';
+import Header from '../../sections/Header';
+
 
 export default function DefaultBaseLayout(props) {
   const { page, site } = props;
@@ -14,8 +14,8 @@ export default function DefaultBaseLayout(props) {
   const metaTags = seoGenerateMetaTags(page, site);
   const metaDescription = seoGenerateMetaDescription(page, site);
   return (
-    <div className={classNames('sb-page', pageMeta.pageCssClasses)} data-sb-object-id={pageMeta.id}>
-      <div className="sb-base sb-default-base-layout">
+    <div className={classNames('wa-page', pageMeta.pageCssClasses)} data-sb-object-id={pageMeta.id}>
+      <div className="wa-base wa-default-base-layout">
         <Head>
           <title>{title}</title>
           {metaDescription && <meta name="description" content={metaDescription} />}

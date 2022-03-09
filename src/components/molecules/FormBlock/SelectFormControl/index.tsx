@@ -1,5 +1,5 @@
-import * as React from 'react';
 import classNames from 'classnames';
+import * as React from 'react';
 
 export default function SelectFormControl(props) {
   const width = props.width || 'full';
@@ -14,7 +14,7 @@ export default function SelectFormControl(props) {
   }
   return (
     <div
-      className={classNames('sb-form-control', {
+      className={classNames('wa-form-control', {
         'sm:col-span-2': width === 'full'
       })}
       data-sb-field-path={props['data-sb-field-path']}
@@ -22,7 +22,7 @@ export default function SelectFormControl(props) {
       {props.label && (
         <label
           id={labelId}
-          className={classNames('sb-label', { 'sr-only': props.hideLabel })}
+          className={classNames('wa-label', { 'sr-only': props.hideLabel })}
           htmlFor={props.name}
           data-sb-field-path=".label .name#@for"
         >
@@ -31,7 +31,7 @@ export default function SelectFormControl(props) {
       )}
       <select
         id={props.name}
-        className="sb-select"
+        className="wa-select"
         name={props.name}
         {...attr}
         data-sb-field-path=".name#@id .name#@name .options"

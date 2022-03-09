@@ -14,8 +14,8 @@ export default function Header(props) {
   return (
     <header
       className={classNames(
-        'sb-component',
-        'sb-component-header',
+        'wa-component',
+        'wa-component-header',
         primaryColors,
         'relative',
         headerStyles.padding || 'py-5 px-4'
@@ -254,7 +254,7 @@ function siteLogoLink(props) {
     <Link
       href="/"
       aria-label={props.title}
-      className="sb-header-logo flex items-center"
+      className="wa-header-logo flex items-center"
       data-sb-field-path=".title#span[1] .logo#img[1]"
     >
       <ImageBlock

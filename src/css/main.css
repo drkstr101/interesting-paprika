@@ -20,10 +20,10 @@
 }
 
 @layer components {
-  .sb-component.overlap {
+  .wa-component.overlap {
     @apply -mt-72 relative z-10;
   }
-  .sb-markdown {
+  .wa-markdown {
     @apply leading-relaxed;
     a {
       @apply underline;
@@ -131,15 +131,15 @@
   }
 
   /* Buttons */
-  .sb-component-button {
+  .wa-component-button {
     @apply border-2 inline-flex items-center justify-center no-underline text-center transition duration-200 ease-in hover:opacity-80;
   }
 
   /* Links */
-  .sb-component-link {
+  .wa-component-link {
     @apply inline-flex items-center justify-center no-underline relative;
   }
-  .sb-component-link:after {
+  .wa-component-link:after {
     @apply bg-current absolute left-0;
     bottom: -2px;
     content: '';
@@ -147,78 +147,78 @@
     width: 0;
     transition: width 0.2s ease-in;
   }
-  .sb-component-link:hover:after {
+  .wa-component-link:hover:after {
     @apply w-full;
   }
 
   /* Socials */
-  .sb-component-social {
+  .wa-component-social {
     @apply inline-flex items-center justify-center no-underline transition duration-200 ease-in hover:opacity-80;
   }
 
-  .sb-component-social-primary,
-  .sb-component-social-secondary {
+  .wa-component-social-primary,
+  .wa-component-social-secondary {
     @apply border-2 rounded-full p-2;
   }
 
   /* Dividers */
-  .sb-divider {
+  .wa-divider {
     @apply flex items-center h-4 before:flex-grow before:h-px before:bg-current;
   }
 
   /* Badge */
-  .sb-component-badge {
+  .wa-component-badge {
     @apply uppercase tracking-wider text-primary;
   }
 
   /* Featured items */
-  .sb-component-item-hover {
+  .wa-component-item-hover {
     @apply transition duration-200 ease-in;
   }
 
   /* Form controls */
-  .sb-label {
+  .wa-label {
     @apply inline-block mb-1;
   }
-  .sb-input,
-  .sb-select,
-  .sb-textarea {
+  .wa-input,
+  .wa-select,
+  .wa-textarea {
     @apply bg-transparent border border-current px-3 w-full focus:outline-none;
   }
-  .sb-input,
-  .sb-select {
+  .wa-input,
+  .wa-select {
     @apply py-0;
     height: 3.125rem;
   }
-  .sb-textarea {
+  .wa-textarea {
     @apply py-3;
   }
-  .sb-component-form-block .sb-component-button {
+  .wa-component-form-block .wa-component-button {
     @apply px-8 py-0;
     height: 3.125rem;
   }
   option {
     color: initial;
   }
-  .sb-checkbox {
+  .wa-checkbox {
     @apply appearance-none absolute select-none opacity-0;
     height: 1.5em;
     width: 1.5em;
   }
-  .sb-checkbox + .sb-label {
+  .wa-checkbox + .wa-label {
     @apply cursor-pointer pl-8 relative;
   }
-  .sb-checkbox + .sb-label:before {
+  .wa-checkbox + .wa-label:before {
     @apply absolute left-0 top-1/2 transform -translate-y-1/2 border border-current cursor-pointer text-center;
     content: '';
     height: 1.5em;
     width: 1.5em;
     line-height: 1.5em;
   }
-  .sb-checkbox:checked + .sb-label:before {
+  .wa-checkbox:checked + .wa-label:before {
     content: '\2713';
   }
-  .sb-select {
+  .wa-select {
     @apply appearance-none bg-no-repeat cursor-pointer pr-7;
     background-image: linear-gradient(45deg, transparent 50%, currentColor 0),
       linear-gradient(135deg, currentColor 50%, transparent 0);
@@ -228,196 +228,196 @@
   }
 
   /* Cards */
-  .sb-card {
+  .wa-card {
     @apply border border-current;
   }
 
   /* Sections */
-  .sb-component-hero-section .sb-component-image-block[src*='.jpg'],
-  .sb-component-feature-highlight-section .sb-component-image-block[src*='.jpg'],
-  .sb-component-media-gallery-section .sb-component-image-block[src*='.jpg'] {
+  .wa-component-hero-section .wa-component-image-block[src*='.jpg'],
+  .wa-component-feature-highlight-section .wa-component-image-block[src*='.jpg'],
+  .wa-component-media-gallery-section .wa-component-image-block[src*='.jpg'] {
     @apply rounded-2xl;
   }
 
-  .text-center + .sb-contact-section-form,
-  .sb-contact-section-form:only-child {
+  .text-center + .wa-contact-section-form,
+  .wa-contact-section-form:only-child {
     text-align: center;
   }
 
   /* Color palettes */
   .colors-a {
     @apply bg-light text-on-light;
-    .sb-input,
-    .sb-select,
-    .sb-textarea {
+    .wa-input,
+    .wa-select,
+    .wa-textarea {
       @apply text-on-light placeholder-on-light placeholder-opacity-75;
     }
-    .sb-component-button-primary,
-    .sb-component-social-primary {
+    .wa-component-button-primary,
+    .wa-component-social-primary {
       @apply bg-primary border-primary text-on-primary;
     }
-    .sb-component-button-secondary,
-    .sb-component-social-secondary {
+    .wa-component-button-secondary,
+    .wa-component-social-secondary {
       @apply border-dark text-dark;
     }
-    .sb-component-item-hover {
+    .wa-component-item-hover {
       @apply hover:bg-primary hover:text-on-primary;
     }
   }
   .colors-b {
     @apply bg-light text-primary;
-    .sb-input,
-    .sb-select,
-    .sb-textarea {
+    .wa-input,
+    .wa-select,
+    .wa-textarea {
       @apply text-primary placeholder-primary placeholder-opacity-75;
     }
-    .sb-component-button-primary,
-    .sb-component-social-primary {
+    .wa-component-button-primary,
+    .wa-component-social-primary {
       @apply bg-primary border-primary text-on-primary;
     }
-    .sb-component-button-secondary,
-    .sb-component-social-secondary {
+    .wa-component-button-secondary,
+    .wa-component-social-secondary {
       @apply border-dark text-dark;
     }
-    .sb-card {
+    .wa-card {
       @apply bg-dark bg-opacity-5;
     }
-    .sb-component-item-hover {
+    .wa-component-item-hover {
       @apply hover:bg-primary hover:text-on-primary;
     }
   }
   .colors-c {
     @apply bg-dark text-on-dark;
-    .sb-input,
-    .sb-select,
-    .sb-textarea {
+    .wa-input,
+    .wa-select,
+    .wa-textarea {
       @apply text-on-dark placeholder-on-dark placeholder-opacity-75;
     }
-    .sb-component-button-primary,
-    .sb-component-social-primary {
+    .wa-component-button-primary,
+    .wa-component-social-primary {
       @apply bg-primary border-primary text-on-primary;
     }
-    .sb-component-button-secondary,
-    .sb-component-social-secondary {
+    .wa-component-button-secondary,
+    .wa-component-social-secondary {
       @apply border-on-dark text-on-dark;
     }
-    .sb-card {
+    .wa-card {
       @apply bg-light text-on-light;
     }
-    .sb-component-item-hover {
+    .wa-component-item-hover {
       @apply hover:bg-light hover:text-on-light;
     }
   }
   .colors-d {
     @apply bg-dark text-primary;
-    .sb-input,
-    .sb-select,
-    .sb-textarea {
+    .wa-input,
+    .wa-select,
+    .wa-textarea {
       @apply text-primary placeholder-primary placeholder-opacity-75;
     }
-    .sb-component-button-primary,
-    .sb-component-social-primary {
+    .wa-component-button-primary,
+    .wa-component-social-primary {
       @apply bg-primary border-primary text-on-primary;
     }
-    .sb-component-button-secondary,
-    .sb-component-social-secondary {
+    .wa-component-button-secondary,
+    .wa-component-social-secondary {
       @apply border-on-dark text-on-dark;
     }
-    .sb-card {
+    .wa-card {
       @apply bg-light;
     }
-    .sb-component-item-hover {
+    .wa-component-item-hover {
       @apply hover:bg-light hover:text-primary;
     }
   }
   .colors-e {
     @apply bg-primary text-on-primary;
-    .sb-input,
-    .sb-select,
-    .sb-textarea {
+    .wa-input,
+    .wa-select,
+    .wa-textarea {
       @apply text-on-primary placeholder-on-primary placeholder-opacity-75;
     }
-    .sb-component-button-primary,
-    .sb-component-social-primary {
+    .wa-component-button-primary,
+    .wa-component-social-primary {
       @apply bg-dark border-dark text-on-dark;
     }
-    .sb-component-button-secondary,
-    .sb-component-social-secondary {
+    .wa-component-button-secondary,
+    .wa-component-social-secondary {
       @apply border-on-primary text-on-primary;
     }
-    .sb-component-badge {
+    .wa-component-badge {
       @apply text-on-primary;
     }
-    .sb-card {
+    .wa-card {
       @apply bg-light text-on-light;
     }
-    .sb-component-item-hover {
+    .wa-component-item-hover {
       @apply hover:bg-light hover:text-on-light;
     }
   }
   .colors-f {
     @apply bg-secondary text-on-secondary;
-    .sb-input,
-    .sb-select,
-    .sb-textarea {
+    .wa-input,
+    .wa-select,
+    .wa-textarea {
       @apply text-on-secondary placeholder-on-secondary placeholder-opacity-75;
     }
-    .sb-component-button-primary,
-    .sb-component-social-primary {
+    .wa-component-button-primary,
+    .wa-component-social-primary {
       @apply bg-primary border-primary text-on-primary;
     }
-    .sb-component-button-secondary,
-    .sb-component-social-secondary {
+    .wa-component-button-secondary,
+    .wa-component-social-secondary {
       @apply border-light text-light;
     }
-    .sb-card {
+    .wa-card {
       @apply bg-light text-on-light;
     }
-    .sb-component-item-hover {
+    .wa-component-item-hover {
       @apply hover:bg-primary hover:text-light;
     }
   }
   .colors-g {
     @apply bg-secondary text-primary;
-    .sb-input,
-    .sb-select,
-    .sb-textarea {
+    .wa-input,
+    .wa-select,
+    .wa-textarea {
       @apply text-primary placeholder-primary placeholder-opacity-75;
     }
-    .sb-component-button-primary,
-    .sb-component-social-primary {
+    .wa-component-button-primary,
+    .wa-component-social-primary {
       @apply bg-primary border-primary text-on-primary;
     }
-    .sb-component-button-secondary,
-    .sb-component-social-secondary {
+    .wa-component-button-secondary,
+    .wa-component-social-secondary {
       @apply border-dark text-dark;
     }
-    .sb-card {
+    .wa-card {
       @apply bg-light;
     }
-    .sb-component-item-hover {
+    .wa-component-item-hover {
       @apply hover:bg-primary hover:text-light;
     }
   }
   .colors-h {
     @apply bg-complementary text-on-complementary;
-    .sb-input,
-    .sb-select,
-    .sb-textarea {
+    .wa-input,
+    .wa-select,
+    .wa-textarea {
       @apply text-on-complementary placeholder-on-complementary placeholder-opacity-75;
     }
-    .sb-component-button-primary,
-    .sb-component-social-primary {
+    .wa-component-button-primary,
+    .wa-component-social-primary {
       @apply bg-dark border-dark text-on-dark;
     }
-    .sb-component-button-secondary,
-    .sb-component-social-secondary {
+    .wa-component-button-secondary,
+    .wa-component-social-secondary {
       @apply border-dark text-dark;
     }
-    .sb-card {
+    .wa-card {
       @apply bg-light text-on-light;
     }
-    .sb-component-item-hover {
+    .wa-component-item-hover {
       @apply hover:bg-primary hover:text-light;
     }
   }

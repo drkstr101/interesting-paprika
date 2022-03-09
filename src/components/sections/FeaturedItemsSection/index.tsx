@@ -1,10 +1,10 @@
-import * as React from 'react';
 import classNames from 'classnames';
-
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import * as React from 'react';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import Action from '../../atoms/Action';
 import FeaturedItem from './FeaturedItem';
+
 
 export default function FeaturedItemsSection(props) {
   const cssId = props.elementId || null;
@@ -19,9 +19,9 @@ export default function FeaturedItemsSection(props) {
       id={cssId}
       {...getDataAttrs(props)}
       className={classNames(
-        'sb-component',
-        'sb-component-section',
-        'sb-component-featured-items-section',
+        'wa-component',
+        'wa-component-section',
+        'wa-component-featured-items-section',
         colors,
         'flex',
         'flex-col',

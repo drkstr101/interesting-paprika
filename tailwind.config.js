@@ -47,7 +47,7 @@ module.exports = {
         body: {
           fontFamily: theme(`fontFamily.${themeStyle.fontBody}`)
         },
-        'h1,h2,h3,h4,h5,h6,blockquote,.sb-header-logo,.sb-footer-logo': {
+        'h1,h2,h3,h4,h5,h6,blockquote,.wa-header-logo,.wa-footer-logo': {
           fontFamily: theme(`fontFamily.${themeStyle.fontHeadlines}`)
         },
         'h1,.h1': {
@@ -94,7 +94,7 @@ module.exports = {
         }
       });
       addComponents({
-        '.sb-component-button-primary': {
+        '.wa-component-button-primary': {
           borderRadius: theme(`borderRadius.${themeStyle.buttonPrimary.borderRadius}`),
           boxShadow: theme(`boxShadow.${themeStyle.buttonPrimary.shadow}`),
           fontWeight: themeStyle.buttonPrimary.weight,
@@ -102,7 +102,7 @@ module.exports = {
           padding: `${themeStyle.buttonPrimary.verticalPadding}px ${themeStyle.buttonPrimary.horizontalPadding}px`,
           textTransform: themeStyle.buttonPrimary.case
         },
-        '.sb-component-button-secondary': {
+        '.wa-component-button-secondary': {
           borderRadius: theme(`borderRadius.${themeStyle.buttonSecondary.borderRadius}`),
           borderStyle: theme(`borderStyle.${themeStyle.buttonSecondary.borderStyle}`),
           boxShadow: theme(`boxShadow.${themeStyle.buttonSecondary.shadow}`),
@@ -111,7 +111,7 @@ module.exports = {
           padding: `${themeStyle.buttonSecondary.verticalPadding}px ${themeStyle.buttonSecondary.horizontalPadding}px`,
           textTransform: themeStyle.buttonSecondary.case
         },
-        '.sb-component-link': {
+        '.wa-component-link': {
           fontWeight: themeStyle.link.weight,
           letterSpacing: theme(`letterSpacing.${themeStyle.link.letterSpacing}`),
           textTransform: themeStyle.link.case

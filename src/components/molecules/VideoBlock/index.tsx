@@ -1,5 +1,5 @@
-import * as React from 'react';
 import classNames from 'classnames';
+import * as React from 'react';
 import getVideoData from '../../../utils/get-video-data';
 
 export default function VideoBlock(props) {
@@ -15,9 +15,9 @@ export default function VideoBlock(props) {
     <div
       id={cssId}
       className={classNames(
-        'sb-component',
-        'sb-component-block',
-        'sb-component-video-block',
+        'wa-component',
+        'wa-component-block',
+        'wa-component-video-block',
         cssClasses,
         'overflow-hidden',
         'relative',

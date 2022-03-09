@@ -21,9 +21,9 @@ export default function SupportSection(props) {
       id={cssId}
       {...getDataAttrs(props)}
       className={classNames(
-        'sb-component',
-        'sb-component-section',
-        'sb-component-support-section',
+        'wa-component',
+        'wa-component-section',
+        'wa-component-support-section',
         colors,
         'flex',
         'flex-col',
@@ -68,7 +68,7 @@ export default function SupportSection(props) {
                   <Markdown
                     options={{ forceBlock: true, forceWrapper: true }}
                     className={classNames(
-                      'sb-markdown',
+                      'wa-markdown',
                       'mt-3',
                       props?.styles?.content ? mapStyles(props?.styles?.content) : null
                     )}
@@ -129,7 +129,7 @@ function SupportItem(props) {
   const [isActive, setIsActive] = useState(false);
   return (
     <div
-      className="sb-support-section-item border-b border-current pb-8 mb-8"
+      className="wa-support-section-item border-b border-current pb-8 mb-8"
       data-sb-field-path={props['data-sb-field-path']}
     >
       {props.question && (
@@ -154,7 +154,7 @@ function SupportItem(props) {
         <Markdown
           options={{ forceBlock: true, forceWrapper: true }}
           className={classNames(
-            'sb-markdown',
+            'wa-markdown',
             'mt-6',
             props?.styles?.answer ? mapStyles(props?.styles?.answer) : null,
             !isActive ? 'hidden' : null

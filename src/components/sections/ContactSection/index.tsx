@@ -1,11 +1,11 @@
-import * as React from 'react';
-import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
-
-import { getComponent } from '../../components-registry';
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import Markdown from 'markdown-to-jsx';
+import * as React from 'react';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import { getComponent } from '../../components-registry';
 import FormBlock from '../../molecules/FormBlock';
+
 
 export default function ContactSection(props) {
   const cssId = props.elementId || null;
@@ -22,9 +22,9 @@ export default function ContactSection(props) {
       id={cssId}
       {...getDataAttrs(props)}
       className={classNames(
-        'sb-component',
-        'sb-component-section',
-        'sb-component-contact-section',
+        'wa-component',
+        'wa-component-section',
+        'wa-component-contact-section',
         bgSize === 'inset' ? 'flex' : null,
         bgSize === 'inset' ? mapStyles({ justifyContent: sectionJustifyContent }) : null,
         sectionStyles.margin
@@ -74,7 +74,7 @@ export default function ContactSection(props) {
               <div className="flex-1 w-full">
                 {contactBody(props)}
                 {props.form && (
-                  <div className={classNames('sb-contact-section-form', { 'mt-12': props.title || props.text })}>
+                  <div className={classNames('wa-contact-section-form', { 'mt-12': props.title || props.text })}>
                     <FormBlock
                       {...props.form}
                       className="inline-block w-full max-w-screen-sm"
@@ -120,7 +120,7 @@ function contactBody(props) {
       {props.text && (
         <Markdown
           options={{ forceBlock: true, forceWrapper: true }}
-          className={classNames('sb-markdown', styles.text ? mapStyles(styles.text) : null, { 'mt-4': props.title })}
+          className={classNames('wa-markdown', styles.text ? mapStyles(styles.text) : null, { 'mt-4': props.title })}
           data-sb-field-path=".text"
         >
           {props.text}

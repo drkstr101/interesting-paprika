@@ -32,7 +32,7 @@ export default function ImageBlock(props) {
       <div style={{ maxWidth, opacity }}>
         <NextImage
           id={cssId}
-          className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
+          className={classNames('wa-component', 'wa-component-block', 'wa-component-image-block', cssClasses)}
           src={url}
           data-sb-field-path={annotations.join(' ').trim()}
           width={meta.responsiveImage.width}
@@ -54,7 +54,7 @@ export default function ImageBlock(props) {
     // eslint-disable-next-line @next/next/no-img-element
     <img
       id={cssId}
-      className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
+      className={classNames('wa-component', 'wa-component-block', 'wa-component-image-block', cssClasses)}
       src={url}
       alt={altText ?? 'Graphic'}
       style={{ opacity: imageOpacity * 0.01 }}

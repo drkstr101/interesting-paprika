@@ -1,11 +1,11 @@
-import * as React from 'react';
 import dayjs from 'dayjs';
 import Markdown from 'markdown-to-jsx';
-
+import * as React from 'react';
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
-import { getComponent } from '../../components-registry';
 import getPageUrlPath from '../../../utils/get-page-url-path';
 import Link from '../../atoms/Link';
+import { getComponent } from '../../components-registry';
+
 
 export default function PostLayout(props) {
   const { page, site } = props;
@@ -16,7 +16,7 @@ export default function PostLayout(props) {
 
   return (
     <BaseLayout page={page} site={site}>
-      <main id="main" className="sb-layout sb-post-layout">
+      <main id="main" className="wa-layout wa-post-layout">
         <article className="colors-a px-4 sm:px-8 py-14 lg:py-20">
           <div className="max-w-screen-2xl mx-auto">
             <header className="max-w-screen-md mx-auto mb-12 text-center">
@@ -31,7 +31,7 @@ export default function PostLayout(props) {
             {page.markdown_content && (
               <Markdown
                 options={{ forceBlock: true }}
-                className="sb-markdown max-w-screen-md mx-auto"
+                className="wa-markdown max-w-screen-md mx-auto"
                 data-sb-field-path="markdown_content"
               >
                 {page.markdown_content}

@@ -18,9 +18,9 @@ export default function ProjectsSection(props) {
       id={cssId}
       {...getDataAttrs(props)}
       className={classNames(
-        'sb-component',
-        'sb-component-section',
-        'sb-component-projects-section',
+        'wa-component',
+        'wa-component-section',
+        'wa-component-projects-section',
         colors,
         'flex',
         'flex-col',
@@ -106,7 +106,7 @@ function ProjectListItem(props) {
       {props.text && (
         <Markdown
           options={{ forceBlock: true, forceWrapper: true }}
-          className={classNames('sb-markdown', {
+          className={classNames('wa-markdown', {
             'mt-10 lg:mt-12': props.title || props.location
           })}
           data-sb-field-path=".text"

@@ -1,6 +1,5 @@
-import * as React from 'react';
 import classNames from 'classnames';
-import Link from '../Link';
+import * as React from 'react';
 import Apple from '../../svgs/apple';
 import ArrowLeft from '../../svgs/arrow-left';
 import ArrowLeftCircle from '../../svgs/arrow-left-circle';
@@ -22,6 +21,7 @@ import Send from '../../svgs/send';
 import Twitter from '../../svgs/twitter';
 import Vimeo from '../../svgs/vimeo';
 import YouTube from '../../svgs/youtube';
+import Link from '../Link';
 
 const iconMap = {
   apple: Apple,
@@ -72,13 +72,13 @@ export default function Action(props) {
       aria-label={altText}
       id={cssId}
       className={classNames(
-        'sb-component',
-        'sb-component-block',
-        style === 'link' ? 'sb-component-link' : 'sb-component-button',
+        'wa-component',
+        'wa-component-block',
+        style === 'link' ? 'wa-component-link' : 'wa-component-button',
         cssClasses,
         {
-          'sb-component-button-primary': style === 'primary',
-          'sb-component-button-secondary': style === 'secondary'
+          'wa-component-button-primary': style === 'primary',
+          'wa-component-button-secondary': style === 'secondary'
         }
       )}
       data-sb-field-path={annotations.join(' ').trim()}

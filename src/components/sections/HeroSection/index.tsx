@@ -1,11 +1,11 @@
-import * as React from 'react';
-import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
-
-import { getComponent } from '../../components-registry';
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import Markdown from 'markdown-to-jsx';
+import * as React from 'react';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { Action, Badge } from '../../atoms';
+import { getComponent } from '../../components-registry';
+
 
 export default function HeroSection(props) {
   const cssId = props.elementId || null;
@@ -21,9 +21,9 @@ export default function HeroSection(props) {
       id={cssId}
       {...getDataAttrs(props)}
       className={classNames(
-        'sb-component',
-        'sb-component-section',
-        'sb-component-hero-section',
+        'wa-component',
+        'wa-component-section',
+        'wa-component-hero-section',
         colors,
         'flex',
         'flex-col',
@@ -104,7 +104,7 @@ function heroBody(props) {
       {props.text && (
         <Markdown
           options={{ forceBlock: true, forceWrapper: true }}
-          className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, {
+          className={classNames('wa-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, {
             'mt-6': props.title || props.subtitle
           })}
           data-sb-field-path=".text"

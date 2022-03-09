@@ -16,9 +16,9 @@ export default function TextSection(props) {
       id={cssId}
       {...getDataAttrs(props)}
       className={classNames(
-        'sb-component',
-        'sb-component-section',
-        'sb-component-text-section',
+        'wa-component',
+        'wa-component-section',
+        'wa-component-text-section',
         colors,
         'flex',
         'flex-col',
@@ -63,7 +63,7 @@ function textBody(props) {
       {props.text && (
         <Markdown
           options={{ forceBlock: true, forceWrapper: true }}
-          className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, {
+          className={classNames('wa-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, {
             'mt-6': props.title || props.subtitle
           })}
           data-sb-field-path=".text"

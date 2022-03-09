@@ -20,9 +20,9 @@ export default function PostFeedSection(props) {
       id={cssId}
       {...getDataAttrs(props)}
       className={classNames(
-        'sb-component',
-        'sb-component-section',
-        'sb-component-post-feed-section',
+        'wa-component',
+        'wa-component-section',
+        'wa-component-post-feed-section',
         colors,
         'flex',
         'flex-col',
@@ -137,6 +137,7 @@ function postsVariantA(props) {
                   {...post.featuredImage}
                   className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
                   data-sb-field-path="featuredImage"
+                  responsive={false}
                 />
               </div>
             )}
@@ -189,6 +190,7 @@ function postsVariantB(props) {
                 <ImageBlock
                   {...post.featuredImage}
                   className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
+                  responsive={false}
                 />
               </div>
             )}
@@ -227,7 +229,7 @@ function postsVariantC(props) {
     >
       {posts.map((post, index) => {
         return (
-          <article key={index} className="sb-card rounded-2xl overflow-hidden">
+          <article key={index} className="wa-card rounded-2xl overflow-hidden">
             <Link href={getPageUrlPath(post)} className="block" data-sb-object-id={post.__metadata.id}>
               <div className="flex flex-col min-h-full">
                 {post.featuredImage && (
@@ -235,6 +237,7 @@ function postsVariantC(props) {
                     <ImageBlock
                       {...post.featuredImage}
                       className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
+                      responsive={false}
                     />
                   </div>
                 )}
@@ -252,7 +255,7 @@ function postsVariantC(props) {
                     )}
                   </div>
                   <div className="mt-3">
-                    <div className="sb-component sb-component-block sb-component-link">
+                    <div className="wa-component wa-component-block wa-component-link">
                       <span>Read post</span>
                       <ArrowRightIcon className="fill-current h-5 w-5 ml-3" />
                     </div>

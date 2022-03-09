@@ -1,7 +1,7 @@
 import * as React from 'react';
-
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
 import { getComponent } from '../../components-registry';
+
 
 export default function PageLayout(props) {
   const { page, site } = props;
@@ -10,7 +10,7 @@ export default function PageLayout(props) {
 
   return (
     <BaseLayout page={page} site={site}>
-      <main id="main" className="sb-layout sb-page-layout">
+      <main id="main" className="wa-layout wa-page-layout">
         {page.title && (
           <h1 className="sr-only" data-sb-field-path="title">
             {page.title}

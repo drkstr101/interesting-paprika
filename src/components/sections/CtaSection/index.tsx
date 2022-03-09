@@ -1,10 +1,10 @@
-import * as React from 'react';
-import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
-
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import Markdown from 'markdown-to-jsx';
+import * as React from 'react';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import Action from '../../atoms/Action';
+
 
 export default function CtaSection(props) {
   const cssId = props.elementId || null;
@@ -21,9 +21,9 @@ export default function CtaSection(props) {
       id={cssId}
       {...getDataAttrs(props)}
       className={classNames(
-        'sb-component',
-        'sb-component-section',
-        'sb-component-cta-section',
+        'wa-component',
+        'wa-component-section',
+        'wa-component-cta-section',
         bgSize === 'inset' ? 'flex' : null,
         bgSize === 'inset' ? mapStyles({ justifyContent: sectionJustifyContent }) : null,
         sectionStyles.margin
@@ -113,7 +113,7 @@ function ctaBody(props) {
       {props.text && (
         <Markdown
           options={{ forceBlock: true, forceWrapper: true }}
-          className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, {
+          className={classNames('wa-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, {
             'mt-4': props.title
           })}
           data-sb-field-path=".text"

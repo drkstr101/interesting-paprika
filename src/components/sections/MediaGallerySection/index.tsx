@@ -68,9 +68,9 @@ export default function MediaGallerySection(props: MediaGallerySectionProps) {
       id={cssId}
       {...getDataAttrs(props)}
       className={classNames(
-        'sb-component',
-        'sb-component-section',
-        'sb-component-media-gallery-section',
+        'wa-component',
+        'wa-component-section',
+        'wa-component-media-gallery-section',
         colors,
         'flex',
         'flex-col',
@@ -148,7 +148,7 @@ function MediaGalleryImage({
   return (
     <ImageBlock
       {...image}
-      className={classNames('sb-media-gallery-image', 'w-full', {
+      className={classNames('wa-media-gallery-image', 'w-full', {
         'h-full absolute left-0 top-0 object-cover': aspectRatio !== 'auto',
         'transition-transform hover:scale-105': enableHover
       })}

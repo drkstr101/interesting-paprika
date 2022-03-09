@@ -14,7 +14,6 @@ install:
 
 build:
 	next build
-	next export
 
 start:
 	next dev

@@ -1,10 +1,10 @@
-import * as React from 'react';
 import classNames from 'classnames';
 import Markdown from 'markdown-to-jsx';
-
+import * as React from 'react';
 import { mapStylesToClassNames as mapStyles } from '../../../../utils/map-styles-to-class-names';
 import Action from '../../../atoms/Action';
 import ImageBlock from '../../../molecules/ImageBlock';
+
 
 export default function FeaturedItem(props) {
   const cssId = props.elementId || null;
@@ -14,10 +14,10 @@ export default function FeaturedItem(props) {
     <article
       id={cssId}
       className={classNames(
-        'sb-component',
-        'sb-component-block',
-        'sb-component-item',
-        props.enableHover ? 'sb-component-item-hover' : null,
+        'wa-component',
+        'wa-component-block',
+        'wa-component-item',
+        props.enableHover ? 'wa-component-item-hover' : null,
         styles.self?.padding,
         styles.self?.borderColor,
         styles.self?.borderStyle ? mapStyles({ borderStyle: styles.self?.borderStyle }) : 'border-none',
@@ -52,7 +52,7 @@ export default function FeaturedItem(props) {
       {props.text && (
         <Markdown
           options={{ forceBlock: true, forceWrapper: true }}
-          className={classNames('sb-markdown', {
+          className={classNames('wa-markdown', {
             'mt-4': props.title || props.subtitle
           })}
           data-sb-field-path=".text"

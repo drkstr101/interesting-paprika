@@ -1,10 +1,10 @@
-import * as React from 'react';
 import classNames from 'classnames';
-
-import Link from '../../atoms/Link';
-import { getComponent } from '../../components-registry';
+import * as React from 'react';
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import Link from '../../atoms/Link';
+import { getComponent } from '../../components-registry';
+
 
 export default function PostFeedLayout(props) {
   const { page, site } = props;
@@ -131,7 +131,7 @@ function PageLink({ pageIndex, buttonLabel, baseUrlPath }) {
   return (
     <Link
       href={urlPathForPageAtIndex(pageIndex, baseUrlPath)}
-      className="sb-component-button sb-component-button-secondary px-4 py-2 mx-2"
+      className="wa-component-button wa-component-button-secondary px-4 py-2 mx-2"
     >
       {buttonLabel}
     </Link>
@@ -140,7 +140,7 @@ function PageLink({ pageIndex, buttonLabel, baseUrlPath }) {
 
 function PageLinkDisabled({ buttonLabel }) {
   return (
-    <span key="next" className="sb-component-button sb-component-button-secondary opacity-25 px-4 py-2 mx-2">
+    <span key="next" className="wa-component-button wa-component-button-secondary opacity-25 px-4 py-2 mx-2">
       {buttonLabel}
     </span>
   );

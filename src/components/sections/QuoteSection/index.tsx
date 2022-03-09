@@ -1,9 +1,9 @@
-import * as React from 'react';
-import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
-
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import Markdown from 'markdown-to-jsx';
+import * as React from 'react';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+
 
 export default function QuoteSection(props) {
   const cssId = props.elementId || null;
@@ -17,9 +17,9 @@ export default function QuoteSection(props) {
       id={cssId}
       {...getDataAttrs(props)}
       className={classNames(
-        'sb-component',
-        'sb-component-section',
-        'sb-component-quote-section',
+        'wa-component',
+        'wa-component-section',
+        'wa-component-quote-section',
         colors,
         'flex',
         'flex-col',
@@ -70,7 +70,7 @@ function quoteContent(props) {
         <Markdown
           options={{ forceBlock: true, forceWrapper: true }}
           className={classNames(
-            'sb-markdown',
+            'wa-markdown',
             'text-3xl',
             'sm:text-4xl',
             styles.quote ? mapStyles(styles.quote) : null

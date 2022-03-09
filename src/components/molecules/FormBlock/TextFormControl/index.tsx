@@ -1,5 +1,5 @@
-import * as React from 'react';
 import classNames from 'classnames';
+import * as React from 'react';
 
 export default function TextFormControl(props) {
   const width = props.width || 'full';
@@ -13,7 +13,7 @@ export default function TextFormControl(props) {
   }
   return (
     <div
-      className={classNames('sb-form-control', {
+      className={classNames('wa-form-control', {
         'sm:col-span-2': width === 'full'
       })}
       data-sb-field-path={props['data-sb-field-path']}
@@ -21,7 +21,7 @@ export default function TextFormControl(props) {
       {props.label && (
         <label
           id={labelId}
-          className={classNames('sb-label', { 'sr-only': props.hideLabel })}
+          className={classNames('wa-label', { 'sr-only': props.hideLabel })}
           htmlFor={props.name}
           data-sb-field-path=".label .name#@for"
         >
@@ -30,7 +30,7 @@ export default function TextFormControl(props) {
       )}
       <input
         id={props.name}
-        className="sb-input"
+        className="wa-input"
         type="text"
         name={props.name}
         {...(props.placeholder ? { placeholder: props.placeholder } : null)}

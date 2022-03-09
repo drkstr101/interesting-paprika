@@ -1,6 +1,5 @@
-import * as React from 'react';
 import classNames from 'classnames';
-import Link from '../Link';
+import * as React from 'react';
 import Facebook from '../../svgs/facebook';
 import GitHub from '../../svgs/github';
 import Instagram from '../../svgs/instagram';
@@ -9,6 +8,7 @@ import Reddit from '../../svgs/reddit';
 import Twitter from '../../svgs/twitter';
 import Vimeo from '../../svgs/vimeo';
 import YouTube from '../../svgs/youtube';
+import Link from '../Link';
 
 const iconMap = {
   facebook: Facebook,
@@ -43,9 +43,9 @@ export default function Social(props) {
       href={url}
       aria-label={altText}
       id={cssId}
-      className={classNames('sb-component', 'sb-component-block', 'sb-component-social', cssClasses, {
-        'sb-component-social-primary': style === 'primary',
-        'sb-component-social-secondary': style === 'secondary'
+      className={classNames('wa-component', 'wa-component-block', 'wa-component-social', cssClasses, {
+        'wa-component-social-primary': style === 'primary',
+        'wa-component-social-secondary': style === 'secondary'
       })}
       data-sb-field-path={annotations.join(' ').trim()}
     >

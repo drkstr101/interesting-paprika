@@ -1,11 +1,11 @@
-import * as React from 'react';
 import classNames from 'classnames';
 import Markdown from 'markdown-to-jsx';
-
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import * as React from 'react';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import Action from '../../atoms/Action';
 import ImageBlock from '../../molecules/ImageBlock';
+
 
 export default function FeaturedPeopleSection(props) {
   const cssId = props.elementId || null;
@@ -19,9 +19,9 @@ export default function FeaturedPeopleSection(props) {
       id={cssId}
       {...getDataAttrs(props)}
       className={classNames(
-        'sb-component',
-        'sb-component-section',
-        'sb-component-featured-people-section',
+        'wa-component',
+        'wa-component-section',
+        'wa-component-featured-people-section',
         colors,
         'flex',
         'flex-col',
@@ -235,7 +235,7 @@ function peopleListVariantC(people, annotIndexStart = 0) {
         {person.bio && (
           <Markdown
             options={{ forceBlock: true, forceWrapper: true }}
-            className="sb-markdown"
+            className="wa-markdown"
             data-sb-field-path=".bio"
           >
             {person.bio}
