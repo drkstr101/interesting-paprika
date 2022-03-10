@@ -73,7 +73,8 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo-alt.png"
+            "url": "/images/logo-alt.png",
+            "responsive": true
         },
         "contacts": {
             "title": "Contact details",
