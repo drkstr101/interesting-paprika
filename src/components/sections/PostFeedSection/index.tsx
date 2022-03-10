@@ -137,7 +137,6 @@ function postsVariantA(props) {
                   {...post.featuredImage}
                   className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
                   data-sb-field-path="featuredImage"
-                  responsive={false}
                 />
               </div>
             )}
@@ -190,7 +189,6 @@ function postsVariantB(props) {
                 <ImageBlock
                   {...post.featuredImage}
                   className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
-                  responsive={false}
                 />
               </div>
             )}
@@ -237,7 +235,6 @@ function postsVariantC(props) {
                     <ImageBlock
                       {...post.featuredImage}
                       className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
-                      responsive={false}
                     />
                   </div>
                 )}
