@@ -1,12 +1,13 @@
 const sourcebit = require('sourcebit');
 const sourcebitConfig = require('./sourcebit.js');
+const withPreact = require('next-plugin-preact');
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
   enabled: process.env.ANALYZE === 'true'
 });
 
 sourcebit.fetch(sourcebitConfig);
 
-module.exports = withBundleAnalyzer({
+const nextConfig = {
   trailingSlash: true,
   experimental: {
     // Prefer loading of ES Modules over CommonJS
@@ -43,4 +44,6 @@ module.exports = withBundleAnalyzer({
       'localhost'
     ]
   }
-});
+};
+
+module.exports = withBundleAnalyzer(withPreact(nextConfig));

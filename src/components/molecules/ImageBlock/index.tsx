@@ -27,7 +27,7 @@ export default function ImageBlock(props) {
   if (responsive && meta) {
     const maxWidth = props.maxWidth ?? undefined;
     const opacity = imageOpacity * 0.01;
-    console.log('Responsive image enabled for ', filename);
+    // console.log('Responsive image enabled for ', filename);
     return (
       <div style={{ maxWidth, opacity }}>
         <NextImage
